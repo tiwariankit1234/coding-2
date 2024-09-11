@@ -1,14 +1,13 @@
 class Solution {
 public:
     int minBitFlips(int start, int goal) {
+        // XOR to find differing bits
+        int xorresult=start^goal;
         int count=0;
-        while(true and (start!=0)||(goal!=0)){
-            int laststartdigit=start&1;
-            int lastgoaldigit=goal&1;
-            if(laststartdigit!=lastgoaldigit)count++;
-            start=start>>1;
-            goal=goal>>1;
+        while(xorresult){
+            count+=xorresult&1;
+            xorresult>>=1;
         }
-        return count;
+           return count;
     }
 };
