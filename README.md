@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tiwariankit1234/coding-2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/tiwariankit1234/coding-2/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tiwariankit1234/coding-2/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/tiwariankit1234/coding-2/tree/master/0128-longest-consecutive-sequence) |
+| [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tiwariankit1234/coding-2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/tiwariankit1234/coding-2/tree/master/2411-spiral-matrix-iv) |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
