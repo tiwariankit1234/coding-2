@@ -58,9 +58,7 @@ public:
             head = NULL;
             rear = NULL;
         } else {
-            Node* nextNode = head->next;
-            delete head;
-            head = nextNode;
+           head=head->next;
         }
         size--;
         return true;
