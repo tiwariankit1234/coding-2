@@ -42,7 +42,9 @@ public:
             head = new Node(value);
             rear = head;
         } else {
-            Node* newNode = new Node(value, NULL, rear);
+            Node* newNode = new Node(value);
+            newNode->prev=rear;
+            newNode->next=NULL;
             rear->next = newNode;
             rear = newNode;
         }
