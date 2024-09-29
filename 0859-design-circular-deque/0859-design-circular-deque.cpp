@@ -30,7 +30,7 @@ public:
             Node* newHead = new Node(value);
             newHead->next = head;
             head->prev = newHead;
-            head = newHead;
+            head =head->prev;
         }
         size++;
         return true;
