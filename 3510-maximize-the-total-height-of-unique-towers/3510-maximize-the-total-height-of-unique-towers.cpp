@@ -16,8 +16,9 @@ public:
             //     currentheight-=1;
             // }
             if(currentheight<=0)return -1;
+              previousheight=currentheight;
             maxheight+=currentheight;
-           previousheight=currentheight;
+          
         
             }
             return maxheight;
