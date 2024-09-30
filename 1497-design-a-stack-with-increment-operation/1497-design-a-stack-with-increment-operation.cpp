@@ -1,16 +1,15 @@
 class CustomStack {
 public:
-
+vector<int>v,incremented;
 int size;
 int capacity;
-vector<int>v;
+
 
     CustomStack(int maxSize) {
        size=0;
        capacity=maxSize;
        v.resize(maxSize);
-    
-        
+       incremented.resize(maxSize);
     }
     
     
@@ -23,13 +22,25 @@ vector<int>v;
     }
     
     int pop() {
+        if(size>=0){
         if(isEmpty())return -1;
         int x=v[size-1];
+        int y=incremented[size-1];
+        // cout<<y<<endl;
+         if(size>=2){
+        incremented[size-2]+=y;
+         }
+
        
-        v.pop_back();
-         size--;
-        return x;
+         v[size-1]=0;
+        incremented[size-1]=0;
+       size--;
+     
+        return x+y;
+        }
+        return -1;
     }
+    
 
    bool isFull(){
     return size==capacity;
@@ -40,11 +51,14 @@ vector<int>v;
    }
     
     void increment(int k, int val) {
-        for(int i=0;i<min(k,size);i++){
-        v[i]+=val;
+        if(size>=1){
+        int t=min(size,k);
+        incremented[t-1]+=val;
         }
         return ;
-    }
+      }
+    
+
 };
 
 /**
