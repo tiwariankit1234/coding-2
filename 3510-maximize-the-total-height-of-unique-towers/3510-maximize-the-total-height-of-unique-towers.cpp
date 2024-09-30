@@ -11,10 +11,10 @@ public:
         ll maxheight=height[n-1];
 
         for(ll i=n-2;i>=0;i--){
-          int currentheight=min(height[i],previousheight);
-            if(currentheight==previousheight){
-                currentheight-=1;
-            }
+          int currentheight=min(height[i],previousheight-1);
+            // if(currentheight==previousheight){
+            //     currentheight-=1;
+            // }
             if(currentheight<=0)return -1;
             maxheight+=currentheight;
            previousheight=currentheight;
