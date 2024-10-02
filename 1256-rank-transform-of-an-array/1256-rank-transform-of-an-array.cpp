@@ -44,22 +44,45 @@ public:
 
         //second approach
             
-         int n=arr.size();   
-        unordered_map<int,int>mp;
-        set<int>s(arr.begin(),arr.end());
+        //  int n=arr.size();   
+        // unordered_map<int,int>mp;
+        // set<int>s(arr.begin(),arr.end());
 
-         int rank=1;
-        for(int num:s){
-            mp.insert({num,rank});
-            rank++;
-        }
+        //  int rank=1;
+        // for(int num:s){
+        //     mp.insert({num,rank});
+        //     rank++;
+        // }
+
+        // for(int i=0;i<n;i++){
+        //     int num=arr[i];
+        //     arr[i]=mp[arr[i]];
+        // }
+
+        // return arr;
+
+        // third approach
+
+        map<int,vector<int>>mp;
+        
+        int n=arr.size();
 
         for(int i=0;i<n;i++){
             int num=arr[i];
-            arr[i]=mp[arr[i]];
+            mp[num].push_back(i);
         }
 
+        int rank=1;
+
+        for(auto it:mp){
+            for(auto index:it.second){
+             arr[index]=rank;
+            }
+
+            rank++;
+        }
         return arr;
+
 
     }
 };
