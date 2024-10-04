@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/tiwariankit1234/coding-2/tree/master/1694-make-sum-divisible-by-p) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/tiwariankit1234/coding-2/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tiwariankit1234/coding-2/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/tiwariankit1234/coding-2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/tiwariankit1234/coding-2/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/tiwariankit1234/coding-2/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tiwariankit1234/coding-2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/tiwariankit1234/coding-2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/tiwariankit1234/coding-2/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/tiwariankit1234/coding-2/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/tiwariankit1234/coding-2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/tiwariankit1234/coding-2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
