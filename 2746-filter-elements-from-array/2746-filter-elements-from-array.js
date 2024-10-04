@@ -10,9 +10,9 @@ var filter = function(arr, fn) {
 
     for(let i=0;i<n;i++){
     if(fn(arr[i],i))
-    newArray[k++]=arr[i]
+    arr[k++]=arr[i]
     }
     
-
-    return newArray;
+  arr.length=k;
+    return arr;
 };
