@@ -1,29 +1,52 @@
+#include <vector>
+#include <string>
+
 class Solution {
 public:
-    bool checkInclusion(string s1, string s2) {
-        int n=s1.size();
-        int k=s2.size();
+    bool checkInclusion(std::string s1, std::string s2) {
+        if (s1.length() > s2.length())
+            return false;
 
-         vector<int>arr1(26);
-         vector<int>arr2(26);
+        std::vector<int> s1arr(26, 0);
+        std::vector<int> s2arr(26, 0);
 
-         for(int i=0;i<n;i++)
-         arr1[s1[i]-'a']++;
-             
-         int i=0,j=0;
-         int count=0;
-         while(j<k){
-            arr2[s2[j]-'a']++;
-            count++;
-            if(count>n){
-                arr2[s2[i]-'a']--;
-                i++;
-                count=n;
+        // Count frequency of characters in s1 and the first window of s2
+        for (int i = 0; i < s1.length(); i++) {
+            s1arr[s1[i] - 'a']++;
+            s2arr[s2[i] - 'a']++;
+        }
+
+        int count = 0;
+        for (int i = 0; i < 26; i++) {
+            if (s1arr[i] == s2arr[i])
+                count++;
+        }
+
+        // Sliding window over s2
+        for (int i = 0; i < s2.length() - s1.length(); i++) {
+            if (count == 26)
+                return true;
+
+            int r = s2[i + s1.length()] - 'a'; // New character in the window
+            int l = s2[i] - 'a';               // Old character out of the window
+
+            // Update the new character count
+            s2arr[r]++;
+            if (s2arr[r] == s1arr[r]) {
+                count++;
+            } else if (s2arr[r] == s1arr[r] + 1) {
+                count--;
             }
-            if(arr1==arr2)return true;
-            j++;
 
-         }
-         return false;
+            // Update the old character count
+            s2arr[l]--;
+            if (s2arr[l] == s1arr[l]) {
+                count++;
+            } else if (s2arr[l] == s1arr[l] - 1) {
+                count--;
+            }
+        }
+
+        return count == 26;
     }
 };
