@@ -46,7 +46,7 @@ public:
                cout<<dq1.size()<<" "<<dq2.size()<<endl;
 
          // see the front
-         while(!dq1.empty() and !dq2.empty()){
+         while(dq1.size() and dq2.size()){
             string first=dq1.front();
             string second=dq2.front();
             if(first!=second)break;
@@ -60,7 +60,7 @@ public:
              
                cout<<dq1.size()<<" "<<dq2.size()<<endl;
           // see the back
-            while(!dq1.empty() and !dq2.empty()){
+            while(dq1.size() and dq2.size()){
             string first=dq1.back();
             string second=dq2.back();
             if(first!=second)break;
