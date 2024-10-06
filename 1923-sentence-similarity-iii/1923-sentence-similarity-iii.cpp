@@ -1,69 +1,80 @@
-#include <iostream>
-#include <deque>
-#include <sstream>
-using namespace std;
-
 class Solution {
 public:
     bool areSentencesSimilar(string s1, string s2) {
-        int m = s1.size();
-        int n = s2.size();
+        int m=s1.size();
+        int n=s2.size();
 
-        deque<string> dq1, dq2;
-        string s = "";
+        deque<string>dq1,dq2;
+            
+            string s="";
+        for(int i=0;i<m;i++){
+         if(s1[i]!=' ')
+            s+=s1[i];
+         
+         else{
+            dq1.push_back(s);
+            s="";
+         }
+    }  
+    dq1.push_back(s);
+        
+        
+          s="";
+        for(int i=0;i<n;i++){
+         if(s2[i]!=' ')
+            s+=s2[i];
+         
+         else{
+            dq2.push_back(s);
+            s="";
+         }
+    }  
 
-        // Split the first sentence into words
-        for (int i = 0; i < m; i++) {
-            if (s1[i] != ' ') {
-                s += s1[i];
-            } else if (!s.empty()) {
-                dq1.push_back(s);
-                s = "";
-            }
-        }
-        if (!s.empty()) dq1.push_back(s); // Push the last word
+    dq2.push_back(s);
 
-        // Reset and split the second sentence into words
-        s = "";
-        for (int i = 0; i < n; i++) {
-            if (s2[i] != ' ') {
-                s += s2[i];
-            } else if (!s.empty()) {
-                dq2.push_back(s);
-                s = "";
-            }
-        }
-        if (!s.empty()) dq2.push_back(s); // Push the last word
+    // for(auto it:s1)
+    // cout<<it<<" ";
 
-        cout << dq1.size() << " " << dq2.size() << endl;
+    // cout<<endl;
 
-        // Compare from the front
-        while (!dq1.empty() && !dq2.empty()) {
-            string first = dq1.front();
-            string second = dq2.front();
-            if (first != second) break;
-            else {
+    //  for(auto it:s2)
+    // cout<<it<<" ";
+
+  
+
+          
+               cout<<dq1.size()<<" "<<dq2.size()<<endl;
+
+         // see the front
+         while(!dq1.empty() and !dq2.empty()){
+            string first=dq1.front();
+            string second=dq2.front();
+            if(first!=second)break;
+            else
+            {
+               
                 dq1.pop_front();
                 dq2.pop_front();
             }
-        }
-
-        cout << dq1.size() << " " << dq2.size() << endl;
-
-        // Compare from the back
-        while (!dq1.empty() && !dq2.empty()) {
-            string first = dq1.back();
-            string second = dq2.back();
-            if (first != second) break;
-            else {
+         }
+             
+               cout<<dq1.size()<<" "<<dq2.size()<<endl;
+          // see the back
+            while(!dq1.empty() and !dq2.empty()){
+            string first=dq1.back();
+            string second=dq2.back();
+            if(first!=second)break;
+            else
+            {
                 dq1.pop_back();
                 dq2.pop_back();
             }
-        }
+         }
 
-        // Check if all remaining words in the longer sentence can be matched
-        return (dq1.empty() || dq2.empty());
+        //  cout<<dq1.size()<<" "<<dq2.size()<<endl;
+
+         return (dq1.empty() || dq2.empty());
+
+
     }
 };
-
-// Example usage
