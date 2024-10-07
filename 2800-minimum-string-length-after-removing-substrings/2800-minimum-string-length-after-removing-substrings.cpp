@@ -1,27 +1,22 @@
 class Solution {
 public:
     int minLength(string s) {
-        int n=s.size();
-        stack<char>st;
-        st.push(s[0]);
-
-        char ch;
-
-        for(int i=1;i<n;i++){
-            if(!st.empty())
-            ch=st.top();
-            else{
-                ch=' ';
+        while (true) {
+            int n = s.size();
+            bool found = false;  // To check if we found and erased any "AB" or "CD"
+            
+            for (int j = 0; j < n - 1; ++j) {
+                if ((s[j] == 'A' && s[j + 1] == 'B') || (s[j] == 'C' && s[j + 1] == 'D')) {
+                    s.erase(j, 2);  // Erase the pair of characters
+                    found = true;
+                    break;  // Break the loop and restart to handle the updated string
+                }
             }
-
-            if((ch=='A' and s[i]=='B') || (ch=='C' and s[i]=='D')){
-                st.pop();
-            }
-            else{
-                st.push(s[i]);
-            }
-            cout<<st.size()<<" "<<i<<endl;
+            
+            // If no "AB" or "CD" was found, exit the loop
+            if (!found) break;
         }
-        return st.size();
+        
+        return s.size();  // Return the final size of the string
     }
 };
