@@ -1,52 +1,48 @@
-
-
 class Solution {
 public:
-  vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
-        unordered_set<int> suspiciousMethods;
-        suspiciousMethods.insert(k);
-        bool changed = true;
+    // DFS to find all methods that are suspicious (reachable from method k)
+    void dfs(int i, const std::vector<int> adj[], std::unordered_set<int>& suspicious) {
+        suspicious.insert(i); // Mark this method as suspicious
 
-        // Step 1: Keep marking suspicious methods while changes are happening
-        while (changed) {
-            changed = false;
-            for (const auto& invocation : invocations) {
-                int a = invocation[0]; // Method a invokes method b
-                int b = invocation[1];
-                if (suspiciousMethods.count(a) && !suspiciousMethods.count(b)) {
-                    suspiciousMethods.insert(b);
-                    changed = true; // A new method was marked as suspicious, so we continue
-                }
+        for (auto child : adj[i]) {
+            if (suspicious.find(child) == suspicious.end()) {
+                dfs(child, adj, suspicious); // Recursively mark all invoked methods
             }
         }
-
-        // Step 2: Check if any method outside suspicious methods invokes a suspicious method
-        for (const auto& invocation : invocations) {
-            int a = invocation[0];
-            int b = invocation[1];
-            if (!suspiciousMethods.count(a) && suspiciousMethods.count(b)) {
-                // If an external method invokes a suspicious method, we can't remove anything
-                return createArray(n);
-            }
-        }
-
-       
-       vector<int> remainingMethods;
-        for (int i = 0; i < n; ++i) {
-            if (!suspiciousMethods.count(i)) {
-                remainingMethods.push_back(i);
-            }
-        }
-
-        return remainingMethods;
     }
 
+    std::vector<int> remainingMethods(int n, int k, const std::vector<std::vector<int>>& invocations) {
+        std::vector<int> adj[n]; // Adjacency list to represent the graph
+        std::unordered_set<int> suspicious; // Set to track suspicious methods
 
-    vector<int> createArray(int n) {
-        std::vector<int> result(n);
-        for (int i = 0; i < n; ++i) {
-            result[i] = i;
+        // Build the adjacency list
+        for (const auto& it : invocations) {
+            adj[it[0]].push_back(it[1]);
         }
-        return result;
+
+        // Perform DFS starting from method k to find all suspicious methods
+        dfs(k, adj, suspicious);
+
+        // Check if any non-suspicious method invokes a suspicious method
+        for (const auto& it : invocations) {
+            int invoker = it[0], invoked = it[1];
+            if (suspicious.find(invoked) != suspicious.end() && suspicious.find(invoker) == suspicious.end()) {
+                vector<int>ans;
+                for(int i=0;i<n;i++){
+                    ans.push_back(i);// Return all methods if any suspicious is invoked by a non-suspicious
+            }
+            return ans;
+        }
+        }   
+
+        // Collect remaining methods that are not in the suspicious set
+        std::vector<int> remaining;
+        for (int i = 0; i < n; ++i) {
+            if (suspicious.find(i) == suspicious.end()) {
+                remaining.push_back(i);
+            }
+        }
+
+        return remaining; // Return the remaining methods
     }
 };
