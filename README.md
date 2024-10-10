@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0059-spiral-matrix-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/tiwariankit1234/coding-2/tree/master/0278-first-bad-version) |
 | [0436-find-right-interval](https://github.com/tiwariankit1234/coding-2/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0658-find-k-closest-elements) |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3561-remove-methods-from-project](https://github.com/tiwariankit1234/coding-2/tree/master/3561-remove-methods-from-project) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
