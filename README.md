@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/tiwariankit1234/coding-2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/tiwariankit1234/coding-2/tree/master/0859-design-circular-deque) |
+| [1002-maximum-width-ramp](https://github.com/tiwariankit1234/coding-2/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/tiwariankit1234/coding-2/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/tiwariankit1234/coding-2/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tiwariankit1234/coding-2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/tiwariankit1234/coding-2/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tiwariankit1234/coding-2/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tiwariankit1234/coding-2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/tiwariankit1234/coding-2/tree/master/1002-maximum-width-ramp) |
 ## Memoization
 |  |
 | ------- |
