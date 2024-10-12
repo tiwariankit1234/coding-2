@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/tiwariankit1234/coding-2/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/tiwariankit1234/coding-2/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/tiwariankit1234/coding-2/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/tiwariankit1234/coding-2/tree/master/0214-shortest-palindrome) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tiwariankit1234/coding-2/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0078-subsets) |
 ## Math
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tiwariankit1234/coding-2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/tiwariankit1234/coding-2/tree/master/0139-word-break) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
