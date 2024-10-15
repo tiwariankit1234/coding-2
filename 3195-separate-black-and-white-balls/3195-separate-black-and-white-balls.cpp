@@ -2,20 +2,19 @@ class Solution {
 public:
     long long minimumSteps(string s) {
         int n=s.size();
-        vector<int>v(n,0);
-        long long count=0;
-        for(int i=n-1;i>=0;i--){
-            if(s[i]=='0'){
-                count++;
-            }
-            v[i]=count;
-        }
-      long long ans=0;
+       long long countone=0;
+        long long  swap=0;
+
+        // 0 ke pehle kitne 1 hain vo count karo 
+        // aur jab 0 aaye toh swap me add kar do
         for(int i=0;i<n;i++){
-            if(s[i]!='0'){
-              ans+=v[i];
+            if(s[i]=='1'){
+                countone++;
+            }
+            else{
+                swap+=countone;
             }
         }
-        return ans;
+        return swap;
     }
 };
