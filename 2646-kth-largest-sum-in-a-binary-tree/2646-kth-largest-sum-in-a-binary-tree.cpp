@@ -1,32 +1,77 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+
 class Solution {
 public:
-    long kthLargestLevelSum(TreeNode* root, int k) {
-        // max heap
-        priority_queue<long> pq;
 
-        queue<TreeNode*> bfsQueue;
-        bfsQueue.push(root);
-        while (!bfsQueue.empty()) {
-            // level order traversal
-            long size = bfsQueue.size();
-            long sum = 0;
+ priority_queue<long>pq;
+
+void levelOrder(TreeNode* root) {
+        // Create a 2D vector to store levels
+        vector<vector<int>> ans; 
+        if (root == nullptr) {
+            // If the tree is empty,
+            // return an empty vector
+            return ; 
+        }
+        
+        // Create a queue to store nodes
+        // for level-order traversal
+        queue<TreeNode*> q; 
+        // Push the root node to the queue
+        q.push(root); 
+
+        while (!q.empty()) {
+            // Get the size of the current level
+            int size = q.size(); 
+            // Create a vector to store
+            // nodes at the current level
+           long levelsum=0;
+
             for (int i = 0; i < size; i++) {
-                TreeNode* poppedNode = bfsQueue.front();
-                bfsQueue.pop();
-                sum += poppedNode->val;
-                if (poppedNode->left != nullptr) {
-                    // add left child
-                    bfsQueue.push(poppedNode->left);
+                // Get the front node in the queue
+                TreeNode* node = q.front(); 
+                // Remove the front node from the queue
+                q.pop(); 
+                // Store the node value
+                // in the current level vector
+                levelsum+=node->val;
+
+                // Enqueue the child nodes if they exist
+                if (node->left != nullptr) {
+                    q.push(node->left);
                 }
-                if (poppedNode->right != nullptr) {
-                    // add right child
-                    bfsQueue.push(poppedNode->right);
+                if (node->right != nullptr) {
+                    q.push(node->right);
                 }
             }
-            pq.push(sum);
+            // Store the current level
+            // in the answer vector
+           
+         
+            pq.push(levelsum);
         }
-        if (pq.size() < k) return -1;
-        for (int i = 0; i < k - 1; i++) pq.pop();
-        return pq.top();
+        // Return the level-order
+        // traversal of the tree
+    
+    }
+
+
+    long long kthLargestLevelSum(TreeNode* root, int k) {
+       levelOrder(root);
+       if(pq.size()<k)return -1;
+       int ans=0;
+      for(int i=0;i<k-1;i++)
+      pq.pop();
+       return pq.top();
     }
 };
