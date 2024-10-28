@@ -1,44 +1,43 @@
-#include <vector>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
 public:
     int maximalRectangle(vector<vector<char>>& matrix) {
-        if (matrix.empty()) return 0;
+        int rows=matrix.size();
+        int cols=matrix[0].size();
 
-        int maxArea = 0;
-        int rows = matrix.size();
-        int cols = matrix[0].size();
+        int maxarea=0;
 
-        // Iterate over all possible top-left corners
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                // Only start if the cell contains '1'
-                if (matrix[i][j] == '1') {
-                    // Expand the rectangle from (i, j) as the top-left corner
-                    int minWidth = cols;
-
-                    // Try to find the maximum rectangle starting from (i, j)
-                    for (int k = i; k < rows; k++) {
-                        if (matrix[k][j] == '0') break; // If we encounter a '0', stop expanding
-
-                        // Update the minimum width for the current row
-                        int width = 0;
-                        while (width + j < cols && matrix[k][j + width] == '1') {
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
+                  int minwidth=cols;
+                if(matrix[i][j]=='1'){
+                    int length=0;
+                   
+                    for(int k=i;k<rows;k++){
+                        if(matrix[k][j]=='0'){
+                        break;
+                        } 
+                           length++;
+                             
+                           int width=0;   
+                          for(int l=j;l<cols;l++){
+                            if(matrix[k][l]=='1')
                             width++;
-                        }
-                        minWidth = min(minWidth, width);
+                            else{
+                               break; 
+                            }
+                          }
+                          minwidth=min(width,minwidth);
 
-                        // Calculate area of the rectangle with top-left (i, j) and bottom-right (k, j + minWidth - 1)
-                        int area = minWidth * (k - i + 1);
-                        maxArea = max(maxArea, area);
+                         int area=minwidth*length;
+                        // cout<<area<<" "<<i<<" "<<j<<" "<<endl;
+                        maxarea=max(area,maxarea);
+                        
+
+                        
                     }
                 }
             }
         }
-
-        return maxArea;
+        return maxarea;
     }
 };
