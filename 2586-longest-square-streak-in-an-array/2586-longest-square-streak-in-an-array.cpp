@@ -5,12 +5,11 @@ public:
     int longestSquareStreak(vector<int>& nums) {
        ll n=nums.size();
 
-       sort(nums.begin(),nums.end());
+    
 
-        unordered_set<ll>s;
+        unordered_set<ll>s(nums.begin(),nums.end());
 
-        for(auto it:nums)
-        s.insert(it);
+       
          
          ll maxlength=-1;
         for(ll i=0;i<n;i++){
