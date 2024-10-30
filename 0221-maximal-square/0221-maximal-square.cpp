@@ -1,67 +1,107 @@
 class Solution {
 public:
 
-    int largestSquareArea(vector<int>& heights) {
-        int n = heights.size();
-        vector<int> prevSmaller(n), nextSmaller(n);
-        stack<int> st;
+void prev(vector<int>& arr,int n,vector<int>&prevsmaller){
+     stack<int>st;
+     st.push(0);
+    prevsmaller[0]=-1;     
 
-        // Calculate previous smaller elements
-        for (int i = 0; i < n; i++) {
-            while (!st.empty() && heights[st.top()] >= heights[i]) {
-                st.pop();
-            }
-            prevSmaller[i] = st.empty() ? -1 : st.top();
-            st.push(i);
+    for(int i=1;i<n;i++){
+        while(!st.empty() and arr[st.top()]>=arr[i]){
+            st.pop();
         }
-
-        // Clear stack for next smaller elements
-        while (!st.empty()) st.pop();
-
-        // Calculate next smaller elements
-        for (int i = n - 1; i >= 0; i--) {
-            while (!st.empty() && heights[st.top()] >= heights[i]) {
-                st.pop();
-            }
-            nextSmaller[i] = st.empty() ? n : st.top();
-            st.push(i);
+        if(st.size()==0)prevsmaller[i]=-1;
+        else{
+            prevsmaller[i]=st.top();
         }
+        st.push(i);
+    }
+      for(auto it:prevsmaller)
+        cout<<it<<" ";
 
-        int maxSide = 0;
+       cout<<endl;
+}
 
-        // Calculate max square side length
-        for (int i = 0; i < n; i++) {
-            int height = heights[i];
-            int width = nextSmaller[i] - prevSmaller[i] - 1;
-            int side = min(height, width);
-            maxSide = max(maxSide, side);
+void next(vector<int>& arr,int n,vector<int>&nextsmaller){
+    stack<int>st;
+    st.push(n-1);
+    nextsmaller[n-1]=n;
+
+    for(int i=n-2;i>=0;i--){
+        while(!st.empty() and arr[st.top()]>=arr[i]){
+            st.pop();
         }
+        if(st.size()==0)nextsmaller[i]=n;
+        else{
+            nextsmaller[i]=st.top();
+        }
+        st.push(i);
+    }
+    //  cout<<"5"<<endl;
+    for(auto it:nextsmaller)
+        cout<<it<<" ";
 
-        // Return the area of the largest square
-        return maxSide * maxSide;
+       cout<<endl;
+}
+
+ 
+    int largestRectangleArea(vector<int>& heights) {
+         int n=heights.size();
+       
+         vector<int>prevsmaller(n);
+         prev(heights,n,prevsmaller);
+        
+         vector<int>nextsmaller(n);
+         next(heights,n,nextsmaller);
+          
+           int maxarea=INT_MIN;
+         for(int i=0;i<n;i++){
+            int currentheight=heights[i];
+            int width=nextsmaller[i]-prevsmaller[i]-1;
+            int side=min(currentheight,width);
+            maxarea=max(maxarea,side*side);
+         }
+         return maxarea;
     }
 
-    int maximalSquare(vector<vector<char>>& matrix) {
-        int m = matrix.size();
-        int n = matrix[0].size();
-        vector<vector<int>> heights(m, vector<int>(n, 0));
 
-        // Build height matrix
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == '1') {
-                    heights[i][j] = (i == 0) ? 1 : heights[i - 1][j] + 1;
+
+
+    int maximalRectangle(vector<vector<char>>& matrix) {
+        int m=matrix.size();
+        int n=matrix[0].size();
+
+        vector<vector<int>>newmatrix(m,vector<int>(n,0));
+
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(i==0){
+                    newmatrix[i][j]=matrix[i][j]-'0';
+                }
+                else if(matrix[i][j]=='1'){
+                    newmatrix[i][j]+=newmatrix[i-1][j]+1;
+                    // cout<<i<<" "<<j<<endl;
                 }
             }
         }
 
-        int maxSquareArea = 0;
-
-        // Calculate max square area row by row
-        for (int i = 0; i < m; i++) {
-            maxSquareArea = max(maxSquareArea, largestSquareArea(heights[i]));
+        // for(auto it:newmatrix){
+        //     for(auto t:it){
+        //         cout<<t<<" ";
+        //     }
+        //     cout<<endl;
+        // }
+     int maxarea=0;
+        for(auto it:newmatrix){
+       maxarea=max(maxarea,largestRectangleArea(it));
         }
+        return maxarea;
+    }
 
-        return maxSquareArea;
+
+
+
+    int maximalSquare(vector<vector<char>>& matrix) {
+        return maximalRectangle(matrix);
     }
 };
