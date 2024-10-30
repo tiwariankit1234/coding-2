@@ -69,7 +69,9 @@ public:
 
          cout<<endl;
         for(int i=0;i<n;i++){
+            if(dp1[i]>1 and dp2[i]>1){
             minimumsteps=min(minimumsteps,n+1-(dp1[i]+dp2[i]));
+            }
         }
          
          return minimumsteps;
