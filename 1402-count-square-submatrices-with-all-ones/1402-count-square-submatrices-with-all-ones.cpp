@@ -1,41 +1,37 @@
 class Solution {
 public:
-    int check( int steps, int m, int n, vector<vector<int>>& arr) {
-        int uppercount=0;
+    int countSquares(vector<vector<int>>& matrix) {
+        int rows=matrix.size();
+        int cols=matrix[0].size();
 
-        for(int i=0;i<=(m-steps);i++){
-            for(int j=0;j<=(n-steps);j++){
-            bool isSquare=true;
+        vector<vector<int>>dp(rows+1,vector<int>(cols+1,0));
 
+        for(int j=0;j<cols;j++)
+        {
+            if(matrix[0][j]==1)
+            dp[0][j]=1;
+        }
 
-            for(int x=i;x<i+steps;x++){
-                for(int y=j;y<j+steps;y++){
-                    if(arr[x][y]!=1)
-                    {
-                        isSquare=false;
-                        break;
-                    }
+        for(int i=0;i<rows;i++)
+        {
+            if(matrix[i][0]==1)
+            dp[i][0]=1;
+        }
+
+        for(int i=1;i<rows;i++){
+            for(int j=1;j<cols;j++){
+                if(matrix[i][j]==1){
+                    dp[i][j]=1+min({dp[i-1][j-1],dp[i-1][j],dp[i][j-1]});
                 }
-                if(isSquare==false)break;
-            }
-            if(isSquare)uppercount++;
             }
         }
-        return uppercount;
-    }
 
-    int countSquares(vector<vector<int>>& arr) {
-        int m = arr.size();
-        int n = arr[0].size();
-
-        int maxsteps = min(m, n);  // Maximum size for square submatrices
-        int count = 0;
-        
-        // Check for all squares of size 1x1, 2x2, ..., up to maxSteps x maxSteps
-       for(int steps=1;steps<=maxsteps;steps++){
-        count+=check(steps,m,n,arr);
-       }
-        
-        return count;
+      int count=0;
+      for(auto it:dp){
+        for(auto k:it){
+            count+=k;
+        }
+      }
+      return count;
     }
 };
