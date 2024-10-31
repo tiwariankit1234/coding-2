@@ -9,7 +9,7 @@ public:
      ll f(int robotidx,int factoryidx){
      
      
-     if(robotidx<0)return 0;
+     if(robotidx<0 )return 0;
      
      if(factoryidx<0)return 1e12;
       
@@ -44,7 +44,7 @@ public:
 
         // cout<<endl;
 
-        // cout<<robot.size()-1<<" "<<newfactory.size()-1<<endl;
+     cout<<robot.size()-1<<" "<<newfactory.size()-1<<endl;
         return f(robot.size()-1,newfactory.size()-1);
     }
 };
