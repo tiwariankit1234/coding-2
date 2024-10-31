@@ -1,5 +1,5 @@
 #define ll long long 
-ll dp[103][10000];
+ll dp[103][10000];  // ye second wali idx jayegi factory length *limit length because we are creating new vector new factory jisme har indices ki frequency ke according vector bana rahe hai
 class Solution {
 public:
     vector<int>newfactory;
