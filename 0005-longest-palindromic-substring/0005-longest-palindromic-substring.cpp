@@ -2,7 +2,7 @@ class Solution {
 public:
     string longestPalindrome(string s) {
         int n=s.size();
-        bool dp[1002][1002]{false};
+        bool dp[1002][1002]={false};
      
        pair<int,int>ans;
         for(int i=0;i<n;i++){
