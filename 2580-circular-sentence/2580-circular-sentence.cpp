@@ -10,20 +10,17 @@ public:
         }
        
        int n=ans.size();
+
+       char last=ans[0].back();
         for(int i=1;i<n;i++){
-           string currentstring=ans[i];
-           string previousstring=ans[i-1];
-
-           if(currentstring[0]!=previousstring[previousstring.size()-1])
-           return false;
-
+           
+          if(ans[i].front()!=last)return false;
+  
+         last=ans[i].back();
 
         }
 
-        string laststring=ans[ans.size()-1];
-        string firststring=ans[0];
-
-        if(firststring[0]!=laststring[laststring.size()-1])
+        if(ans[0].front()!=ans[ans.size()-1].back())
         return false;
 
         return true;
