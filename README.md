@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/tiwariankit1234/coding-2/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/tiwariankit1234/coding-2/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -426,8 +427,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/tiwariankit1234/coding-2/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/tiwariankit1234/coding-2/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2677-cousins-in-binary-tree-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
