@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tiwariankit1234/coding-2/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/tiwariankit1234/coding-2/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/tiwariankit1234/coding-2/tree/master/0214-shortest-palindrome) |
+| [0402-remove-k-digits](https://github.com/tiwariankit1234/coding-2/tree/master/0402-remove-k-digits) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/tiwariankit1234/coding-2/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/tiwariankit1234/coding-2/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tiwariankit1234/coding-2/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/tiwariankit1234/coding-2/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/tiwariankit1234/coding-2/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/tiwariankit1234/coding-2/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tiwariankit1234/coding-2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tiwariankit1234/coding-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tiwariankit1234/coding-2/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/tiwariankit1234/coding-2/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/tiwariankit1234/coding-2/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tiwariankit1234/coding-2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/tiwariankit1234/coding-2/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/tiwariankit1234/coding-2/tree/master/1197-parsing-a-boolean-expression) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tiwariankit1234/coding-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tiwariankit1234/coding-2/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/tiwariankit1234/coding-2/tree/master/0402-remove-k-digits) |
 | [1002-maximum-width-ramp](https://github.com/tiwariankit1234/coding-2/tree/master/1002-maximum-width-ramp) |
 ## Memoization
 |  |
