@@ -28,14 +28,31 @@
 // };
 
 
-class Solution {
-public:
-    TreeNode* searchBST(TreeNode* root, int val) {
-        if(root==NULL || root->val==val)return root;
+// class Solution {
+// public:
+//     TreeNode* searchBST(TreeNode* root, int val) {
+//         if(root==NULL || root->val==val)return root;
       
-       return root->val>val? searchBST(root->left,val):searchBST(root->right,val);
+//        return root->val>val? searchBST(root->left,val):searchBST(root->right,val);
 
-    }
+//     }
     
+// };
+
+class Solution {
+    public:
+    TreeNode* searchBST(TreeNode* root,int val){
+
+        while(root!=NULL and root->val!=val){
+           if(val<root->val){
+            root=root->left;
+           }
+           else{
+            root=root->right;
+           }
+        }
+    
+    return root;
+}
 };
 
