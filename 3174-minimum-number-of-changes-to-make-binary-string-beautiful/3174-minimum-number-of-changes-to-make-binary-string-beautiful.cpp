@@ -20,7 +20,7 @@ public:
             }
 
             if(zerocount==1 and onecount==1)changes+=1;
-            i+=2;
+            i+=j;
 
             cout<<i<<" "<<endl;
         }
