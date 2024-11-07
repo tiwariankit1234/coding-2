@@ -4,7 +4,7 @@ public:
         TreeNode* prev = NULL;
         return validate(root, prev);
     }
-    bool validate(TreeNode* node, TreeNode* prev) {
+    bool validate(TreeNode* node, TreeNode* &prev) {
         if (node == NULL) return true;
 
 
