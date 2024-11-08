@@ -1,32 +1,43 @@
+// 3 25 7 8 10 15 20 5
 
+// swapped nodes are not adjacent
+
+// 3 5 8 7 10 15 20 25
+// swapped nodes are adjacent
 class Solution {
-public:
+private:
+    TreeNode* prev;
+    TreeNode* first;
+    TreeNode* middle;
+    TreeNode* last;
 
-void inorder(TreeNode* root,vector<int>&ans)
-{
-    if(root==NULL)return ;
-       inorder(root->left,ans);
-      ans.push_back(root->val);
-   inorder(root->right,ans);
-}
+private:
 
-void inorder2(TreeNode* root,vector<int>&ans,int& idx){
+void inorder(TreeNode* root){
     if(root==NULL)return;
-
-    inorder2(root->left,ans,idx);
-    
-        root->val=ans[idx];
-        idx++;
-        // cout<<root->val<<endl;
-     
-     inorder2(root->right,ans,idx);
+    inorder(root->left);
+ 
+    if(prev==NULL || prev->val>=root->val){
+        if(first==NULL){
+        first=prev;
+        middle=root;
+        }
+        else{
+            last=root;
+        }
+    }
+    prev=root;
+    inorder(root->right);
 }
+public:
     void recoverTree(TreeNode* root) {
-        vector<int>ans;
-        inorder(root,ans);
+        first=NULL,prev=NULL,middle=NULL,last=NULL;
+        inorder(root);
+          if(first and last)swap(first->val,last->val);
+        else if(first and middle)swap(first->val,middle->val);
+       
 
-        sort(ans.begin(),ans.end());
-         int idx=0;
-        inorder2(root,ans,idx);
+        return ;
+    
     }
 };
