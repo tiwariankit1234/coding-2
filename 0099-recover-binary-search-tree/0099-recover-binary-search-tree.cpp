@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-int idx=0;
+
 void inorder(TreeNode* root,vector<int>&ans)
 {
     if(root==NULL)return ;
@@ -10,22 +10,23 @@ void inorder(TreeNode* root,vector<int>&ans)
    inorder(root->right,ans);
 }
 
-void inorder2(TreeNode* root,vector<int>&ans){
+void inorder2(TreeNode* root,vector<int>&ans,int& idx){
     if(root==NULL)return;
 
-    inorder2(root->left,ans);
+    inorder2(root->left,ans,idx);
     
-        root->val=ans[idx++];
-        cout<<root->val<<endl;
+        root->val=ans[idx];
+        idx++;
+        // cout<<root->val<<endl;
      
-     inorder2(root->right,ans);
+     inorder2(root->right,ans,idx);
 }
     void recoverTree(TreeNode* root) {
         vector<int>ans;
         inorder(root,ans);
 
         sort(ans.begin(),ans.end());
-
-        inorder2(root,ans);
+         int idx=0;
+        inorder2(root,ans,idx);
     }
 };
