@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tiwariankit1234/coding-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tiwariankit1234/coding-2/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/tiwariankit1234/coding-2/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/tiwariankit1234/coding-2/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/tiwariankit1234/coding-2/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tiwariankit1234/coding-2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/tiwariankit1234/coding-2/tree/master/1002-maximum-width-ramp) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tiwariankit1234/coding-2/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/tiwariankit1234/coding-2/tree/master/0173-binary-search-tree-iterator) |
 | [0432-all-oone-data-structure](https://github.com/tiwariankit1234/coding-2/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/tiwariankit1234/coding-2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0731-my-calendar-ii) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/tiwariankit1234/coding-2/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0783-search-in-a-binary-search-tree) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/tiwariankit1234/coding-2/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0783-search-in-a-binary-search-tree) |
@@ -454,6 +458,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/tiwariankit1234/coding-2/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0783-search-in-a-binary-search-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/tiwariankit1234/coding-2/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
