@@ -1,41 +1,40 @@
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
 class Solution {
 public:
-    vector<int> maximumBeauty(vector<vector<int>>& items,
-                              vector<int>& queries) {
-        vector<int> ans(queries.size());
-
-        // Sort and store max beauty
-        sort(items.begin(), items.end(),
-             [](vector<int>& a, vector<int>& b) { return a[0] < b[0]; });
-
-        int maxBeauty = items[0][1];
-        for (int i = 0; i < items.size(); i++) {
-            maxBeauty = max(maxBeauty, items[i][1]);
-            items[i][1] = maxBeauty;
+    vector<int> maximumBeauty(vector<vector<int>>& items, vector<int>& queries) {
+        // Sort items based on the price
+        sort(items.begin(), items.end());
+        
+        // Create a vector to store the maximum beauty for each item
+        int k = items.size();
+        vector<int> ans(queries.size(), 0);
+        vector<int> maxBeauty(k, 0);
+        
+        // Update the beauty for each item, ensuring it holds the max beauty up to that point
+        int maxbeauty = 0;
+        for (int i = 0; i < k; i++) {
+            maxbeauty = max(maxbeauty, items[i][1]);
+            maxBeauty[i] = maxbeauty;  // Store the max beauty encountered so far
         }
-
+        
+        // Iterate over each query and find the corresponding maximum beauty
         for (int i = 0; i < queries.size(); i++) {
-            // answer i-th query
-            ans[i] = binarySearch(items, queries[i]);
-        }
-
-        return ans;
-    }
-
-    int binarySearch(vector<vector<int>>& items, int targetPrice) {
-        int left = 0;
-        int right = items.size() - 1;
-        int maxBeauty = 0;
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            if (items[mid][0] > targetPrice) {
-                right = mid - 1;
+            int query = queries[i];
+            // Find the first item whose price is greater than or equal to the query
+            auto it = upper_bound(items.begin(), items.end(), vector<int>{query, INT_MAX});
+            
+            if (it == items.begin()) {
+                ans[i] = 0;  // No items available for this price range
             } else {
-                // Found viable price. Keep moving to right
-                maxBeauty = max(maxBeauty, items[mid][1]);
-                left = mid + 1;
+                int index = it - items.begin() - 1;  // Get the index of the last item within budget
+                ans[i] = maxBeauty[index];  // Get the maximum beauty of found item
             }
         }
-        return maxBeauty;
+        
+        return ans;
     }
 };
