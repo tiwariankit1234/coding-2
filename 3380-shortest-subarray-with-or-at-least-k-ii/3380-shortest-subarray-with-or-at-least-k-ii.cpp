@@ -11,7 +11,7 @@ public:
     void updatevector(int num, vector<int>& bitcount) {
         int count = 0;
         while (num > 0) {
-            if (num % 2) {
+            if (num & 1) {
                 bitcount[count]++;
             }
             count++;
