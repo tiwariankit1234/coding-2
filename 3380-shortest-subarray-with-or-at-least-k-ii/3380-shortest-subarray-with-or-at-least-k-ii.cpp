@@ -1,50 +1,67 @@
+#include <vector>
+#include <climits>
+#include <algorithm>
+
+using namespace std;
+
 class Solution {
 public:
-    int minimumSubarrayLength(vector<int>& nums, int k) {
-        int n = nums.size();
-        int start = 0, end = 0;
-        vector<int> f(32,0);
-        int val = 0;
-        int ans = INT_MAX;
-        while(end<n){
-            int temp = nums[end];
-            for(int i=0;i<32;i++){
-                int x = 1<<i;
-                if((temp&x)){
-                    f[i]++;
-                    if(f[i]==1) val+=x;
-                }
+    vector<int> bitcount = vector<int>(32, 0); // Initialize bitcount vector with 32 zeros
+
+    void updatevector(int num, vector<int>& bitcount) {
+        int count = 0;
+        while (num > 0) {
+            if (num % 2) {
+                bitcount[count]++;
             }
-            while(val>=k && start<end){
-                int temp = nums[start];
-                for(int i=0;i<32;i++){
-                    int x = 1<<i;
-                    if((temp&x)){
-                        f[i]--;
-                        if(f[i]==0){
-                            val-=x;
-                        }
-                    }
-                }
-                if(val<k){
-                    for(int i=0;i<32;i++){
-                        int x = 1<<i;
-                        if((temp&x)){
-                            f[i]++;
-                            if(f[i]==1) val+=x;
-                        }
-                    }
-                    break;
-                }
-                start++;
-            }
-            if(val>=k){
-                // cout << end << " " << start << " " << val << endl;
-                ans = min(ans,end-start+1);
-            }
-            end++;
+            count++;
+            num /= 2;
         }
-        return ans==INT_MAX?-1:ans;
-        
+    }
+
+    void reupdatevector(int num, vector<int>& bitcount) {
+        int count = 0;
+        while (num > 0) {
+            if (num % 2) {
+                bitcount[count]--;
+            }
+            count++;
+            num /= 2;
+        }
+    }
+
+    int extractnumber(const vector<int>& bitcount) {
+        int num = 0;
+        for (int i = 0; i < 32; i++) {
+            if (bitcount[i] > 0) { // Set bit i if bitcount[i] > 0
+                num |= (1 << i);
+            }
+        }
+        return num;
+    }
+
+    int minimumSubarrayLength(vector<int>& nums, int k) {
+        if(k==0)return 1;
+        int n = nums.size();
+        int l = 0, r = 0, size = INT_MAX;
+        int result = 0;
+
+        while (r < n) {
+            // Include nums[r] in the sliding window
+            result |= nums[r];
+            updatevector(nums[r], bitcount);
+
+            // Shrink the window from the left while result >= k
+            while (result >= k) {
+                size = min(size, r - l + 1); // Update minimum size
+                reupdatevector(nums[l], bitcount); // Remove nums[l] from bitcount
+                l++; // Move left pointer
+                result = extractnumber(bitcount); // Recalculate the OR result from bitcount
+            }
+
+            r++; // Move right pointer
+        }
+
+        return (size == INT_MAX) ? -1 : size; // Return -1 if no subarray found
     }
 };
