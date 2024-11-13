@@ -1,24 +1,19 @@
-#include <vector>
-#include <unordered_map>
-using namespace std;
-
 class Solution {
 public:
     int countPairs(vector<int>& nums, int target) {
-        unordered_map<int, int> freq;
-        int count = 0;
-        
-        for (int num : nums) {
-            // Check how many previous elements make a sum < target with the current num
-            for (auto& [key, value] : freq) {
-                if (key + num < target) {
-                    count += value;  // Add all occurrences of 'key' that satisfy the condition
-                }
+        int n=nums.size();
+        int l=0,r=n-1,count=0;
+        sort(nums.begin(),nums.end());
+        while(l<r){
+            int sum=nums[l]+nums[r];
+            if(sum<target){
+                count+=r-l;
+                l++;
             }
-            // Add the current number to the map
-            freq[num]++;
+            else{
+                r--;
+            }
         }
-        
         return count;
     }
 };
