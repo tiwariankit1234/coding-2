@@ -1,44 +1,52 @@
 class Solution {
 public:
-    bool checkPrime(int x) {
-        for (int i = 2; i <= sqrt(x); i++) {
-            if (x % i == 0) {
-                return 0;
-            }
+
+bool isPrime(int i){
+int num=sqrt(i);
+for(int k=num;k>=2;k--){
+    if(i%k==0)return false;
+}
+return true;
+}
+
+bool prime(int index,vector<int>& nums,int previousindex){
+    int n=nums.size();
+    int previouselement=0;
+   if(previousindex==-1)
+   previouselement=0;
+   else
+   previouselement=nums[previousindex];
+   
+
+
+    for(int i=nums[index]-1;i>=2;i--){
+        if(isPrime(i) and ((nums[index]-i)>previouselement)){
+             cout<<i<<" "<<index<<endl;
+            nums[index]=nums[index]-i;
+            // cout<<nums[index]<<" "<<nums[index-1]<<endl;
+            return true;
         }
-        return 1;
     }
+    return false;
+}
+
+
+
     bool primeSubOperation(vector<int>& nums) {
-        for (int i = 0; i < nums.size(); i++) {
-            int bound;
-            // In case of first index, we need to find the largest prime less
-            // than nums[0].
-            if (i == 0) {
-                bound = nums[0];
-            } else {
-                // Otherwise, we need to find the largest prime, that makes the
-                // current element closest to the previous element.
-                bound = nums[i] - nums[i - 1];
-            }
-
-            // If the bound is less than or equal to 0, then the array cannot be
-            // made strictly increasing.
-            if (bound <= 0) {
-                return 0;
-            }
-
-            // Find the largest prime less than bound.
-            int largestPrime = 0;
-            for (int j = bound - 1; j >= 2; j--) {
-                if (checkPrime(j)) {
-                    largestPrime = j;
-                    break;
-                }
-            }
-
-            // Subtract this value from nums[i].
-            nums[i] = nums[i] - largestPrime;
+        int n=nums.size();
+        
+        for(int i=0;i<n;i++){
+            prime(i,nums,i-1);
         }
-        return 1;
+
+        for(auto it:nums){
+            cout<<it<<" ";
+        }
+       for(int i=1;i<n;i++){
+        if(nums[i]<=nums[i-1]){
+        return false;
+        }
+       }
+        return true;
     }
 };
