@@ -13,9 +13,11 @@ public:
             // Search only in the subarray starting from i+1
             auto low = lower_bound(nums.begin() + i + 1, nums.end(), lower - nums[i]);
             auto high = upper_bound(nums.begin() + i + 1, nums.end(), upper - nums[i]);
+
+          
             
             // Calculate the number of valid pairs with nums[i]
-            ans += (high - low);
+            ans += ((high-1) - (low-1));
         }
         
         return ans;
