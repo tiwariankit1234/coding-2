@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [3189-find-champion-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3189-find-champion-ii) |
 | [3561-remove-methods-from-project](https://github.com/tiwariankit1234/coding-2/tree/master/3561-remove-methods-from-project) |
 ## Divide and Conquer
 |  |
