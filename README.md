@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/tiwariankit1234/coding-2/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/tiwariankit1234/coding-2/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0917-boats-to-save-people](https://github.com/tiwariankit1234/coding-2/tree/master/0917-boats-to-save-people) |
 | [1002-maximum-width-ramp](https://github.com/tiwariankit1234/coding-2/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/tiwariankit1234/coding-2/tree/master/0917-boats-to-save-people) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/tiwariankit1234/coding-2/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/1256-rank-transform-of-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tiwariankit1234/coding-2/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tiwariankit1234/coding-2/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/tiwariankit1234/coding-2/tree/master/0670-maximum-swap) |
+| [0917-boats-to-save-people](https://github.com/tiwariankit1234/coding-2/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tiwariankit1234/coding-2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/tiwariankit1234/coding-2/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tiwariankit1234/coding-2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tiwariankit1234/coding-2/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/tiwariankit1234/coding-2/tree/master/0917-boats-to-save-people) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/tiwariankit1234/coding-2/tree/master/1972-rotating-the-box) |
