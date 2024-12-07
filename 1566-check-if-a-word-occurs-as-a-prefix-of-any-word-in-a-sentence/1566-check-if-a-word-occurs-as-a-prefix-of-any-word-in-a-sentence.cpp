@@ -1,46 +1,40 @@
 class Solution {
 public:
-    // Function to check if `searchWord` is a prefix of `word`
-    bool check(string &searchWord, string &word) {
-        int i = 0, j = 0;
-        int searchLen = searchWord.size();
-        int wordLen = word.size();
 
-        // If `searchWord` is longer than `word`, it cannot be a prefix
-        if (searchLen > wordLen) return false;
 
-        // Compare characters one by one
-        while (j < searchLen) {
-            if (searchWord[j++] != word[i++]) return false;
-        }
-
-        return true;
+bool check(string &stringwords,string &t){
+    int i=0,j=0;
+    int n=stringwords.size();
+    int k=t.size();
+    if(k>n)return false;
+    while(j<k){
+        if(stringwords[i++]!=t[j++])
+        return false;    
     }
-
+    return true;
+}
     int isPrefixOfWord(string sentence, string searchWord) {
-        stringstream ss(sentence); // To split the sentence into words
-        vector<string> stringWords;
+    stringstream ss(sentence); // To split the sentence into words
+        vector<string>stringwords;
         string word;
 
         // Split the sentence into words and store in `stringWords`
         while (ss >> word) {
-            stringWords.push_back(word);
+            stringwords.push_back(word);
         }
 
-        // Debug print to check the split words
-        for (auto it : stringWords)
-            cout << it << " ";
-        cout << endl;
+        int n=stringwords.size();
+        int minindex=-1;
+        for(int i=0;i<n;i++){
+            string k=stringwords[i];
 
-        int n = stringWords.size();
-
-        // Iterate through the words and check for prefix match
-        for (int i = 0; i < n; i++) {
-            if (check(searchWord, stringWords[i])) {
-                return i + 1; // Return 1-based index of the matching word
-            }
+         if(check(k,searchWord)){
+             minindex=i+1;
+             break;
+         }
+        
         }
 
-        return -1; // No match found
+        return minindex;
     }
 };
