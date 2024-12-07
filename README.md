@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tiwariankit1234/coding-2/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/tiwariankit1234/coding-2/tree/master/0056-merge-intervals) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tiwariankit1234/coding-2/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tiwariankit1234/coding-2/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/tiwariankit1234/coding-2/tree/master/0567-permutation-in-string) |
