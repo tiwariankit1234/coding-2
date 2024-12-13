@@ -1,3 +1,11 @@
+//https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/?envType=daily-question&envId=2024-12-02
+
+
+// mistake 
+
+//use break statement 
+
+// comparison two strings use two pointers 
 class Solution {
 public:
 
