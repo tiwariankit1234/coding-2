@@ -1,43 +1,51 @@
 class Solution {
-    // {right, down, left, up}
-    const int dirs[5] = {0, 1, 0, -1, 0};
-    
-    int memo[51][51][101];
-    int n, m;
-    bool dfs(vector<vector<int>> &grid, int i, int j, int health){
-        // Bounds Check + Visited Check + Health Check
-        if(min(i, j) < 0 || i == n || j == m || grid[i][j] == -1 || health == 0) 
-            return false;
-        
-        // Memoization : )
-        if(memo[i][j][health] !=- 1) 
-            return memo[i][j][health];
-        
-        int delta = grid[i][j];
-        health -= delta;
-        
-       // Base  Case
-        if(i == n - 1 && j == m - 1)
-            return health >= 1;
-        
-        // mark visited
-        grid[i][j] = -1;
-        for(int k = 0; k < 4; k++){
-            int newI = i + dirs[k], newJ = j + dirs[k + 1];
-            if(dfs(grid, newI, newJ, health))
-                return memo[i][j][health] = true;
-        }
-        
-        // revert visited changes, to explore other possiblities
-        grid[i][j] = delta;
-        health += delta;
-        
-        return memo[i][j][health] = false;
-    }
 public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        n = grid.size(), m = grid[0].size();
-        memset(memo, -1, sizeof memo);
-        return dfs(grid, 0, 0, health);
+        priority_queue<pair<int, pair<int, int>>, 
+                       vector<pair<int, pair<int, int>>>, 
+                       greater<pair<int, pair<int, int>>>> pq;
+
+        int n = grid.size();
+        int m = grid[0].size();
+
+        // Start from (0, 0)
+        pq.push({grid[0][0] == 1 ? 1 : 0, {0, 0}});
+        
+        vector<vector<int>> visited(n, vector<int>(m, 0));
+        visited[0][0] = 1;
+
+        int dr[] = {-1, 0, 1, 0};
+        int dc[] = {0, 1, 0, -1};
+
+        while (!pq.empty()) {
+            auto it = pq.top();
+            pq.pop();
+
+            int diff = it.first;
+            int row = it.second.first;
+            int col = it.second.second;
+
+            // Check if we reached the bottom-right corner
+            if (row == n-1 && col == m-1)
+                return (health > diff);
+
+            // Explore all 4 neighbors
+            for (int i = 0; i < 4; i++) {
+                int newr = row + dr[i];
+                int newc = col + dc[i];
+
+                if (newr >= 0 && newc >= 0 && newr < n && newc < m && visited[newr][newc] == 0) {
+                    visited[newr][newc] = 1;
+
+                    // Update the difficulty for the new cell
+                    if (grid[newr][newc] == 1)
+                        pq.push({diff + 1, {newr, newc}});
+                    else
+                        pq.push({diff, {newr, newc}});
+                }
+            }
+        }
+
+        return false; // No path found
     }
 };
