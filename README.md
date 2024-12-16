@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tiwariankit1234/coding-2/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Matrix
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/tiwariankit1234/coding-2/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tiwariankit1234/coding-2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -583,12 +586,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/tiwariankit1234/coding-2/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/tiwariankit1234/coding-2/tree/master/3561-remove-methods-from-project) |
 ## Graph
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/tiwariankit1234/coding-2/tree/master/2121-find-if-path-exists-in-graph) |
 | [3189-find-champion-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3189-find-champion-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/tiwariankit1234/coding-2/tree/master/3561-remove-methods-from-project) |
 ## Divide and Conquer
 |  |
@@ -652,4 +657,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2716-prime-subtraction-operation) |
+## Shortest Path
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
