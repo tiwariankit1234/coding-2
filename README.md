@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/tiwariankit1234/coding-2/tree/master/3394-minimum-array-end) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Union Find
 |  |
 | ------- |
