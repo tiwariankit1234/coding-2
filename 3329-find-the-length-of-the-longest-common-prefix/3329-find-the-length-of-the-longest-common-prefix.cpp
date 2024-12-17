@@ -17,8 +17,8 @@ public:
 
          int size=0,maxsize=0;
         for(int num:arr2){
-             string k=to_string(num);
-             int numsize=k.size();
+            
+             int numsize=log10(num)+1;
                 
                 while(num>0){
                     // cout<<num<<endl;
