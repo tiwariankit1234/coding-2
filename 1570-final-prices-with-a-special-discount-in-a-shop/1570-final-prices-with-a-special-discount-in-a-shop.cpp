@@ -32,8 +32,8 @@ vector<int> nextSmallerElement(vector<int>& arr) {
     vector<int> finalPrices(vector<int>& prices) {
         vector<int>nextvector= nextSmallerElement(prices);
 
-        for(auto it:nextvector)
-        cout<<it<<" ";
+        // for(auto it:nextvector)
+        // cout<<it<<" ";
 
         cout<<endl;
         for(int i=0;i<prices.size();i++){
