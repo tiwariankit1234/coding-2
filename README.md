@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tiwariankit1234/coding-2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/tiwariankit1234/coding-2/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/tiwariankit1234/coding-2/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/tiwariankit1234/coding-2/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3427-special-array-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/tiwariankit1234/coding-2/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tiwariankit1234/coding-2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/tiwariankit1234/coding-2/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Prefix Sum
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/tiwariankit1234/coding-2/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2716-prime-subtraction-operation) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
