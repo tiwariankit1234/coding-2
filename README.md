@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/tiwariankit1234/coding-2/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3427-special-array-ii) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwariankit1234/coding-2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/3291-find-if-array-can-be-sorted) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3399-find-the-integer-added-to-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwariankit1234/coding-2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/tiwariankit1234/coding-2/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/tiwariankit1234/coding-2/tree/master/3195-separate-black-and-white-balls) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3399-find-the-integer-added-to-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Recursion
 |  |
