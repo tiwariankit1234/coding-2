@@ -8,19 +8,19 @@ public:
         for(int i=1;i<n;i++){
             prefixmax[i]=max((ll)nums[i],prefixmax[i-1]);
         }
-        for(auto it:prefixmax)
-        cout<<it<<" ";
+        // for(auto it:prefixmax)
+        // cout<<it<<" ";
 
-        cout<<endl;
+        // cout<<endl;
           suffixmax[n-1]=nums[n-1];
           for(int i=n-2;i>=0;i--){
             suffixmax[i]=max((ll)nums[i],suffixmax[i+1]);
           }
 
-           for(auto it:suffixmax)
-        cout<<it<<" ";
+        //    for(auto it:suffixmax)
+        // cout<<it<<" ";
 
-        cout<<endl;
+        // cout<<endl;
 
         ll ans=INT_MIN;
           for(int i=1;i<n-1;i++){
