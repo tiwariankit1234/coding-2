@@ -22,11 +22,11 @@ public:
 
         // cout<<endl;
 
-        ll ans=INT_MIN;
+        ll ans=0;
           for(int i=1;i<n-1;i++){
-           ll k=(prefixmax[i-1]-nums[i])*suffixmax[i+1];
-           if(k<0)k=0;
-            ans=max(k,ans);
+           
+         
+            ans=max((prefixmax[i-1]-nums[i])*suffixmax[i+1],ans);
           }
           return ans;
     }
