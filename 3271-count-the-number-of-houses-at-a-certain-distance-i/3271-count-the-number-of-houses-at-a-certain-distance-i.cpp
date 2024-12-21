@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> countOfPairs(int n, int x, int y) {
-        vector<int>ans(n+1,0);
+        vector<int>ans(n,0);
         vector<vector<int>>adj(n+1,vector<int>(n+1,5000));
         for(int i=1;i<(n);i++){
           adj[i][i+1]=1;
@@ -36,11 +36,11 @@ public:
          for(int i=1;i<(n+1);i++){
                  for(int j=1;j<(n+1);j++){
                     if(adj[i][j]>0){
-                        ans[adj[i][j]]++;
+                        ans[adj[i][j]-1]++;
                     }
                  }
          }  
-         ans.erase(ans.begin());
+         
               return ans;
         }
     
