@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tiwariankit1234/coding-2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/tiwariankit1234/coding-2/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tiwariankit1234/coding-2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2868-continuous-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/tiwariankit1234/coding-2/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwariankit1234/coding-2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/tiwariankit1234/coding-2/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tiwariankit1234/coding-2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/tiwariankit1234/coding-2/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwariankit1234/coding-2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/3291-find-if-array-can-be-sorted) |
