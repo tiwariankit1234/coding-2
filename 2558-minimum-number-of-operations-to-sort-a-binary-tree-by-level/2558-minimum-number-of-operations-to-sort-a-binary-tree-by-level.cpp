@@ -2,27 +2,39 @@
 class Solution {
 public:
 
-int  selectionsort(vector<int>&ans){
+int  selectionsort(vector<int>ans){
             int count=0;
-    // Loop through each element in the vector except the last one
-    for(int i=0;i<=ans.size()-1;i++){
-
-        int minidx=i; // Assume the current index has the minimum value
-        
-        // Find the minimum value in the unsorted portion of the array
-        for(int j=i;j<ans.size();j++){
-            if(ans[j]<ans[minidx]){  // Update minidx if a smaller element is found
-                minidx=j;
+            int n=ans.size();
+            vector<int>copy=ans;
+            sort(copy.begin(),copy.end());
+           map<int,int>mp;
+            for(int i=0;i<(n);i++){
+                mp[ans[i]]=i;
             }
-        }
-        
-        // Swap the found minimum element with the first unsorted element
-        if(minidx!=i){
-        swap(ans[minidx],ans[i]);
-             count++;
-        }
-    }
-    return count;
+
+            // for(auto it:mp){
+            //     cout<<it.first<<" "<<it.second<<" ";
+            // }
+            // cout<<endl;
+
+            // for(auto it:copy){
+            // cout<<it<<" ";
+
+            // }
+
+           
+
+            for(int i=0;i<n;i++){
+                 if(copy[i]!=ans[i]){
+                    int index=mp[copy[i]];
+                    mp[ans[i]]=index;
+                    swap(ans[i],ans[index]);
+                    count++;
+                 }
+            }
+
+            cout<<count<<endl;
+            return count;
 }
 
 
