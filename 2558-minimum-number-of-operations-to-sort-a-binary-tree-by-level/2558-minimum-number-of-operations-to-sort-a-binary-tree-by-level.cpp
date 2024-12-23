@@ -26,8 +26,9 @@ int  selectionsort(vector<int>ans){
 
             for(int i=0;i<n;i++){
                  if(copy[i]!=ans[i]){
-                    int index=mp[copy[i]];
-                    mp[ans[i]]=index;
+                    int index=mp[copy[i]]; // sorted wale se index find kar mp me 
+                    mp[ans[i]]=index; // kyounki  ab ham usko swap karenge toh mp me bhi 
+                    mp[copy[i]]=i;
                     swap(ans[i],ans[index]);
                     count++;
                  }
