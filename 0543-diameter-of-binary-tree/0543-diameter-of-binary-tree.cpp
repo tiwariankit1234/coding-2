@@ -17,21 +17,18 @@ public:
     }
         
         int maxD=0;
-    int maxDiameter(TreeNode* root) {
+    int height(TreeNode* root) {
         if (root == nullptr) return 0;
-        int leftHeight = levels(root->left);
-        int rightHeight = levels(root->right);
-        int diameter = leftHeight+rightHeight;
-        maxD = max(maxD, diameter);
-        maxDiameter(root->left);
-        maxDiameter(root->right);
-        return 5;
+         int leftheight=height(root->left);
+         int rightheight=height(root->right);
+         maxD=max(leftheight+rightheight,maxD);
+         return max(leftheight,rightheight)+1;
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
      
- maxDiameter(root);
- return maxD;
+         height(root);
+         return maxD;
     
     }
 };
