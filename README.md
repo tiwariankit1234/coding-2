@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tiwariankit1234/coding-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tiwariankit1234/coding-2/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/tiwariankit1234/coding-2/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/tiwariankit1234/coding-2/tree/master/0138-copy-list-with-random-pointer) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tiwariankit1234/coding-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tiwariankit1234/coding-2/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/tiwariankit1234/coding-2/tree/master/0022-generate-parentheses) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tiwariankit1234/coding-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tiwariankit1234/coding-2/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/tiwariankit1234/coding-2/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/tiwariankit1234/coding-2/tree/master/0567-permutation-in-string) |
