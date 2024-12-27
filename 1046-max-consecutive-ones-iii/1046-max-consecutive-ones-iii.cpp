@@ -5,10 +5,11 @@ public:
         int l=0,r=0,maxlength=0,count=0;
         while(r<n){
             if(nums[r]==0)count++;
-            while(count>k){
+            if(count>k){
                 if(nums[l]==0)count--;
                 l++;
             }
+            if(count<=k)
             maxlength=max(maxlength,(r-l+1));
             r++;
         }
