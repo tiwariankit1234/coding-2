@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/tiwariankit1234/coding-2/tree/master/0917-boats-to-save-people) |
 | [1002-maximum-width-ramp](https://github.com/tiwariankit1234/coding-2/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/tiwariankit1234/coding-2/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tiwariankit1234/coding-2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/tiwariankit1234/coding-2/tree/master/1184-car-pooling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tiwariankit1234/coding-2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/tiwariankit1234/coding-2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/tiwariankit1234/coding-2/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tiwariankit1234/coding-2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/tiwariankit1234/coding-2/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tiwariankit1234/coding-2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/tiwariankit1234/coding-2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
