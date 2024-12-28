@@ -1,7 +1,15 @@
-# Write your MySQL query statement below
-select e2.name
-from employee e1
- join employee e2 on e1.managerId = e2.id
-group by e2.id having count(e2.id) >= 5;
+# Write your MySQL query statement be
+
+SELECT 
+ e2.name
+FROM 
+Employee as e1,
+Employee as e2
+WHERE
+e1.managerId=e2.id
+GROUP BY
+e2.id
+HAVING
+count(e2.id)>=5;
 
 -- This is more optimized
