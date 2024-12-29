@@ -31,6 +31,7 @@ public:
            }
            r++;
         }
+        if(stidx==-1)return "";
         return s.substr(stidx,length);
     }
 };
