@@ -1,33 +1,25 @@
 class Solution {
 public:
-    string answerString(string word, int nf) {
-        if(nf==1) return word;
-        string largest = "";
-        vector<int> v;
-        int maxi = -1e9;
-        for (int i = 0; i < word.size(); ++i) {
-            if (word[i] - '0' > maxi) {
-                maxi = word[i] - '0';
-            }
-        }
-        int l = word.size() - nf + 1;
-
-        string lar = "";
-        cout<<maxi<<endl;
+    string answerString(string word, int k) {
         int n=word.size();
-        for (int i = 0; i < word.size(); ++i) {
-            if (word[i] - '0' == maxi) {
-                string longest = "";
-                for (int j = i; j < i + l&j<n; j++) {
-                    longest += word[j];
-                    lar = max(lar, longest);
-                }
-            }
-        }
-     
-
-       
-
-        return lar;
+        if(k==1)return word;
+       char lexc=word[0];
+       int index=0;
+       for(int i=1;i<n;i++){
+         if(word[i]>lexc){
+            lexc=word[i];
+            index=i;
+         } 
+       }
+ int length=n-(k-1);
+ string ans="";
+ for(int j=index;j<n;j++){
+    ans=max(ans,word.substr(j,length));
+ }
+       return ans;
+    //   cout<<index<<endl;
+      
+      
+      
     }
 };
