@@ -1,37 +1,23 @@
 class Solution {
 public:
-
+vector<string>ans;
 int k;
- void f(int count1,int count2,int idx,string s,vector<string>&ans){
-    //base case
-    if(idx==(2*k)){
+void generate(int count1,int count2,string s){
+    if(count1<count2)return ;
+    if(count1>k || count2>k)return ;
+    if(count1==k and count2==k){
+        cout<<s<<endl;
         ans.push_back(s);
         return ;
     }
-
-    // check each valid possibility 
-    // when we take '(' character
-    if((count1)<k){
-        
-      
-        f(count1+1,count2,idx+1,s+'(',ans);
-    }
-
-    if((count2)<(count1)){
-      
-     
-       f(count1,count2+1,idx+1,s+')',ans);
-    }
-   
- }
-
+  
+     generate(count1+1,count2,s+'(');
+     generate(count1,count2+1,s+')');
+     return ;
+}
     vector<string> generateParenthesis(int n) {
-            int count1=0,count2=0,idx=0;
-            vector<string>ans;
-            string s="";
-            k=n;
-       f(count1,count2,idx,s,ans);
-       return ans;
-        
+        k=n;
+        generate(0,0,"");
+        return ans;
     }
 };
