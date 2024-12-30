@@ -1,31 +1,26 @@
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-       // first calculate total subsets
-       // iterate over each number and see if its bit 1 insert in list 
-       int n=nums.size();
-       int totalsubsets=1<<n;
-       
-           vector<vector<int>>ans;
-       for(int i=0;i<totalsubsets;i++){
-        // checkeach bit
-           int k=i;
-           
-           int count=0;
-           vector<int>temp;
-           while(k!=0){
-             if(k%2==1){
-                temp.push_back(nums[count]);
-            }
-            k=k>>1;
-            cout<<"count"<<count<<endl;
-            count++;
+    void f(vector<vector<int>>&ans,vector<int>&v,int idx,vector<int>& nums){
+        if(idx==nums.size())
+        {
+            ans.push_back(v);
+            return;
 
-           }
-           ans.push_back(temp);
         }
-           
+              v.push_back(nums[idx]);
+           f(ans,v,idx+1,nums);
+           v.pop_back();
+        
+       f(ans,v,idx+1,nums);
+
        
-       return ans;
+
+return ;
+      }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<int>v;
+         vector<vector<int>>ans;
+        f(ans,v,0,nums);
+        return ans;
     }
 };
