@@ -1,26 +1,25 @@
 class Solution {
 public:
-    void f(vector<vector<int>>&ans,vector<int>&v,int idx,vector<int>& nums){
-        if(idx==nums.size())
-        {
-            ans.push_back(v);
-            return;
-
+    vector<vector<int>> output;
+    int n, k;
+    void backtrack(int first, vector<int> &curr, vector<int>& nums) {
+        // if the combination is done
+        if (curr.size() == k) output.push_back(curr);
+        for (int i = first; i < n; ++i) {
+            // add i into the current combination
+            curr.push_back(nums[i]);
+            // use next integers to complete the combination
+            backtrack(i + 1, curr, nums);
+            // backtrack
+            curr.pop_back();
         }
-              v.push_back(nums[idx]);
-           f(ans,v,idx+1,nums);
-           v.pop_back();
-        
-       f(ans,v,idx+1,nums);
-
-       
-
-return ;
-      }
+    }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int>v;
-         vector<vector<int>>ans;
-        f(ans,v,0,nums);
-        return ans;
+        n = nums.size();
+        for (k = 0; k < n + 1; ++k) {
+            vector<int> curr;
+            backtrack(0, curr, nums);
+        }
+        return output;
     }
 };
