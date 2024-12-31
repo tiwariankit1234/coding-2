@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/tiwariankit1234/coding-2/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1025-minimum-cost-for-tickets](https://github.com/tiwariankit1234/coding-2/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/tiwariankit1234/coding-2/tree/master/1063-best-sightseeing-pair) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tiwariankit1234/coding-2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/tiwariankit1234/coding-2/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/tiwariankit1234/coding-2/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/tiwariankit1234/coding-2/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
