@@ -1,41 +1,40 @@
+#define ll long long
 class Solution {
 public:
-    int numWays(vector<string>& words, string target) {
-        vector<vector<int>> dp(words[0].size(), vector<int>(target.size(), -1));
-        vector<vector<int>> charFrequency(words[0].size(), vector<int>(26, 0));
 
-        // Store the frequency of every character at every index.
-        for (int i = 0; i < words.size(); i++) {
-            for (int j = 0; j < words[0].size(); j++) {
-                int character = words[i][j] - 'a';
-                charFrequency[j][character]++;
-            }
+ll dp[1003][1003];
+ll f(int i,int j,vector<vector<int>>&charfrequency,string& t){
+  if(j==t.size() and i==(charfrequency.size())){
+    return 1;
+  }
+  if(j==t.size())return 1;
+  if(i==charfrequency.size())return 0;
+
+    if(dp[i][j]!=-1)
+    return dp[i][j];
+
+    ll countways=0;
+   ll index=t[j]-'a';
+     int take=(charfrequency[i][index]*f(i+1,j+1,charfrequency,t))% 1000000007;
+     //not take
+     int nottake=f(i+1,j,charfrequency,t);
+     countways=take+nottake;
+     return dp[i][j]=countways% 1000000007;
+}
+    int numWays(vector<string>& words, string t) {
+        int n=words.size();
+        int k=words[0].size();
+        vector<vector<int>>charfrequency(k,vector<int>(26,0));
+        
+       for(auto it:words){
+        int l=it.size();
+        for(int j=0;j<l;j++){
+            charfrequency[j][it[j]-'a']++;
         }
-        return getWords(words, target, 0, 0, dp, charFrequency);
-    }
+       }
+        memset(dp,-1,sizeof(dp));
+        return f(0,0,charfrequency,t);
+       
 
-private:
-    long getWords(vector<string>& words, string& target, int wordsIndex,
-                  int targetIndex, vector<vector<int>>& dp,
-                  vector<vector<int>>& charFrequency) {
-        if (targetIndex == target.size()) return 1;
-        if (wordsIndex == words[0].size() ||
-            words[0].size() - wordsIndex < target.size() - targetIndex)
-            return 0;
-
-        if (dp[wordsIndex][targetIndex] != -1)
-            return dp[wordsIndex][targetIndex];
-
-        long countWays = 0;
-        int curPos = target[targetIndex] - 'a';
-        // Don't match any character of target with any word.
-        countWays += getWords(words, target, wordsIndex + 1, targetIndex, dp,
-                              charFrequency);
-        // Multiply the number of choices with getWords and add it to count.
-        countWays += charFrequency[wordsIndex][curPos] *
-                     getWords(words, target, wordsIndex + 1, targetIndex + 1,
-                              dp, charFrequency);
-
-        return dp[wordsIndex][targetIndex] = countWays % 1000000007;
     }
 };
