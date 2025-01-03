@@ -10,12 +10,11 @@ public:
     for(ll i=0;i<n;i++){
         operations+=((candies[i])/mid);
     }
-    if(operations>=k)return true;
-    return false;
+    return (operations)>=k;
  }
 
     ll maximumCandies(vector<int>& candies, long long k) {
-        sort(candies.begin(),candies.end());
+        // sort(candies.begin(),candies.end());
         ll low=1,high=1e9;
         ll ans=0;
         while(low<=high){
