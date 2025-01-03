@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/tiwariankit1234/coding-2/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/tiwariankit1234/coding-2/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/tiwariankit1234/coding-2/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tiwariankit1234/coding-2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/tiwariankit1234/coding-2/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/tiwariankit1234/coding-2/tree/master/1940-maximum-xor-for-each-query) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2358-number-of-ways-to-split-array](https://github.com/tiwariankit1234/coding-2/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tiwariankit1234/coding-2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2625-increment-submatrices-by-one](https://github.com/tiwariankit1234/coding-2/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/tiwariankit1234/coding-2/tree/master/2691-count-vowel-strings-in-ranges) |
