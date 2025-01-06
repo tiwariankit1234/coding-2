@@ -37,7 +37,7 @@ public:
         int maxdifference = INT_MAX; // Initialize maxdifference with the maximum possible value
 
         // Start the recursive function
-        f(0, stones, 0, abs((2 * 0) - totalsum), maxdifference);
+        f(0, stones, 0, maxdifference, maxdifference);
 
         return maxdifference == INT_MAX ? 0 : maxdifference;
     }
