@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/tiwariankit1234/coding-2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/tiwariankit1234/coding-2/tree/master/0747-min-cost-climbing-stairs) |
+| [0972-knight-dialer](https://github.com/tiwariankit1234/coding-2/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/tiwariankit1234/coding-2/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/tiwariankit1234/coding-2/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
