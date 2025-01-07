@@ -1,26 +1,30 @@
 class Solution {
 public:
-    vector<int> minOperations(string boxes) {
-        int n = boxes.size();
-        vector<int> answer(n, 0);
-
-        int ballsToLeft = 0, movesToLeft = 0;
-        int ballsToRight = 0, movesToRight = 0;
-
-        // Single pass: calculate moves from both left and right
-        for (int i = 0; i < n; i++) {
-            // Left pass
-            answer[i] += movesToLeft;
-            ballsToLeft += boxes[i] - '0';
-            movesToLeft += ballsToLeft;
-
-            // Right pass
-            int j = n - 1 - i;
-            answer[j] += movesToRight;
-            ballsToRight += boxes[j] - '0';
-            movesToRight += ballsToRight;
+    vector<int> minOperations(string s) {
+        int n=s.size();
+        vector<int>prefix(n,0),suffix(n,0);
+        prefix[0]=0,suffix[n-1]=0;
+        int countoneend=0,countonestart=0,prefixindices=0,suffixindices=0;
+        for(int i=0;i<n;i++){
+             prefix[i]=countonestart*i-prefixindices;
+             if(s[i]=='1')
+             {
+                countonestart++;
+                prefixindices+=i;
+             }
         }
-
-        return answer;
-    }
+        for(int i=n-1;i>=0;i--){
+         suffix[i]=suffixindices-countoneend*i;
+         if(s[i]=='1'){
+            countoneend++;
+            suffixindices+=i;
+         }
+         }
+         vector<int>ans(n,0);
+         for(int i=0;i<n;i++){
+            ans[i]=prefix[i]+suffix[i];
+         }
+         return ans;
+        }
+    
 };
