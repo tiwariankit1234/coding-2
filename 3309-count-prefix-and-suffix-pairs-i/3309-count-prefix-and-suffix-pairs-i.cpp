@@ -3,21 +3,11 @@ public:
 bool check(string s,string t){
     if(t.size()<s.size())return false;
     int k=s.size();
-    int i=0;
-    while(i<k){
-        if(s[i]!=t[i])
-        return false;
-        i++;
-    }
-    reverse(s.begin(),s.end());
-    reverse(t.begin(),t.end());
-       i=0;
-      while(i<k){
-        if(s[i]!=t[i])
-        return false;
-        i++;
-      }
-      return true;
+    if(t.find(s)==0 and t.rfind(s)==(t.size()-s.size()))
+    return true;
+
+    return false;
+   
 
 }
     int countPrefixSuffixPairs(vector<string>& words) {
