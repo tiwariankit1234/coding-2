@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/tiwariankit1234/coding-2/tree/master/0279-perfect-squares) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/tiwariankit1234/coding-2/tree/master/0670-maximum-swap) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/tiwariankit1234/coding-2/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/tiwariankit1234/coding-2/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tiwariankit1234/coding-2/tree/master/0322-coin-change) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/tiwariankit1234/coding-2/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/tiwariankit1234/coding-2/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0494-target-sum) |
@@ -890,4 +892,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/tiwariankit1234/coding-2/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/tiwariankit1234/coding-2/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tiwariankit1234/coding-2/tree/master/1908-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
