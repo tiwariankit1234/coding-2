@@ -1,39 +1,62 @@
 class Solution {
 public:
-    vector<string> wordSubsets(vector<string>& mainWords, vector<string>& requiredWords) {
-        int maxCharFreq[26] = {0};
-        int tempCharFreq[26];
+    vector<string> wordSubsets(vector<string>& words1, vector<string>& words2) {
+        // first create frequency map for words2
+        // create freqeuncey map for words1
+        // then iterate in frequency map of words1 if frequency of a
+        // word is less than flag=false and break it
+        // if flag true then insert it 
+         vector<string>ans;
         
-        for (const auto& word : requiredWords) {
-            memset(tempCharFreq, 0, sizeof tempCharFreq);//To Set Temp freq all to zero 
-//You can do vector<int> tempCharFreq(26,0);
-            for (char ch : word) {
-                tempCharFreq[ch - 'a']++;
+              vector<int>maxfrequency(26,0);
+         for(auto it:words2){
+            string s=it;
+            int n=s.size();
+             vector<int>freqmap2(26,0);
+            for(int i=0;i<n;i++){
+                freqmap2[s[i]-'a']++;
+                maxfrequency[s[i]-'a']=max(maxfrequency[s[i]-'a'],freqmap2[s[i]-'a']);
             }
-            for (int i = 0; i < 26; ++i) {
-                maxCharFreq[i] = max(maxCharFreq[i], tempCharFreq[i]);
+         }
+        //  for(auto it:freqmap2)
+        //  cout<<it<<" ";
+        //  cout<<endl;
+        int n=words1.size();
+           for(int i=0;i<n;i++){
+            string s=words1[i];
+            // cout<<it<<endl;
+            int k=s.size();
+            cout<<s<<endl;
+            vector<int>freqmap1(26,0);
+            for(int i=0;i<k;i++){
+                freqmap1[s[i]-'a']++;
             }
-        }
-        
-        vector<string> universalWords;
-        
-        for (const auto& word : mainWords) {
-            memset(tempCharFreq, 0, sizeof tempCharFreq);
-            for (char ch : word) {
-                tempCharFreq[ch - 'a']++;
-            }
-            bool isUniversal = true;
-            for (int i = 0; i < 26; ++i) {
-                if (maxCharFreq[i] > tempCharFreq[i]) {
-                    isUniversal = false;
+
+        //      for(auto it:freqmap1)
+        //       cout<<it<<" ";
+        //  cout<<endl;
+            // check this string can be inserted in my ans;
+            bool flag=true;
+            for(int i=0;i<26;i++){
+                if((maxfrequency[i])>(freqmap1[i])){
+                    flag=false;
+                    cout<<i<<endl;
                     break;
                 }
             }
-            if (isUniversal) {
-                universalWords.emplace_back(word);
-            }
-        }
-        
-        return universalWords;
+            // if(s=="leetcode"){
+            // for(auto it:freqmap1){
+            //     cout<<it<<" ";
+            // }
+            // } 
+            cout<<endl;
+            if(flag)ans.push_back(s);
+            // for(auto it:ans)
+            // cout<<it<<" ";
+            // cout<<endl;
+         }
+
+      return ans;
+
     }
 };
