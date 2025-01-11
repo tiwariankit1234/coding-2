@@ -6,6 +6,8 @@ public:
         // then iterate in frequency map of words1 if frequency of a
         // word is less than flag=false and break it
         // if flag true then insert it 
+        // mistake index ka 
+     
          vector<string>ans;
         
               vector<int>maxfrequency(26,0);
@@ -50,7 +52,7 @@ public:
             // }
             // } 
             cout<<endl;
-            if(flag)ans.push_back(s);
+            if(flag)ans.emplace_back(s);
             // for(auto it:ans)
             // cout<<it<<" ";
             // cout<<endl;
