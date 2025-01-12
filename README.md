@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/tiwariankit1234/coding-2/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1034-subarrays-with-k-different-integers) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/tiwariankit1234/coding-2/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/tiwariankit1234/coding-2/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/tiwariankit1234/coding-2/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/tiwariankit1234/coding-2/tree/master/1184-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1370-count-number-of-nice-subarrays) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/tiwariankit1234/coding-2/tree/master/0747-min-cost-climbing-stairs) |
 | [0972-knight-dialer](https://github.com/tiwariankit1234/coding-2/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/tiwariankit1234/coding-2/tree/master/1025-minimum-cost-for-tickets) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/tiwariankit1234/coding-2/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1063-best-sightseeing-pair](https://github.com/tiwariankit1234/coding-2/tree/master/1063-best-sightseeing-pair) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
 | [1130-last-stone-weight-ii](https://github.com/tiwariankit1234/coding-2/tree/master/1130-last-stone-weight-ii) |
