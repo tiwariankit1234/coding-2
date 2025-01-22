@@ -17,11 +17,10 @@ public:
             cout<<"isindexpar chl raha"<<" "<<i<<endl;
             // check merged condition
             if(start<=prevend){
-              ans.erase(ans.begin()+(i-1));
-              cout<<"5"<<endl;
-              ans.push_back({prevstart,max(prevend,end)});
-              prevend=max(prevend,end);
-            
+              
+             
+              ans.back()[1]=max(prevend,end);
+              prevend=max(end,prevend);
             }
             else{
                 ans.push_back({start,end});
