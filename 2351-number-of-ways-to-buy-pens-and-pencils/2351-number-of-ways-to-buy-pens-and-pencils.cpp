@@ -36,10 +36,19 @@ ll f(int total,vector<int>&cost,int idx){
 
         // return count;
         // vector<vector<int>>dp(total+1,vector<int>(2,-1));
-        vector<int>cost(2,0);
-        memset(dp,-1,sizeof(dp));
-        cost[0]=cost1;
-        cost[1]=cost2;
-        return 1+f(total,cost,0);
+        // vector<int>cost(2,0);
+        // memset(dp,-1,sizeof(dp));
+        // cost[0]=cost1;
+        // cost[1]=cost2;
+        // return 1+f(total,cost,0);
+        ll numpens=0;
+       ll ways=0;
+        for(ll numpens=0;numpens<=(total/cost1);numpens++){
+            ll remaining=total-numpens*cost1;
+        
+         ways+=1+(remaining/cost2);
+        
+        }
+        return ways;
     }
 };
