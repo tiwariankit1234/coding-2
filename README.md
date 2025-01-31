@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/tiwariankit1234/coding-2/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/tiwariankit1234/coding-2/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0917-boats-to-save-people](https://github.com/tiwariankit1234/coding-2/tree/master/0917-boats-to-save-people) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/tiwariankit1234/coding-2/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/tiwariankit1234/coding-2/tree/master/0221-maximal-square) |
 | [0787-sliding-puzzle](https://github.com/tiwariankit1234/coding-2/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tiwariankit1234/coding-2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tiwariankit1234/coding-2/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tiwariankit1234/coding-2/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/tiwariankit1234/coding-2/tree/master/0130-surrounded-regions) |
+| [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tiwariankit1234/coding-2/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/tiwariankit1234/coding-2/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0820-find-eventual-safe-states](https://github.com/tiwariankit1234/coding-2/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/tiwariankit1234/coding-2/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tiwariankit1234/coding-2/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
@@ -835,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0787-sliding-puzzle](https://github.com/tiwariankit1234/coding-2/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/tiwariankit1234/coding-2/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/tiwariankit1234/coding-2/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
