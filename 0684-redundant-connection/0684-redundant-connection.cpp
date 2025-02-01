@@ -5,7 +5,7 @@ bool  dfs(int node, vector<vector<int>>&adj,vector<int>&visited,vector<int>&cycl
     visited[node]=1;
     // cout<<node<<endl;
     for(auto child:adj[node]){
-        if(visited[child]==0){
+        if(visited[child]==0 and repeat==0){
            bool t=dfs(child,adj,visited,cycle,node);
          if(t==true){
             if(repeat==node){
