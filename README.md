@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0099-recover-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/tiwariankit1234/coding-2/tree/master/0130-surrounded-regions) |
+| [0210-course-schedule-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/tiwariankit1234/coding-2/tree/master/0437-path-sum-iii) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/tiwariankit1234/coding-2/tree/master/0130-surrounded-regions) |
+| [0210-course-schedule-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/tiwariankit1234/coding-2/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/tiwariankit1234/coding-2/tree/master/0322-coin-change) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/tiwariankit1234/coding-2/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/tiwariankit1234/coding-2/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1002,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/tiwariankit1234/coding-2/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/tiwariankit1234/coding-2/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/tiwariankit1234/coding-2/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
