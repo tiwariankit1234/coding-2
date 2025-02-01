@@ -1,47 +1,53 @@
 class Solution {
 public:
-    vector<bool> checkIfPrerequisite(int numCourses,
-                                     vector<vector<int>>& prerequisites,
-                                     vector<vector<int>>& queries) {
-        unordered_map<int, vector<int>> adjList;
-        vector<int> indegree(numCourses, 0);
-        for (auto edge : prerequisites) {
-            adjList[edge[0]].push_back(edge[1]);
-            indegree[edge[1]]++;
-        }
 
-        queue<int> q;
-        for (int i = 0; i < numCourses; i++) {
-            if (!indegree[i]) {
-                q.push(i);
-            }
-        }
+int topoSort(int v, vector<vector<int>>&adj,int start,int end) 
+	{
+	   vector<int>visited(v,0);
+	    queue<int>q;
+	    q.push(start);
+	     visited[start]=1;
+	     while(q.size()>0){
+	         int node=q.front();
+	         q.pop();
 
-        // Map from the node as key to the set of prerequisite nodes.
-        unordered_map<int, unordered_set<int>> nodePrerequisites;
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
-
-            for (auto adj : adjList[node]) {
-                // Add node and prerequisite of node to the prerequisites of adj
-                nodePrerequisites[adj].insert(node);
-                for (auto prereq : nodePrerequisites[node]) {
-                    nodePrerequisites[adj].insert(prereq);
+             if(node==end)return true;
+	       
+	         
+	         // node is in topo
+	         // so please remove it from the indegree
+	         for(auto it:adj[node] ){
+                if(visited[it]==0){
+	             q.push(it);
+                 visited[it]=1;
                 }
+	         }   
+	     }
+	       return false;
+	}
 
-                indegree[adj]--;
-                if (!indegree[adj]) {
-                    q.push(adj);
-                }
-            }
-        }
 
-        vector<bool> answer;
-        for (auto q : queries) {
-            answer.push_back(nodePrerequisites[q[1]].contains(q[0]));
-        }
 
-        return answer;
+    vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
+        
+           int v=numCourses;
+        int m=prerequisites.size();
+        
+        vector<vector<int>>adj(v);
+       for(auto it:prerequisites){
+        int prerequisites=it[0];
+        int course=it[1];
+     
+        adj[prerequisites].push_back(course);   
+    }
+   
+    vector<bool>ans(queries.size(),false);
+    if(prerequisites.size()==0)return ans;
+        int i=0;
+    for(auto it:queries){
+        ans[i++]=topoSort(v,adj,it[0],it[1]);
+    }
+    
+    return ans;
     }
 };
