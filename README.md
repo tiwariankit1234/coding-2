@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3419-maximum-points-inside-the-square](https://github.com/tiwariankit1234/coding-2/tree/master/3419-maximum-points-inside-the-square) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/tiwariankit1234/coding-2/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/tiwariankit1234/coding-2/tree/master/3429-special-array-i) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tiwariankit1234/coding-2/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
