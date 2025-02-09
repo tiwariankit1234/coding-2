@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/tiwariankit1234/coding-2/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tiwariankit1234/coding-2/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/tiwariankit1234/coding-2/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tiwariankit1234/coding-2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0494-target-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tiwariankit1234/coding-2/tree/master/0646-maximum-length-of-pair-chain) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tiwariankit1234/coding-2/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/tiwariankit1234/coding-2/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tiwariankit1234/coding-2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tiwariankit1234/coding-2/tree/master/0646-maximum-length-of-pair-chain) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0283-move-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tiwariankit1234/coding-2/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -726,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/tiwariankit1234/coding-2/tree/master/0278-first-bad-version) |
 | [0436-find-right-interval](https://github.com/tiwariankit1234/coding-2/tree/master/0436-find-right-interval) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/tiwariankit1234/coding-2/tree/master/0729-my-calendar-i) |
