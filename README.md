@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/tiwariankit1234/coding-2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/tiwariankit1234/coding-2/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/tiwariankit1234/coding-2/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2448-count-number-of-bad-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tiwariankit1234/coding-2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tiwariankit1234/coding-2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/tiwariankit1234/coding-2/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/tiwariankit1234/coding-2/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/tiwariankit1234/coding-2/tree/master/2411-spiral-matrix-iv) |
+| [2448-count-number-of-bad-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tiwariankit1234/coding-2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tiwariankit1234/coding-2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/tiwariankit1234/coding-2/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tiwariankit1234/coding-2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/tiwariankit1234/coding-2/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/tiwariankit1234/coding-2/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2448-count-number-of-bad-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/tiwariankit1234/coding-2/tree/master/2531-create-components-with-same-value) |
 | [2716-prime-subtraction-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2716-prime-subtraction-operation) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/tiwariankit1234/coding-2/tree/master/3046-minimum-operations-to-make-a-special-number) |
