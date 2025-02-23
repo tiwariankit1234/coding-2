@@ -1,31 +1,42 @@
 class Solution {
 public:
-vector<string>ans;
-void f(string s,int idx,int n){
+
+string l="";
+int count=0;
+void f(string s,int idx,int n,int m){
     if(s.size()==n){
-        ans.push_back(s);
+      count++;
+       if(count==m){
+        l=s;
+       }
         return ;
     }
        if(idx>=1){
         char previouschar=s[idx-1];
         for(char i='a';i<='c';i++){
-            if(i!=previouschar)
-            f(s+i,idx+1,n);
+            if(i!=previouschar){
+                s+=i;
+            f(s,idx+1,n,m);
+            s.pop_back();
         }
        }
+     }  
        else{
           for(char i='a';i<='c';i++){
-            f(s+i,idx+1,n);
+            s+=i;
+            f(s,idx+1,n,m);
+           s.pop_back();
         }
        }
+ 
     return ;
 }
     string getHappyString(int n, int k) {
          
-        f("",0,n);
+        f("",0,n,k);
         
-        sort(ans.begin(),ans.end());
-          if(k>ans.size())return "";
-        return ans[k-1];
+      
+         
+        return l;
     }
 };
