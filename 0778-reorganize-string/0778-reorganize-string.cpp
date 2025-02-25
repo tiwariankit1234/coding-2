@@ -3,7 +3,7 @@ public:
     string reorganizeString(string s) {
         int n = s.size();
         unordered_map<char, int> mp;
-        
+
         // Count frequency of each character
         for (char c : s) {
             mp[c]++;
@@ -19,25 +19,24 @@ public:
         if (pq.top().first > (n + 1) / 2) return "";
 
         string t = "";
-        while (pq.size() > 1) {
-            // Extract the two most frequent characters
+        while (!pq.empty()) {
+            // Extract the most frequent character
             auto [freq1, char1] = pq.top();
             pq.pop();
-            auto [freq2, char2] = pq.top();
-            pq.pop();
-
-            // Append to result
             t += char1;
-            t += char2;
 
-            // Decrease frequency and push back if still available
+            // Extract the second most frequent character if available
+            if (!pq.empty()) {
+                auto [freq2, char2] = pq.top();
+                pq.pop();
+                t += char2;
+
+                // Push the second character back if it still has occurrences left
+                if (--freq2 > 0) pq.push({freq2, char2});
+            }
+
+            // Push the first character back if it still has occurrences left
             if (--freq1 > 0) pq.push({freq1, char1});
-            if (--freq2 > 0) pq.push({freq2, char2});
-        }
-
-        // If one character remains, append it
-        if (!pq.empty()) {
-            t += pq.top().second;
         }
 
         return t;
