@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tiwariankit1234/coding-2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1464-reduce-array-size-to-the-half](https://github.com/tiwariankit1234/coding-2/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tiwariankit1234/coding-2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tiwariankit1234/coding-2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/tiwariankit1234/coding-2/tree/master/1502-construct-k-palindrome-strings) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tiwariankit1234/coding-2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/tiwariankit1234/coding-2/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/1435-xor-queries-of-a-subarray) |
+| [1464-reduce-array-size-to-the-half](https://github.com/tiwariankit1234/coding-2/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tiwariankit1234/coding-2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/tiwariankit1234/coding-2/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/1256-rank-transform-of-an-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tiwariankit1234/coding-2/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1464-reduce-array-size-to-the-half](https://github.com/tiwariankit1234/coding-2/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tiwariankit1234/coding-2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1961-maximum-ice-cream-bars](https://github.com/tiwariankit1234/coding-2/tree/master/1961-maximum-ice-cream-bars) |
 | [2164-two-best-non-overlapping-events](https://github.com/tiwariankit1234/coding-2/tree/master/2164-two-best-non-overlapping-events) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-previous-permutation-with-one-swap](https://github.com/tiwariankit1234/coding-2/tree/master/1139-previous-permutation-with-one-swap) |
 | [1304-longest-happy-string](https://github.com/tiwariankit1234/coding-2/tree/master/1304-longest-happy-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1464-reduce-array-size-to-the-half](https://github.com/tiwariankit1234/coding-2/tree/master/1464-reduce-array-size-to-the-half) |
 | [1502-construct-k-palindrome-strings](https://github.com/tiwariankit1234/coding-2/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tiwariankit1234/coding-2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/tiwariankit1234/coding-2/tree/master/1917-maximum-average-pass-ratio) |
@@ -908,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1184-car-pooling](https://github.com/tiwariankit1234/coding-2/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/tiwariankit1234/coding-2/tree/master/1304-longest-happy-string) |
+| [1464-reduce-array-size-to-the-half](https://github.com/tiwariankit1234/coding-2/tree/master/1464-reduce-array-size-to-the-half) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/tiwariankit1234/coding-2/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/tiwariankit1234/coding-2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
