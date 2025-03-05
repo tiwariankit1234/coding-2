@@ -14,12 +14,8 @@ int f(int i,int j,int k){
         res=max(res,ans);
     }
     else{
-        // shift i
-        int a=f(i+1,j,k);
-        res=max(a,res);
-        // shift j
-        int b=f(i,j-1,k);
-        res=max(res,b);
+        res=max(f(i+1,j,k),res);
+        res=max(res,f(i,j-1,k));
         int cost=min(abs(s[i]-s[j]),26-abs(s[i]-s[j]));
         if(k>=cost){
             int newk=k-cost;
