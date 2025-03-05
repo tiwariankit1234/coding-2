@@ -1,7 +1,9 @@
 class Solution {
 public:
 string s="";
-int dp[202][202][202];
+// int dp[202][202][202];
+
+vector<vector<vector<int>>>dp;
 int f(int i,int j,int k){
     if(i>j)return 0;
     if(i==j)return 1;
@@ -29,7 +31,8 @@ int f(int i,int j,int k){
     int longestPalindromicSubsequence(string t, int k) {
         s=t;
         int n=t.size();
-        memset(dp,-1,sizeof(dp));
+        dp.clear();
+        dp.resize(n+1,vector<vector<int>>(n+1,vector<int>(k+1,-1)));
         return f(0,n-1,k);
     }
 };
