@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/tiwariankit1234/coding-2/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/tiwariankit1234/coding-2/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/tiwariankit1234/coding-2/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tiwariankit1234/coding-2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0140-word-break-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tiwariankit1234/coding-2/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tiwariankit1234/coding-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tiwariankit1234/coding-2/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0090-subsets-ii) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/tiwariankit1234/coding-2/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tiwariankit1234/coding-2/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/tiwariankit1234/coding-2/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/tiwariankit1234/coding-2/tree/master/0174-dungeon-game) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tiwariankit1234/coding-2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0140-word-break-ii) |
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tiwariankit1234/coding-2/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0113-path-sum-ii) |
