@@ -1,3 +1,9 @@
+//https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/?envType=daily-question&envId=2025-03-11
+// aaabc
+// is testcase me l a par aayega aur r c par tab hame a se start hone wali saari strings calculate karni padegi and then window shrink karna padega
+//kyounk expand jab tak window valid na ho
+// shrink jab tak karo string unvalid na ho jaye
+
 class Solution {
 public:
     int numberOfSubstrings(string s) {
