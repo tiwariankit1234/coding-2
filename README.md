@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tiwariankit1234/coding-2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tiwariankit1234/coding-2/tree/master/2300-construct-string-with-repeat-limit) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/tiwariankit1234/coding-2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/tiwariankit1234/coding-2/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2448-count-number-of-bad-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/tiwariankit1234/coding-2/tree/master/2531-create-components-with-same-value) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tiwariankit1234/coding-2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/tiwariankit1234/coding-2/tree/master/2164-two-best-non-overlapping-events) |
+| [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2530-minimize-maximum-of-array](https://github.com/tiwariankit1234/coding-2/tree/master/2530-minimize-maximum-of-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/tiwariankit1234/coding-2/tree/master/2554-minimum-total-distance-traveled) |
@@ -1166,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
 | [3201-distribute-candies-among-children-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3201-distribute-candies-among-children-ii) |
 ## Binary Indexed Tree
 |  |
