@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-minimum-cost-to-merge-stones](https://github.com/tiwariankit1234/coding-2/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1046-max-consecutive-ones-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/tiwariankit1234/coding-2/tree/master/1063-best-sightseeing-pair) |
+| [1081-video-stitching](https://github.com/tiwariankit1234/coding-2/tree/master/1081-video-stitching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
 | [1130-last-stone-weight-ii](https://github.com/tiwariankit1234/coding-2/tree/master/1130-last-stone-weight-ii) |
 | [1139-previous-permutation-with-one-swap](https://github.com/tiwariankit1234/coding-2/tree/master/1139-previous-permutation-with-one-swap) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/tiwariankit1234/coding-2/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tiwariankit1234/coding-2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/tiwariankit1234/coding-2/tree/master/0985-bag-of-tokens) |
+| [1081-video-stitching](https://github.com/tiwariankit1234/coding-2/tree/master/1081-video-stitching) |
 | [1139-previous-permutation-with-one-swap](https://github.com/tiwariankit1234/coding-2/tree/master/1139-previous-permutation-with-one-swap) |
 | [1304-longest-happy-string](https://github.com/tiwariankit1234/coding-2/tree/master/1304-longest-happy-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/tiwariankit1234/coding-2/tree/master/1025-minimum-cost-for-tickets) |
 | [1042-minimum-cost-to-merge-stones](https://github.com/tiwariankit1234/coding-2/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1063-best-sightseeing-pair](https://github.com/tiwariankit1234/coding-2/tree/master/1063-best-sightseeing-pair) |
+| [1081-video-stitching](https://github.com/tiwariankit1234/coding-2/tree/master/1081-video-stitching) |
 | [1086-divisor-game](https://github.com/tiwariankit1234/coding-2/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
 | [1130-last-stone-weight-ii](https://github.com/tiwariankit1234/coding-2/tree/master/1130-last-stone-weight-ii) |
