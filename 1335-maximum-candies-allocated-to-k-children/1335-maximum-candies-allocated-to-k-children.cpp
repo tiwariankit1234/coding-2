@@ -1,6 +1,8 @@
 #define ll long long
 
-
+//jab bhi ye statements 
+// maximum number of candies to distribute each child
+//
 class Solution {
 public:
 
