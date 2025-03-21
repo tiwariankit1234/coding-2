@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1752-arithmetic-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tiwariankit1234/coding-2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/tiwariankit1234/coding-2/tree/master/1813-maximum-erasure-value) |
+| [1830-count-good-meals](https://github.com/tiwariankit1234/coding-2/tree/master/1830-count-good-meals) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/tiwariankit1234/coding-2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tiwariankit1234/coding-2/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/tiwariankit1234/coding-2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/tiwariankit1234/coding-2/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/tiwariankit1234/coding-2/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1830-count-good-meals](https://github.com/tiwariankit1234/coding-2/tree/master/1830-count-good-meals) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/tiwariankit1234/coding-2/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tiwariankit1234/coding-2/tree/master/1878-check-if-array-is-sorted-and-rotated) |
