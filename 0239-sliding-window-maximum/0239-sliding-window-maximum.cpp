@@ -1,49 +1,41 @@
-class Solution {
-public:
-    vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        // ek window ka nikal lunga
-       vector<int>ans;
-       int n=nums.size();
+#include <iostream>
+#include <vector>
+#include <map>
+using namespace std;
+class Solution{
+    public:
 
-           deque<int>dq;
-        
-       for(int i=0;i<k;i++){
-         while(!(dq.empty()) and dq.front()<=(i-k)){
-            dq.pop_front();
-         }
-        while(!dq.empty() and nums[i]>=nums[dq.back()]){
-            dq.pop_back(); 
-        }
 
- 
-        dq.push_back(i);
-        // cout<<dq.front()<<" "<<endl;
-     }
-      ans.push_back(nums[dq.front()]);
-     
-       int j=k;
-       while(j<n){
-
-           while(!dq.empty() and dq.front()<=(j-k)){
-            dq.pop_front();
-         }
-               
+vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+    vector<int> result;
+    map<int, int> window; // Maps value -> frequency (ordered by key)
     
-        while(!dq.empty() and nums[j]>=nums[dq.back()]){
-            dq.pop_back(); 
-        }
-
-        dq.push_back(j);
-       
-         
-
-      
-       
-        
-          ans.push_back(nums[dq.front()]);
-
-          j++;
-       }
-       return ans;
+    // Process the first k elements
+    for (int i = 0; i < k; i++) {
+        window[nums[i]]++;
     }
+    
+    // Add the maximum of the first window to result
+    result.push_back(window.rbegin()->first); // Get the largest key
+    
+    // Process the remaining elements
+    for (int i = k; i < nums.size(); i++) {
+        // Remove the leftmost element from the window
+        int leftElement = nums[i - k];
+        window[leftElement]--;
+        if (window[leftElement] == 0) {
+            window.erase(leftElement);
+        }
+        
+        // Add the current element to the window
+        window[nums[i]]++;
+        
+        // Add the maximum of the current window to result
+        result.push_back(window.rbegin()->first);
+    }
+    
+    return result;
+}
+
 };
+
