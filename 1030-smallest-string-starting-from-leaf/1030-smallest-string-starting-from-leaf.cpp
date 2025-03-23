@@ -1,16 +1,13 @@
 
 class Solution {
 public:
-string small="";
+string small="~";
 void f(TreeNode* root,string currentstring){
     if(!root->left and !root->right){
        currentstring.push_back('a'+root->val);
         reverse(currentstring.begin(),currentstring.end());
         
-        if(small==""||currentstring<small){
-            small=currentstring;
-            return;
-        }
+        small=min(small,currentstring);
         return ;
     }
     currentstring.push_back('a'+root->val);
