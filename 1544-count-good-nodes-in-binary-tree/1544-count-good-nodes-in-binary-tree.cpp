@@ -1,21 +1,22 @@
 
 class Solution {
 public:
-int count=0;
-void f(TreeNode* root,int maxvalue){
 
-    if(!root)return ;
+int f(TreeNode* root,int maxvalue){
+
+    if(!root)return 0;
+    int count=0;
     if(root->val>=maxvalue){
         count++;
       maxvalue=root->val;
     }
-    if(root->left)f(root->left,maxvalue);
-    if(root->right)f(root->right,maxvalue);
-    return ;
+    if(root->left)count+=f(root->left,maxvalue);
+    if(root->right)count+=f(root->right,maxvalue);
+    return count;
 }
 
     int goodNodes(TreeNode* root) {
-         f(root,INT_MIN);
-         return count;
+         return f(root,INT_MIN);
+     
     }
 };
