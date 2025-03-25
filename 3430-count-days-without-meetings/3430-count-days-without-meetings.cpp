@@ -10,23 +10,21 @@ public:
         }
         int count=0,sum=0;
         vector<int>ans;
-        int previousday=-1,start=0;
+        int previousday=1,start=0;
         for(auto it:mp){
-           if(previousday<=days and sum==0 and start>=1){
-              count+=it.first-previousday;
-           }
-             sum+=it.second;
+         
             if(sum==0){
-             start++;
-            previousday=it.first;
-            }
+              count+=it.first-previousday;
+            } 
+             sum+=it.second;
+              previousday=it.first;
           
         }
            previousday=previousday-1;
         if(previousday<=days){
             count+=days-previousday;
         }
-        count+=arr[0][0]-1;
+       
         return count;
         
     }
