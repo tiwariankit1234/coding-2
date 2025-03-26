@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/tiwariankit1234/coding-2/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tiwariankit1234/coding-2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/tiwariankit1234/coding-2/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/tiwariankit1234/coding-2/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/tiwariankit1234/coding-2/tree/master/0319-bulb-switcher) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/tiwariankit1234/coding-2/tree/master/0670-maximum-swap) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tiwariankit1234/coding-2/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/tiwariankit1234/coding-2/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tiwariankit1234/coding-2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/0581-shortest-unsorted-continuous-subarray) |
