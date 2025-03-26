@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/tiwariankit1234/coding-2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2145-grid-game](https://github.com/tiwariankit1234/coding-2/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/tiwariankit1234/coding-2/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tiwariankit1234/coding-2/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/tiwariankit1234/coding-2/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/tiwariankit1234/coding-2/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/tiwariankit1234/coding-2/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/tiwariankit1234/coding-2/tree/master/2411-spiral-matrix-iv) |
 | [2625-increment-submatrices-by-one](https://github.com/tiwariankit1234/coding-2/tree/master/2625-increment-submatrices-by-one) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/tiwariankit1234/coding-2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/tiwariankit1234/coding-2/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2448-count-number-of-bad-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2448-count-number-of-bad-pairs) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1752-arithmetic-subarrays) |
 | [1961-maximum-ice-cream-bars](https://github.com/tiwariankit1234/coding-2/tree/master/1961-maximum-ice-cream-bars) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/tiwariankit1234/coding-2/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tiwariankit1234/coding-2/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tiwariankit1234/coding-2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
