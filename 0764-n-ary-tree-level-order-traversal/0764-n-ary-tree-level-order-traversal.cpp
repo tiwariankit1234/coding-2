@@ -53,15 +53,15 @@ public:
         q.push(root);
         vector<vector<int>> ans;
         while (!q.empty()) {
-               vector<int>level;
+              ans.emplace_back();
              for (int i = q.size(); i >= 1; i--) {
                 Node* curr = q.front(); q.pop();
-                level.push_back(curr->val);
+               ans.back().push_back(curr->val);
                 for (Node* child : curr->children) {
                     q.push(child);
                 }
             }
-            ans.push_back(level);
+          
         }
         return ans;
     }
