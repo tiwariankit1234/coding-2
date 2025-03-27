@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tiwariankit1234/coding-2/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tiwariankit1234/coding-2/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
@@ -898,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/tiwariankit1234/coding-2/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/tiwariankit1234/coding-2/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tiwariankit1234/coding-2/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tiwariankit1234/coding-2/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/tiwariankit1234/coding-2/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tiwariankit1234/coding-2/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tiwariankit1234/coding-2/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tiwariankit1234/coding-2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/tiwariankit1234/coding-2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/tiwariankit1234/coding-2/tree/master/0859-design-circular-deque) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tiwariankit1234/coding-2/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1152,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1035-cousins-in-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/tiwariankit1234/coding-2/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -1245,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tiwariankit1234/coding-2/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
