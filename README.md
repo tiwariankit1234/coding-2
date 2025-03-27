@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/tiwariankit1234/coding-2/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tiwariankit1234/coding-2/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/tiwariankit1234/coding-2/tree/master/0684-redundant-connection) |
@@ -1232,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/tiwariankit1234/coding-2/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tiwariankit1234/coding-2/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1266,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/tiwariankit1234/coding-2/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tiwariankit1234/coding-2/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1291,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/tiwariankit1234/coding-2/tree/master/0173-binary-search-tree-iterator) |
+| [0538-convert-bst-to-greater-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0783-search-in-a-binary-search-tree) |
 ## Iterator
