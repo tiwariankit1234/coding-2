@@ -22,47 +22,47 @@ public:
 // emplace back ka use
 // ans vector me new level insert karne ke liye emplace_back() ka use karte hain
 // ans[level].push_back insert karne ke liye
-class Solution { // 16 ms, faster than 98.53%
-public:
-    vector<vector<int>> ans;
-    vector<vector<int>> levelOrder(Node* root) {
-        dfs(root, 0);
-        return ans;
-    }
-    void dfs(Node* root, int level) {
-        if (root == nullptr) return;
-        if (level == ans.size()){ ans.emplace_back();
-        cout<<level<<" "<<ans.size()<<endl;
-        } // Need more level -> Add new level
-        ans[level].push_back(root->val);
-        for (Node* child : root->children)
-            dfs(child, level + 1);
-    }
-};
+// class Solution { // 16 ms, faster than 98.53%
+// public:
+//     vector<vector<int>> ans;
+//     vector<vector<int>> levelOrder(Node* root) {
+//         dfs(root, 0);
+//         return ans;
+//     }
+//     void dfs(Node* root, int level) {
+//         if (root == nullptr) return;
+//         if (level == ans.size()){ ans.emplace_back();
+//         cout<<level<<" "<<ans.size()<<endl;
+//         } // Need more level -> Add new level
+//         ans[level].push_back(root->val);
+//         for (Node* child : root->children)
+//             dfs(child, level + 1);
+//     }
+// };
 
 
 
 //bfs solution
 
 
-// //class Solution { 
-// public:
-//     vector<vector<int>> levelOrder(Node* root) {
-//         if (root == nullptr) return {};
-//         queue<Node*> q;
-//         q.push(root);
-//         vector<vector<int>> ans;
-//         while (!q.empty()) {
-//             ans.emplace_back();
-//             for (int i = q.size(); i >= 1; i--) {
-//                 Node* curr = q.front(); q.pop();
-//                 ans.back().push_back(curr->val);
-//                 for (Node* child : curr->children) {
-//                     q.push(child);
-//                 }
-//             }
-//         }
-//         return ans;
-//     }
-// };
-//
+class Solution { 
+public:
+    vector<vector<int>> levelOrder(Node* root) {
+        if (root == nullptr) return {};
+        queue<Node*> q;
+        q.push(root);
+        vector<vector<int>> ans;
+        while (!q.empty()) {
+               vector<int>level;
+             for (int i = q.size(); i >= 1; i--) {
+                Node* curr = q.front(); q.pop();
+                level.push_back(curr->val);
+                for (Node* child : curr->children) {
+                    q.push(child);
+                }
+            }
+            ans.push_back(level);
+        }
+        return ans;
+    }
+};
