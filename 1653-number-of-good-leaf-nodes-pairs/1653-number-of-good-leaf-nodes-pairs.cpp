@@ -1,73 +1,40 @@
-
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-void buildAdjacency(TreeNode* root, unordered_map<TreeNode*, vector<TreeNode*>>& adj,unordered_set<TreeNode*>&leafnode) {
-    if (!root) return;
-    if(!root->left and !root->right){
-       leafnode.insert(root);
-        
-    }
-  
+int count=0;
+vector<int> f(TreeNode* root,int distance){
+    if(!root->left and !root->right)return {1};
+    vector<int>lefty;
+    if(root->left)lefty=f(root->left,distance);
+    vector<int>righty;
+    if(root->right)righty=f(root->right,distance);
     
-    if (root->left) {
-        adj[root].push_back(root->left);
-        adj[root->left].push_back(root); // Undirected connection
-        buildAdjacency(root->left, adj,leafnode);
+    for(int i=0;i<lefty.size();i++){
+        for(int j=0;j<righty.size();j++){
+            if(lefty[i]+righty[j]<=distance)
+            count++;
+        }
     }
+    vector<int>current;
+    for(auto it:lefty)current.push_back(++it);
+    for(auto it:righty)current.push_back(++it);
 
-    if (root->right) {
-        adj[root].push_back(root->right);
-        adj[root->right].push_back(root); // Undirected connection
-        buildAdjacency(root->right, adj,leafnode);
-    }
-}
-int bfs(TreeNode* node,unordered_map<TreeNode*, vector<TreeNode*>>& adj,int dist,unordered_set<TreeNode*>&leaf){
-       unordered_set<TreeNode*>st;
- 
-    queue<TreeNode*>q;
-    q.push(node);
-    int level=0,ans=0;
+    return current;
     
-    while(q.size()>0){
-    int n=q.size();
-    for(int i=0;i<n;i++){
-        TreeNode* temp=q.front();
-        q.pop();
-        st.insert(temp);
-        if(level<=dist){
-            if(leaf.find(temp)!=leaf.end() and temp!=node){
-                ans++;
-            }
-        }
-        if(level>dist)return ans;
-        for(auto it:adj[temp]){
-            if(st.find(it)==st.end()){
-                q.push(it);
-            }
-        }
-       
-    }
-    level++;
-}
- return ans;
 }
 
-    int countPairs(TreeNode* root, int dist) {
-         unordered_set<TreeNode*>leafnode;
-        unordered_map<TreeNode*, vector<TreeNode*>>adj;
-        buildAdjacency(root,adj,leafnode);
-       
-
-        unordered_set<TreeNode*>s;
-        int ans=0;
-        for(auto it:leafnode){
-            if(s.find(it)==s.end()){
-                s.insert(it);
-               ans+=bfs(it,adj,dist,leafnode);
-            }
-        }
-
-     return ans/2;
-
+    int countPairs(TreeNode* root, int distance) {
+       f(root,distance);
+       return count;
     }
 };
