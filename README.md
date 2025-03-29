@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3643-zero-array-transformation-ii) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tiwariankit1234/coding-2/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3750-closest-equal-element-queries](https://github.com/tiwariankit1234/coding-2/tree/master/3750-closest-equal-element-queries) |
 ## Matrix
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
 |  |
 | ------- |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Stack
 |  |
 | ------- |
