@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/tiwariankit1234/coding-2/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3750-closest-equal-element-queries](https://github.com/tiwariankit1234/coding-2/tree/master/3750-closest-equal-element-queries) |
 ## String
 |  |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3643-zero-array-transformation-ii) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tiwariankit1234/coding-2/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
