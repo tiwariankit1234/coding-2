@@ -1204,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/tiwariankit1234/coding-2/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1035-cousins-in-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1306,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/tiwariankit1234/coding-2/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/tiwariankit1234/coding-2/tree/master/0988-flip-equivalent-binary-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tiwariankit1234/coding-2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1349,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/tiwariankit1234/coding-2/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/tiwariankit1234/coding-2/tree/master/0988-flip-equivalent-binary-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tiwariankit1234/coding-2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/1093-recover-a-tree-from-preorder-traversal) |
