@@ -825,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/tiwariankit1234/coding-2/tree/master/0988-flip-equivalent-binary-trees) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tiwariankit1234/coding-2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1035-cousins-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/tiwariankit1234/coding-2/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tiwariankit1234/coding-2/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1313,6 +1314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tiwariankit1234/coding-2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1035-cousins-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/tiwariankit1234/coding-2/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tiwariankit1234/coding-2/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -1357,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tiwariankit1234/coding-2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1035-cousins-in-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/tiwariankit1234/coding-2/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tiwariankit1234/coding-2/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
