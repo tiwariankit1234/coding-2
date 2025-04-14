@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tiwariankit1234/coding-2/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/tiwariankit1234/coding-2/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/tiwariankit1234/coding-2/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/tiwariankit1234/coding-2/tree/master/0768-partition-labels) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tiwariankit1234/coding-2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/tiwariankit1234/coding-2/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/tiwariankit1234/coding-2/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/tiwariankit1234/coding-2/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/tiwariankit1234/coding-2/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0576-out-of-boundary-paths) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tiwariankit1234/coding-2/tree/master/0646-maximum-length-of-pair-chain) |
