@@ -1,34 +1,43 @@
+
 class Solution {
 public:
-    vector<TreeNode*> f(int start, int end) {
-        vector<TreeNode*> trees;
 
-        if (start > end) {
-            trees.push_back(nullptr);
-            return trees;
-        }
-
-        for (int i = start; i <= end; ++i) {
-            // Generate all possible left and right subtrees
-            vector<TreeNode*> leftSubtrees = f(start, i - 1);
-            vector<TreeNode*> rightSubtrees = f(i + 1, end);
-
-            // Combine each left and right subtree with the root i
-            for (TreeNode* left : leftSubtrees) {
-                for (TreeNode* right : rightSubtrees) {
-                    TreeNode* root = new TreeNode(i);
-                    root->left = left;
-                    root->right = right;
-                    trees.push_back(root);
-                }
+vector<TreeNode*> f(int start,int end){
+   vector<TreeNode*>ans;
+    if(start>end ||end<start)return {NULL};
+    if(start==end)return {new TreeNode(start)};
+  
+    for(int j=start;j<=end;j++){
+          
+       vector<TreeNode*>leftSubtree=f(start,j-1);
+        vector<TreeNode*>rightSubtree=f(j+1,end);
+        // if(root->val==3){
+        //     for(auto it:leftSubtree){
+        //         if(it)
+        //         cout<<it->val<<" ";
+        //     }
+        //     cout<<endl;
+        //     for(auto it:rightSubtree){
+        //         if(it)
+        //     cout<<it->val<<" ";
+        //     }
+        //     cout<<endl;
+        // }
+         for(auto left:leftSubtree){
+            for(auto  right:rightSubtree){
+                 TreeNode* root=new TreeNode(j);
+                root->left=left;
+                root->right=right;
+                ans.push_back(root);
             }
-        }
-
-        return trees;
+         }
     }
-
+    return ans;
+ 
+}
     vector<TreeNode*> generateTrees(int n) {
-        if (n == 0) return {};
-        return f(1, n);
+
+     
+     return f(1,n);
     }
 };
