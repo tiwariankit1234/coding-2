@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/tiwariankit1234/coding-2/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/tiwariankit1234/coding-2/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
+| [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tiwariankit1234/coding-2/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/tiwariankit1234/coding-2/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/tiwariankit1234/coding-2/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tiwariankit1234/coding-2/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tiwariankit1234/coding-2/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1230,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1035-cousins-in-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
@@ -1260,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/tiwariankit1234/coding-2/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/tiwariankit1234/coding-2/tree/master/0820-find-eventual-safe-states) |
+| [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/tiwariankit1234/coding-2/tree/master/1558-course-schedule-iv) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/tiwariankit1234/coding-2/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
@@ -1343,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/tiwariankit1234/coding-2/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tiwariankit1234/coding-2/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1390,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/tiwariankit1234/coding-2/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/tiwariankit1234/coding-2/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
+| [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
