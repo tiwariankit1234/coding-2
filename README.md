@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tiwariankit1234/coding-2/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0063-unique-paths-ii) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tiwariankit1234/coding-2/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/tiwariankit1234/coding-2/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/tiwariankit1234/coding-2/tree/master/0091-decode-ways) |
@@ -1296,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0324-wiggle-sort-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0324-wiggle-sort-ii) |
