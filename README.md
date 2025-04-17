@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/tiwariankit1234/coding-2/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/tiwariankit1234/coding-2/tree/master/0859-design-circular-deque) |
+| [0875-longest-mountain-in-array](https://github.com/tiwariankit1234/coding-2/tree/master/0875-longest-mountain-in-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0901-advantage-shuffle](https://github.com/tiwariankit1234/coding-2/tree/master/0901-advantage-shuffle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/tiwariankit1234/coding-2/tree/master/0768-partition-labels) |
+| [0875-longest-mountain-in-array](https://github.com/tiwariankit1234/coding-2/tree/master/0875-longest-mountain-in-array) |
 | [0901-advantage-shuffle](https://github.com/tiwariankit1234/coding-2/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/tiwariankit1234/coding-2/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/tiwariankit1234/coding-2/tree/master/0985-bag-of-tokens) |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/tiwariankit1234/coding-2/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/tiwariankit1234/coding-2/tree/master/0747-min-cost-climbing-stairs) |
+| [0875-longest-mountain-in-array](https://github.com/tiwariankit1234/coding-2/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/tiwariankit1234/coding-2/tree/master/0943-sum-of-subarray-minimums) |
@@ -1309,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/tiwariankit1234/coding-2/tree/master/0875-longest-mountain-in-array) |
 | [1010-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1010-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/tiwariankit1234/coding-2/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
