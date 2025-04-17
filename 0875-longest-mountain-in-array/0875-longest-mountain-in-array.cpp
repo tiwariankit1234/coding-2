@@ -41,7 +41,7 @@ int longestBitonicSequence(vector<int>& arr, int n) {
         int n=arr.size();
         if(n<=2)return 0;
         int maxi=longestBitonicSequence(arr,n);
-        if(maxi==1|| maxi==-1)return 0;
+        if( maxi==-1)return 0;
         
         return maxi;
     }
