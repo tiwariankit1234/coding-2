@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tiwariankit1234/coding-2/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/tiwariankit1234/coding-2/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/tiwariankit1234/coding-2/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/tiwariankit1234/coding-2/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tiwariankit1234/coding-2/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/tiwariankit1234/coding-2/tree/master/0091-decode-ways) |
