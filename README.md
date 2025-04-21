@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/tiwariankit1234/coding-2/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/tiwariankit1234/coding-2/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tiwariankit1234/coding-2/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tiwariankit1234/coding-2/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tiwariankit1234/coding-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/tiwariankit1234/coding-2/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tiwariankit1234/coding-2/tree/master/2121-find-if-path-exists-in-graph) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/tiwariankit1234/coding-2/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/tiwariankit1234/coding-2/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/tiwariankit1234/coding-2/tree/master/2531-create-components-with-same-value) |
@@ -1399,6 +1401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1731-even-odd-tree) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/tiwariankit1234/coding-2/tree/master/2060-merge-bsts-to-create-single-bst) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/tiwariankit1234/coding-2/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/tiwariankit1234/coding-2/tree/master/2531-create-components-with-same-value) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/tiwariankit1234/coding-2/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1448,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1731-even-odd-tree) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/tiwariankit1234/coding-2/tree/master/2060-merge-bsts-to-create-single-bst) |
+| [2175-count-nodes-with-the-highest-score](https://github.com/tiwariankit1234/coding-2/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/tiwariankit1234/coding-2/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/tiwariankit1234/coding-2/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
