@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/tiwariankit1234/coding-2/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/tiwariankit1234/coding-2/tree/master/2531-create-components-with-same-value) |
 | [2610-closest-prime-numbers-in-range](https://github.com/tiwariankit1234/coding-2/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/tiwariankit1234/coding-2/tree/master/2262-solving-questions-with-brainpower) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2530-minimize-maximum-of-array](https://github.com/tiwariankit1234/coding-2/tree/master/2530-minimize-maximum-of-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/tiwariankit1234/coding-2/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2562-count-ways-to-build-good-strings) |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/tiwariankit1234/coding-2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/tiwariankit1234/coding-2/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tiwariankit1234/coding-2/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1493,6 +1496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/tiwariankit1234/coding-2/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Indexed Tree
