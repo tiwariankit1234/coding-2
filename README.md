@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tiwariankit1234/coding-2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3363-most-frequent-ids](https://github.com/tiwariankit1234/coding-2/tree/master/3363-most-frequent-ids) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3419-maximum-points-inside-the-square](https://github.com/tiwariankit1234/coding-2/tree/master/3419-maximum-points-inside-the-square) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/tiwariankit1234/coding-2/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/tiwariankit1234/coding-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3363-most-frequent-ids](https://github.com/tiwariankit1234/coding-2/tree/master/3363-most-frequent-ids) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -1201,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/tiwariankit1234/coding-2/tree/master/2434-design-a-number-container-system) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/tiwariankit1234/coding-2/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2868-continuous-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2868-continuous-subarrays) |
+| [3363-most-frequent-ids](https://github.com/tiwariankit1234/coding-2/tree/master/3363-most-frequent-ids) |
 ## Queue
 |  |
 | ------- |
@@ -1237,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/tiwariankit1234/coding-2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3363-most-frequent-ids](https://github.com/tiwariankit1234/coding-2/tree/master/3363-most-frequent-ids) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
