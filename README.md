@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tiwariankit1234/coding-2/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3419-maximum-points-inside-the-square](https://github.com/tiwariankit1234/coding-2/tree/master/3419-maximum-points-inside-the-square) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/tiwariankit1234/coding-2/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tiwariankit1234/coding-2/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -1034,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
+| [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tiwariankit1234/coding-2/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
