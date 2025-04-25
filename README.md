@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/tiwariankit1234/coding-2/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/tiwariankit1234/coding-2/tree/master/1694-make-sum-divisible-by-p) |
+| [1706-min-cost-to-connect-all-points](https://github.com/tiwariankit1234/coding-2/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/tiwariankit1234/coding-2/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/tiwariankit1234/coding-2/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
+| [1706-min-cost-to-connect-all-points](https://github.com/tiwariankit1234/coding-2/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tiwariankit1234/coding-2/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/tiwariankit1234/coding-2/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/tiwariankit1234/coding-2/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1334,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/tiwariankit1234/coding-2/tree/master/1558-course-schedule-iv) |
+| [1706-min-cost-to-connect-all-points](https://github.com/tiwariankit1234/coding-2/tree/master/1706-min-cost-to-connect-all-points) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/tiwariankit1234/coding-2/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tiwariankit1234/coding-2/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tiwariankit1234/coding-2/tree/master/2121-find-if-path-exists-in-graph) |
@@ -1588,4 +1591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/tiwariankit1234/coding-2/tree/master/1418-fair-distribution-of-cookies) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/tiwariankit1234/coding-2/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
