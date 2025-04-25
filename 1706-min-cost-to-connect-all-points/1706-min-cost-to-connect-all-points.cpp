@@ -1,38 +1,57 @@
 class Solution {
 public:
-    int minCostConnectPoints(vector<vector<int>>& points) {
-        int n = points.size();
+    struct hash_pair {
+        size_t operator()(const pair<int, int>& p) const {
+            return hash<long long>()(((long long)p.first << 32) | p.second);
+        }
+    };
+
+    int primMST(int n, unordered_map<pair<int, int>, int, hash_pair>& edges) {
+        // Build adjacency list
+        vector<vector<pair<int, int>>> adj(n);
+        for (auto& [p, wt] : edges) {
+            int u = p.first;
+            int v = p.second;
+            adj[u].push_back({v, wt});
+            adj[v].push_back({u, wt}); // undirected graph
+        }
 
         vector<bool> inMST(n, false);
-        vector<int> minDist(n, INT_MAX);
-        minDist[0] = 0;
-
-        // priority_queue stores: {cost, node}
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>> pq;
-        pq.push({0, 0});
+        pq.push({0, 0}); // {weight, node}
 
-        int totalCost = 0;
+        int totalWeight = 0;
 
         while (!pq.empty()) {
-            auto [cost, u] = pq.top();
+            auto [wt, u] = pq.top();
             pq.pop();
 
             if (inMST[u]) continue;
-
             inMST[u] = true;
-            totalCost += cost;
+            totalWeight += wt;
 
-            for (int v = 0; v < n; ++v) {
+            for (auto& [v, w] : adj[u]) {
                 if (!inMST[v]) {
-                    int wt = abs(points[u][0] - points[v][0]) + abs(points[u][1] - points[v][1]);
-                    if (wt < minDist[v]) {
-                        minDist[v] = wt;
-                        pq.push({wt, v});
-                    }
+                    pq.push({w, v});
                 }
             }
         }
 
-        return totalCost;
+        return totalWeight;
+    }
+
+    int minCostConnectPoints(vector<vector<int>>& points) {
+        int n = points.size();
+        unordered_map<pair<int, int>, int, hash_pair> mp;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                int wt = abs(points[i][0] - points[j][0]) + abs(points[i][1] - points[j][1]);
+                mp[{i, j}] = wt;
+                mp[{j, i}] = wt;
+            }
+        }
+
+        return primMST(n, mp);
     }
 };
