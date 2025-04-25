@@ -1,35 +1,41 @@
 class Solution {
 public:
-int dp[1002][12];
-int countcol(int j,vector<vector<int>>&grid,int x){
-     int m=grid.size(),n=grid[0].size();
-     int ans=0;
-    for(int i=0;i<m;i++){
-       
-       if(grid[i][j]!=x)
-       ans++;
-    }
-    return ans;
-}
-int f(int j,vector<vector<int>>&grid,int prev){
-    int m=grid.size(),n=grid[0].size();
-    if(j==n)return 0;
-    if(dp[j][prev+1]!=-1)return dp[j][prev+1];
-    int ans=INT_MAX;
-    for(int k=0;k<=9;k++){
-        if(k!=prev){
-         int count=countcol(j,grid,k);
-           
-           
-            ans=min(ans,count+f(j+1,grid,k));
-            
-      
-        }
-    }
-    return dp[j][prev+1]=ans;
-}
     int minimumOperations(vector<vector<int>>& grid) {
-        memset(dp,-1,sizeof(dp));
-        return f(0,grid,-1);
+        // here first int is col index , second int is number and third index is freq(number)
+        map<pair<int , int> , int> cnt;
+        // Count occurrences of values in each column
+        for(int i = 0 ; i < grid[0].size() ; i++ ){
+            for(int j = 0 ; j < grid.size() ; j++ ){
+                cnt[{i , grid[j][i]}]++;
+            }
+        }
+
+        // Initialize dp table with -1
+        vector<vector<int>> dp(grid[0].size()+1 , vector<int>(11 , -1));
+
+        // here sending 10 for prev value it's not present in grid so it will always be non existing
+        return helper(grid , cnt , 0 , 10 , dp);
+    }
+
+    int helper(vector<vector<int>>& grid , map<pair<int , int> , int>& cnt , int idx , int prev , vector<vector<int>>& dp){
+        // Base case: if we've processed all columns
+        if(idx >= grid[0].size()) return 0;
+
+        // If result for current state is already computed, return it
+        if(dp[idx][prev] != -1) return dp[idx][prev];
+
+        int ans = INT_MAX;
+
+        // Try changing current column to different values
+        for(int i = 0 ; i <= 9 ; i++ ){
+            if(i != prev){
+                // grid.size() - cnt[{idx, i}]) is = All rows - freq(i) of current col index
+                int current_operations = (int)(grid.size() - cnt[{idx, i}]) + helper(grid, cnt, idx + 1, i , dp);
+                ans = min(ans , current_operations);
+            }
+        }
+
+        // Memoize the result and return
+        return dp[idx][prev] = ans;
     }
 };
