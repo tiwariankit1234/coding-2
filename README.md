@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/tiwariankit1234/coding-2/tree/master/3750-closest-equal-element-queries) |
 | [3819-count-covered-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/3819-count-covered-buildings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/tiwariankit1234/coding-2/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/tiwariankit1234/coding-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Counting
 |  |
 | ------- |
@@ -1164,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3643-zero-array-transformation-ii) |
 | [3750-closest-equal-element-queries](https://github.com/tiwariankit1234/coding-2/tree/master/3750-closest-equal-element-queries) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1373,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/tiwariankit1234/coding-2/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/tiwariankit1234/coding-2/tree/master/3561-remove-methods-from-project) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
