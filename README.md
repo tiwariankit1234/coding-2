@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/tiwariankit1234/coding-2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tiwariankit1234/coding-2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2721-sum-of-distances](https://github.com/tiwariankit1234/coding-2/tree/master/2721-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tiwariankit1234/coding-2/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tiwariankit1234/coding-2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2716-prime-subtraction-operation) |
+| [2721-sum-of-distances](https://github.com/tiwariankit1234/coding-2/tree/master/2721-sum-of-distances) |
 | [2725-mice-and-cheese](https://github.com/tiwariankit1234/coding-2/tree/master/2725-mice-and-cheese) |
 | [2730-maximum-or](https://github.com/tiwariankit1234/coding-2/tree/master/2730-maximum-or) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/tiwariankit1234/coding-2/tree/master/2530-minimize-maximum-of-array) |
 | [2625-increment-submatrices-by-one](https://github.com/tiwariankit1234/coding-2/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/tiwariankit1234/coding-2/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2721-sum-of-distances](https://github.com/tiwariankit1234/coding-2/tree/master/2721-sum-of-distances) |
 | [2730-maximum-or](https://github.com/tiwariankit1234/coding-2/tree/master/2730-maximum-or) |
 | [2915-count-of-interesting-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
