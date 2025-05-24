@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3750-closest-equal-element-queries](https://github.com/tiwariankit1234/coding-2/tree/master/3750-closest-equal-element-queries) |
 | [3819-count-covered-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/3819-count-covered-buildings) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
 | ------- |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/tiwariankit1234/coding-2/tree/master/3750-closest-equal-element-queries) |
 | [3819-count-covered-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/3819-count-covered-buildings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/tiwariankit1234/coding-2/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3647-zero-array-transformation-iii](https://github.com/tiwariankit1234/coding-2/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tiwariankit1234/coding-2/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1155,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/tiwariankit1234/coding-2/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/tiwariankit1234/coding-2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/tiwariankit1234/coding-2/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1173,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tiwariankit1234/coding-2/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/tiwariankit1234/coding-2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Memoization
 |  |
 | ------- |
