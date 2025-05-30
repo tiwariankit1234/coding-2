@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/tiwariankit1234/coding-2/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/tiwariankit1234/coding-2/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2648-number-of-ways-to-earn-points](https://github.com/tiwariankit1234/coding-2/tree/master/2648-number-of-ways-to-earn-points) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/tiwariankit1234/coding-2/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2665-minimum-time-to-repair-cars](https://github.com/tiwariankit1234/coding-2/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/tiwariankit1234/coding-2/tree/master/2690-house-robber-iv) |
@@ -1131,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/tiwariankit1234/coding-2/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2586-longest-square-streak-in-an-array) |
+| [2648-number-of-ways-to-earn-points](https://github.com/tiwariankit1234/coding-2/tree/master/2648-number-of-ways-to-earn-points) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
