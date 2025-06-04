@@ -1,43 +1,55 @@
 class Solution {
 public:
+    bool isValid(string& s, string& t) {
+        if (s.size() != t.size())
+            return false;
+
+        int n = s.size();
+        int count = 0;
+        for (int i = 0; i < n; i++) {
+            if (s[i] != t[i]) {
+                count++;
+            }
+        }
+
+        if (count == 1)
+            return true;
+        return false;
+    }
     vector<string> getWordsInLongestSubsequence(vector<string>& words,
                                                 vector<int>& groups) {
-        int n = groups.size();
-        vector<int> dp(n, 1);
-        vector<int> prev(n, -1);
-        int maxIndex = 0;
-        for (int i = 1; i < n; i++) {
+        int n = words.size();
+        int dp[1001];
+
+        fill(dp, dp + 1001, 1);
+
+        vector<vector<string>> ans(n);
+        for (int i = 0; i < n; i++) {
+            ans[i].push_back(words[i]);
             for (int j = 0; j < i; j++) {
-                if (check(words[i], words[j]) == 1 && dp[j] + 1 > dp[i] &&
-                    groups[i] != groups[j]) {
-                    dp[i] = dp[j] + 1;
-                    prev[i] = j;
+                
+                if (groups[i] != groups[j] and isValid(words[i], words[j])) {
+                    if (dp[j] + 1 > (dp[i])) {
+                        dp[i] = dp[j] + 1;
+                        ans[i] = ans[j];
+                        ans[i].push_back(words[i]);
+
+                        
+                    }
                 }
             }
-            if (dp[i] > dp[maxIndex]) {
-                maxIndex = i;
-            }
         }
+    
 
-        vector<string> ans;
-        for (int i = maxIndex; i >= 0; i = prev[i]) {
-            ans.emplace_back(words[i]);
-        }
-        reverse(ans.begin(), ans.end());
-        return ans;
-    }
+   
 
-    bool check(string& s1, string& s2) {
-        if (s1.size() != s2.size()) {
-            return false;
-        }
-        int diff = 0;
-        for (int i = 0; i < s1.size(); i++) {
-            diff += s1[i] != s2[i];
-            if (diff > 1) {
-                return false;
-            }
-        }
-        return diff == 1;
+int maxi = 0, idx = 0;
+for (int i = 0; i < ans.size(); i++) {
+    if (ans[i].size() > maxi) {
+        maxi = ans[i].size();
+        idx = i;
     }
+}
+return ans[idx];
+}
 };
