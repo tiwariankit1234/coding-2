@@ -802,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/3637-count-number-of-balanced-permutations) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/tiwariankit1234/coding-2/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1020,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3561-remove-methods-from-project](https://github.com/tiwariankit1234/coding-2/tree/master/3561-remove-methods-from-project) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankit1234/coding-2/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/tiwariankit1234/coding-2/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Trie
 |  |
 | ------- |
@@ -1591,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/tiwariankit1234/coding-2/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankit1234/coding-2/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/tiwariankit1234/coding-2/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
