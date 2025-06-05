@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tiwariankit1234/coding-2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/tiwariankit1234/coding-2/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tiwariankit1234/coding-2/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/tiwariankit1234/coding-2/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tiwariankit1234/coding-2/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/tiwariankit1234/coding-2/tree/master/1160-letter-tile-possibilities) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/tiwariankit1234/coding-2/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/tiwariankit1234/coding-2/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/tiwariankit1234/coding-2/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1663-detect-cycles-in-2d-grid) |
