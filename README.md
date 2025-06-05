@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/tiwariankit1234/coding-2/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3265-maximum-good-subarray-sum](https://github.com/tiwariankit1234/coding-2/tree/master/3265-maximum-good-subarray-sum) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tiwariankit1234/coding-2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3363-most-frequent-ids](https://github.com/tiwariankit1234/coding-2/tree/master/3363-most-frequent-ids) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tiwariankit1234/coding-2/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/tiwariankit1234/coding-2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/tiwariankit1234/coding-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
+| [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tiwariankit1234/coding-2/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tiwariankit1234/coding-2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tiwariankit1234/coding-2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/tiwariankit1234/coding-2/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -793,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3548-find-the-count-of-good-integers](https://github.com/tiwariankit1234/coding-2/tree/master/3548-find-the-count-of-good-integers) |
@@ -1526,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/tiwariankit1234/coding-2/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/tiwariankit1234/coding-2/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3201-distribute-candies-among-children-ii) |
+| [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/tiwariankit1234/coding-2/tree/master/3548-find-the-count-of-good-integers) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -1665,6 +1671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/tiwariankit1234/coding-2/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tiwariankit1234/coding-2/tree/master/3001-apply-operations-to-maximize-score) |
+| [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/tiwariankit1234/coding-2/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 ## Shortest Path
 |  |
