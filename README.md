@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2915-count-of-interesting-subarrays) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/tiwariankit1234/coding-2/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/tiwariankit1234/coding-2/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/tiwariankit1234/coding-2/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3265-maximum-good-subarray-sum](https://github.com/tiwariankit1234/coding-2/tree/master/3265-maximum-good-subarray-sum) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/tiwariankit1234/coding-2/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tiwariankit1234/coding-2/tree/master/3001-apply-operations-to-maximize-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/tiwariankit1234/coding-2/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2730-maximum-or](https://github.com/tiwariankit1234/coding-2/tree/master/2730-maximum-or) |
 | [2915-count-of-interesting-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/tiwariankit1234/coding-2/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3265-maximum-good-subarray-sum](https://github.com/tiwariankit1234/coding-2/tree/master/3265-maximum-good-subarray-sum) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/tiwariankit1234/coding-2/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3427-special-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3427-special-array-ii) |
@@ -1321,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3141-minimum-size-subarray-in-infinite-array](https://github.com/tiwariankit1234/coding-2/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/tiwariankit1234/coding-2/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tiwariankit1234/coding-2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
