@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/tiwariankit1234/coding-2/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/tiwariankit1234/coding-2/tree/master/2434-design-a-number-container-system) |
+| [2444-longest-ideal-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/2444-longest-ideal-subsequence) |
 | [2448-count-number-of-bad-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2448-count-number-of-bad-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tiwariankit1234/coding-2/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/tiwariankit1234/coding-2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2373-apply-discount-to-prices](https://github.com/tiwariankit1234/coding-2/tree/master/2373-apply-discount-to-prices) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2444-longest-ideal-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/2444-longest-ideal-subsequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tiwariankit1234/coding-2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tiwariankit1234/coding-2/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2465-shifting-letters-ii) |
@@ -1164,6 +1166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tiwariankit1234/coding-2/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [2444-longest-ideal-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/2444-longest-ideal-subsequence) |
 | [2530-minimize-maximum-of-array](https://github.com/tiwariankit1234/coding-2/tree/master/2530-minimize-maximum-of-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/tiwariankit1234/coding-2/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2562-count-ways-to-build-good-strings) |
