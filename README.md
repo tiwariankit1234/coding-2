@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tiwariankit1234/coding-2/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tiwariankit1234/coding-2/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2586-longest-square-streak-in-an-array) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/tiwariankit1234/coding-2/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/tiwariankit1234/coding-2/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2603-reward-top-k-students](https://github.com/tiwariankit1234/coding-2/tree/master/2603-reward-top-k-students) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1525,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/tiwariankit1234/coding-2/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/tiwariankit1234/coding-2/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/tiwariankit1234/coding-2/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/tiwariankit1234/coding-2/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/tiwariankit1234/coding-2/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/tiwariankit1234/coding-2/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3189-find-champion-ii) |
