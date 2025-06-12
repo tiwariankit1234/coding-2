@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2730-maximum-or](https://github.com/tiwariankit1234/coding-2/tree/master/2730-maximum-or) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2868-continuous-subarrays) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2716-prime-subtraction-operation) |
 | [2725-mice-and-cheese](https://github.com/tiwariankit1234/coding-2/tree/master/2725-mice-and-cheese) |
 | [2730-maximum-or](https://github.com/tiwariankit1234/coding-2/tree/master/2730-maximum-or) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tiwariankit1234/coding-2/tree/master/3001-apply-operations-to-maximize-score) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/tiwariankit1234/coding-2/tree/master/3046-minimum-operations-to-make-a-special-number) |
@@ -1176,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2586-longest-square-streak-in-an-array) |
 | [2648-number-of-ways-to-earn-points](https://github.com/tiwariankit1234/coding-2/tree/master/2648-number-of-ways-to-earn-points) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1624,6 +1627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/tiwariankit1234/coding-2/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tiwariankit1234/coding-2/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/tiwariankit1234/coding-2/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1676,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/tiwariankit1234/coding-2/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
