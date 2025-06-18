@@ -1056,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/tiwariankit1234/coding-2/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/tiwariankit1234/coding-2/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/tiwariankit1234/coding-2/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/tiwariankit1234/coding-2/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3561-remove-methods-from-project](https://github.com/tiwariankit1234/coding-2/tree/master/3561-remove-methods-from-project) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -1193,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/tiwariankit1234/coding-2/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tiwariankit1234/coding-2/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
@@ -1644,6 +1646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/tiwariankit1234/coding-2/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/tiwariankit1234/coding-2/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tiwariankit1234/coding-2/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/tiwariankit1234/coding-2/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3576-find-subtree-sizes-after-changes) |
