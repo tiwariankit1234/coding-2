@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/tiwariankit1234/coding-2/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/tiwariankit1234/coding-2/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/tiwariankit1234/coding-2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3265-maximum-good-subarray-sum](https://github.com/tiwariankit1234/coding-2/tree/master/3265-maximum-good-subarray-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tiwariankit1234/coding-2/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwariankit1234/coding-2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tiwariankit1234/coding-2/tree/master/3001-apply-operations-to-maximize-score) |
 | [3107-maximum-spending-after-buying-items](https://github.com/tiwariankit1234/coding-2/tree/master/3107-maximum-spending-after-buying-items) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/tiwariankit1234/coding-2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tiwariankit1234/coding-2/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tiwariankit1234/coding-2/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/tiwariankit1234/coding-2/tree/master/3195-separate-black-and-white-balls) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/tiwariankit1234/coding-2/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/tiwariankit1234/coding-2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tiwariankit1234/coding-2/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tiwariankit1234/coding-2/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
