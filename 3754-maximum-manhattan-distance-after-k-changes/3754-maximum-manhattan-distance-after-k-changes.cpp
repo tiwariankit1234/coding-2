@@ -1,83 +1,103 @@
 class Solution {
 public:
+int f(string &t){
+    int distance=0,maxdistance=0,x=0,y=0;
+    int n=t.size();
+    for(int i=0;i<n;i++){
+        if(t[i]=='N'){
+          y++;
+        }
+        else if(t[i]=='S'){
+            y--;
+        }
+        else if(t[i]=='W'){
+            x--;
+        }
+        else{
+            x++;
+        }
+        maxdistance=max(maxdistance,abs(x)+abs(y));
+    }
+    return maxdistance;
+}
     int maxDistance(string s, int k) {
-        int n=s.size();
-         map<char,int>mp;
+        int n=s.size(),maxdistance=INT_MIN;
+        string t=s;
+        int m=k;
+        // NW  
         for(int i=0;i<n;i++){
-            mp[s[i]]++;
+             if(t[i]=='S'){
+               if(m>0){
+                t[i]='N';
+                m--;
+               }
+             }
+             else if(t[i]=='E'){
+                if(m>0){
+                    t[i]='W';
+                    m--;
+                }
+             }
         }
-        char minchar;
-        if(mp['N']>mp['S']){
-            minchar='S';
-        }
-        else if(mp['N']<mp['S']){
-             minchar='N';
-        }
-        
+        maxdistance=max(maxdistance,f(t));
+        m=k,t=s;
+        //NE
+
         for(int i=0;i<n;i++){
-            if(k>0){
-            if(s[i]==minchar){
-                if(s[i]=='N'){
-                    s[i]='S';
+             if(t[i]=='S'){
+               if(m>0){
+                t[i]='N';
+                m--;
+               }
+             }
+             else if(t[i]=='W'){
+                if(m>0){
+                    t[i]='E';
+                    m--;
                 }
-                else{
-                    s[i]='N';
-                }
-                k--;
-            }
-              
+             }
         }
-    }
+        maxdistance=max(maxdistance,f(t));
+        m=k,t=s;
+        //SW
 
-
-        // cout<<k<<endl;
-        if(mp['W']>mp['E']){
-            minchar='E';
-        }
-        else if(mp['W']<mp['E']){
-             minchar='W';
-        }
-
-                for(int i=0;i<n;i++){
-            if(k>0){
-            if(s[i]==minchar){
-                if(s[i]=='W'){
-                    s[i]='E';
+         for(int i=0;i<n;i++){
+             if(t[i]=='N'){
+               if(m>0){
+                t[i]='S';
+                m--;
+               }
+             }
+             else if(t[i]=='E'){
+                if(m>0){
+                    t[i]='W';
+                    m--;
                 }
-                else{
-                    s[i]='W';
+             }
+        }
+        maxdistance=max(maxdistance,f(t));
+        m=k,t=s;
+
+        // SE
+
+         for(int i=0;i<n;i++){
+             if(t[i]=='N'){
+               if(m>0){
+                t[i]='S';
+                m--;
+               }
+             }
+             else if(t[i]=='W'){
+                if(m>0){
+                    t[i]='E';
+                    m--;
                 }
-                k--;
-            }
-               
+             }
         }
-    }
-         for(auto it:s){
-             cout<<it<<" ";
-         }
-        int maxdist=0,dist=0;
-        int x=0,y=0;
-        for(int i=0;i<n;i++){
-            if(s[i]=='N'){
-                 y++;
-            }
-            else if(s[i]=='W'){
-                x--;
-            }
-            else if(s[i]=='E'){
-                x++;
-            }
-            else if(s[i]=='S'){
-                y--;
-            }
-            maxdist=max(maxdist,abs(x)+abs(y));
-        }
-        return maxdist;
+        maxdistance=max(maxdistance,f(t));
+        m=k,t=s;
+         return  maxdistance;
+
 
     }
-
-        
-        
-
-        
 };
