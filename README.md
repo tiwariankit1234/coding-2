@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/tiwariankit1234/coding-2/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1752-arithmetic-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1752-arithmetic-subarrays) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tiwariankit1234/coding-2/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tiwariankit1234/coding-2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/tiwariankit1234/coding-2/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/tiwariankit1234/coding-2/tree/master/1813-maximum-erasure-value) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/tiwariankit1234/coding-2/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/tiwariankit1234/coding-2/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/tiwariankit1234/coding-2/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tiwariankit1234/coding-2/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tiwariankit1234/coding-2/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tiwariankit1234/coding-2/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1752-arithmetic-subarrays) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tiwariankit1234/coding-2/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1961-maximum-ice-cream-bars](https://github.com/tiwariankit1234/coding-2/tree/master/1961-maximum-ice-cream-bars) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/tiwariankit1234/coding-2/tree/master/2164-two-best-non-overlapping-events) |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tiwariankit1234/coding-2/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tiwariankit1234/coding-2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tiwariankit1234/coding-2/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1917-maximum-average-pass-ratio](https://github.com/tiwariankit1234/coding-2/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/tiwariankit1234/coding-2/tree/master/1961-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/tiwariankit1234/coding-2/tree/master/2089-maximum-matrix-sum) |
