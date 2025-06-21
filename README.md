@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/tiwariankit1234/coding-2/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tiwariankit1234/coding-2/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/tiwariankit1234/coding-2/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/tiwariankit1234/coding-2/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tiwariankit1234/coding-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2232-adding-spaces-to-a-string) |
@@ -962,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/tiwariankit1234/coding-2/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tiwariankit1234/coding-2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tiwariankit1234/coding-2/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/tiwariankit1234/coding-2/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tiwariankit1234/coding-2/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tiwariankit1234/coding-2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/tiwariankit1234/coding-2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
