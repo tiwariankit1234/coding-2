@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/tiwariankit1234/coding-2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2373-apply-discount-to-prices](https://github.com/tiwariankit1234/coding-2/tree/master/2373-apply-discount-to-prices) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2444-longest-ideal-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/2444-longest-ideal-subsequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tiwariankit1234/coding-2/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -969,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/tiwariankit1234/coding-2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/tiwariankit1234/coding-2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/tiwariankit1234/coding-2/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tiwariankit1234/coding-2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/tiwariankit1234/coding-2/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/tiwariankit1234/coding-2/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/tiwariankit1234/coding-2/tree/master/2262-solving-questions-with-brainpower) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tiwariankit1234/coding-2/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2444-longest-ideal-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/2444-longest-ideal-subsequence) |
@@ -1293,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tiwariankit1234/coding-2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0140-word-break-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/tiwariankit1234/coding-2/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
