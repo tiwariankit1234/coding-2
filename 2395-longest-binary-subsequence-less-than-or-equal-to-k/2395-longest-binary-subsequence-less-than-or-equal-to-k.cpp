@@ -1,20 +1,20 @@
 class Solution {
 public:
     int longestSubsequence(string s, int k) {
-        int sm = 0;
-        int cnt = 0;
-        int bits = 32 - __builtin_clz(k);
-        for (int i = 0; i < s.size(); ++i) {
-            char ch = s[s.size() - 1 - i];
-            if (ch == '1') {
-                if (i < bits && sm + (1 << i) <= k) {
-                    sm += 1 << i;
-                    cnt++;
+        int n=s.size();
+        int size=0;
+        for(int i=n-1;i>=0;i--){
+            if(s[i]=='0'){
+                size++;
+            }
+            else{
+                if(k-pow(2,size)>=0){
+                    k=k-pow(2,size);
+                    size++;
+                    
                 }
-            } else {
-                cnt++;
             }
         }
-        return cnt;
+        return size;
     }
 };
