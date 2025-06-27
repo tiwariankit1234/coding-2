@@ -22,9 +22,9 @@ cte3 as (
 
 SELECT 'Low Salary' as category,count(*) as accounts_count
 FROM cte
-UNION 
+UNION ALL
 SELECT 'Average Salary' as category,count(*) as accounts_count
 FROM cte2
-UNION
+UNION ALL
 SELECT 'High Salary' as category,count(*) as accounts_count
 FROM cte3
