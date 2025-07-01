@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
 ## Matrix
 |  |
 | ------- |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tiwariankit1234/coding-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
 ## Union Find
 |  |
 | ------- |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/tiwariankit1234/coding-2/tree/master/3647-zero-array-transformation-iii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1239,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/3637-count-number-of-balanced-permutations) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3795-zero-array-transformation-iv](https://github.com/tiwariankit1234/coding-2/tree/master/3795-zero-array-transformation-iv) |
+| [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
 ## Stack
 |  |
 | ------- |
