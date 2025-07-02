@@ -25,3 +25,5 @@ AND
     COUNT(*)=1
 
 )
+
+-- count(*) will give the row that have the same value
