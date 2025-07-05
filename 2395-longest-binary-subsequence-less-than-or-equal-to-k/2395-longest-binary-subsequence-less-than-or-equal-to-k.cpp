@@ -13,7 +13,7 @@ int dp[1005][1005];
 
             return dp[idx][length]=1+f(idx - 1, k, s,length + 1);
         } else {
-            if(length<63){
+            if(length<31){
                 ll newk=k-(1LL<<length);
             if (newk >= 0) {
         return dp[idx][length]=max(1+f(idx-1,newk,s,length+1),f(idx-1,k,s,length));
