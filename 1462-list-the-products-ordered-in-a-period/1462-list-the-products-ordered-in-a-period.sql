@@ -9,11 +9,11 @@ WITH CTE as(
 ),
 CTE2 as(
     SELECT 
-    product_id,SUM(unit) as total_units
+    product_id as atom,SUM(unit) as total_units
     FROM
     CTE
     GROUP BY
-    product_id
+    atom
     HAVING
     total_units>=100 
 )
@@ -24,4 +24,4 @@ Products as p
 INNER JOIN
 CTE2
 ON
-p.product_id=CTE2.product_id;
+p.product_id=CTE2.atom;
