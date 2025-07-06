@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tiwariankit1234/coding-2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/tiwariankit1234/coding-2/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/tiwariankit1234/coding-2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tiwariankit1234/coding-2/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/tiwariankit1234/coding-2/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/tiwariankit1234/coding-2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/tiwariankit1234/coding-2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tiwariankit1234/coding-2/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tiwariankit1234/coding-2/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2308-divide-array-into-equal-pairs) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/tiwariankit1234/coding-2/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/tiwariankit1234/coding-2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tiwariankit1234/coding-2/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tiwariankit1234/coding-2/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/tiwariankit1234/coding-2/tree/master/1961-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/tiwariankit1234/coding-2/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tiwariankit1234/coding-2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/tiwariankit1234/coding-2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tiwariankit1234/coding-2/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/tiwariankit1234/coding-2/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tiwariankit1234/coding-2/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1618,6 +1622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1010-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/tiwariankit1234/coding-2/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/tiwariankit1234/coding-2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/tiwariankit1234/coding-2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
