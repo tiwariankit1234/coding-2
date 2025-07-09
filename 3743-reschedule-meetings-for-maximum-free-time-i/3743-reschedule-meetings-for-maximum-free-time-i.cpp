@@ -1,36 +1,45 @@
 class Solution {
 public:
-    int maxFreeTime(int eventime, int k, vector<int>& startime, vector<int>& endtime) {
-        k++;
-        int n=startime.size();
-        vector<pair<int,int>>v;
-        for(int i=0;i<n;i++){
-            v.push_back({startime[i],endtime[i]});
+    int maxFreeTime(int eventTime, int k, vector<int>& start, vector<int>& end) {
+        vector<vector<int>> temp;
+        int n = start.size();
+         temp.push_back({0,0});
+        // Build the temp array of events
+        for (int i = 0; i < n; ++i) {
+            temp.push_back({start[i], end[i]});
         }
-        vector<int>gap;
-        int lastime=0;
-        for(int i=0;i<n;i++){
-            int start=v[i].first;
-            int end=v[i].second;
-            if(start>=lastime){
-               gap.push_back(start-lastime);
-            }
-            lastime=end;
-        }
-        if(eventime>=lastime)gap.push_back(eventime-lastime);
-        int l=0,r=0,t=gap.size();
-        int sum=0,maxsum=0;
-        while(r<t){
-          sum+=gap[r];
-          if((r-l+1)>k){
-            sum-=gap[l];
-            l++;
-          }
-         maxsum=max(sum,maxsum);
-          r++;
-        }
-        return maxsum;
-    
 
+        // Add dummy event at eventTime to capture free time after last event
+        temp.push_back({eventTime, eventTime});
+        n = temp.size();
+
+        int freetime = temp[0][0];  // time before first event starts
+        int maxTime = freetime;
+
+        int l = 0, r = 0;
+
+        while (r < n) {
+            // Add free time between r-th and r+1-th event
+            if (r + 1 < n) {
+                freetime += temp[r + 1][0] - temp[r][1];
+            } else {
+                // At last dummy event: no additional gap
+            }
+
+            // Maintain window size of k events
+            if (r - l + 1 == k+1) {
+                maxTime = max(maxTime, freetime);
+
+                // Remove leftmost gap from freetime
+                if (l + 1 < n) {
+                    freetime -= temp[l + 1][0] - temp[l][1];
+                }
+                l++;
+            }
+
+            r++;
+        }
+
+        return maxTime;
     }
 };
