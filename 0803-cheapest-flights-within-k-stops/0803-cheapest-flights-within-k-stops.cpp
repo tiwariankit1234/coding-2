@@ -17,9 +17,10 @@ public:
             auto [cost,currentk,node]=pq.top();
             if(node==dst)return cost;
             pq.pop();
+            if(currentk>k)continue;
             for(auto it:adj[node]){
              int adjNode=it.first,newcost=it.second;
-             if(currentk<=(k) and dist[node][currentk]+newcost<dist[adjNode][currentk+1]){
+             if(  dist[node][currentk]+newcost<dist[adjNode][currentk+1]){
                 dist[adjNode][currentk+1]=cost+newcost;
                 pq.push({cost+newcost,currentk+1,adjNode});
              }
