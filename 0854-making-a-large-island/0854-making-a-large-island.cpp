@@ -1,68 +1,85 @@
-class Solution {
+class DisjointSet {
 public:
-int dir[4][2]={{-1,0},{1,0},{0,1},{0,-1}};
-bool isValid(vector<vector<int>>&grid,int nrow,int ncol,vector<vector<int>>&visited){
-    int m=grid.size(),n=grid[0].size();
-    return nrow>=0 and nrow<m and ncol>=0 and ncol<n and visited[nrow][ncol]==0 and grid[nrow][ncol]==1;
-}
-int color_dfs(vector<vector<int>>&grid,int i,int j,vector<vector<int>>&visited,int islandid){
-    visited[i][j]=islandid;
-    int count=1;
-    for(int k=0;k<4;k++){
-        int nrow=i+dir[k][0];
-        int ncol=j+dir[k][1];
-        if(isValid(grid,nrow,ncol,visited)){
-          count+=color_dfs(grid,nrow,ncol,visited,islandid);
+    vector<int> rank, parent, size;
+    DisjointSet(int n) {
+        rank.resize(n + 1, 0);
+        parent.resize(n + 1);
+        size.resize(n + 1);
+        for (int i = 0; i <= n; i++) {
+            parent[i] = i;
+            size[i] = 1;
         }
     }
-     return count;
-}
+
+    int findUPar(int node) {
+        if (node == parent[node])
+            return node;
+        return parent[node] = findUPar(parent[node]);
+    }
+
+    void unionBySize(int u, int v) {
+        int ulp_u = findUPar(u);
+        int ulp_v = findUPar(v);
+        if (ulp_u == ulp_v) return;
+        if (size[ulp_u] < size[ulp_v]) {
+            parent[ulp_u] = ulp_v;
+            size[ulp_v] += size[ulp_u];
+        } else {
+            parent[ulp_v] = ulp_u;
+            size[ulp_u] += size[ulp_v];
+        }
+    }
+};
+
+
+int dir[4][2]={{-1,0},{0,-1},{1,0},{0,1}};
+class Solution {
+public:
     int largestIsland(vector<vector<int>>& grid) {
-        unordered_map<int,int>mp;
-        int islandid=2;
         int m=grid.size(),n=grid[0].size();
-        vector<vector<int>>visited(m,vector<int>(n,0));
-        int cnt=0;
+        int count=0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j] and visited[i][j]==0){
-                  
-                   mp[islandid]=color_dfs(grid,i,j,visited,islandid);
-                   islandid++;
+                if(grid[i][j]==1)
+                count++;
+            }
+        }
+        if(count==m*n)return count;
+         cout<<5<<endl;
+        DisjointSet dsu(m*n);
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==1){
+                  for(int k=2;k<4;k++){
+                       int newx=i+dir[k][0],newy=j+dir[k][1];
+                       if(newx>=0 and newy>=0 and newx<m and newy<n and grid[newx][newy]==1){
+                           dsu.unionBySize(i*n+j,newx*n+newy);
+                       }
+                  }
                 }
             }
         }
-
-        // cnt total ones 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j])
-                cnt++;
-            }
-        }
-        
-        if(cnt==m*n)return m*n;
-            int maxans=0;
+        cout<<5<<endl;
+        int ans=0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==0){
-                    int ans=0;
-                 unordered_set<int>s;
-                 for(int k=0;k<4;k++){
-                       int nrow=i+dir[k][0];
-                     int ncol=j+dir[k][1];
-                 if(nrow>=0 and nrow<m and ncol>=0 and ncol<n){
-                     int id=visited[nrow][ncol];
-                        if(s.find(id)==s.end()){
-                           ans+=mp[id];
-                           s.insert(id);
+                    unordered_set<int>s;
+                    for(int k=0;k<4;k++){
+                        int newx=i+dir[k][0],newy=j+dir[k][1];
+                        if(newx>=0 and newx<m and newy>=0 and newy<n and grid[newx][newy]==1){
+                         s.insert(dsu.findUPar(newx*n+newy));
                         }
-                     }
+                    }
+                    int wholesize=0;
+                   for(auto it:s){
+                    wholesize+=dsu.size[it];
+                   }
+                   ans=max(ans,wholesize+1);
+
                 }
-                maxans=max(ans+1,maxans);
             }
         }
-    }
-    return maxans;
+        return ans;
     }
 };
