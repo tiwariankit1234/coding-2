@@ -1,7 +1,8 @@
 #define pii pair<int,int> 
 class Solution {
 public:
-
+// if starting and ending block is 1 then  return -1
+// if 
 int dir[8][2]={{-1,0},{1,0},{1,1},{-1,-1},{0,1},{0,-1},{1,-1},{-1,1}};
 bool isValid(int i,int j,int m,int n){
     return i>=0 and j>=0 and i<m and j<n;
@@ -26,7 +27,7 @@ int bfs(int node,vector<vector<int>>& grid){
         for(int k=0;k<8;k++){
             int newx=x+dir[k][0],newy=y+dir[k][1];
             // cout<<newx<<" "<<newy<<endl;
-            if (isValid(newx, newy,m,n) and visited[newx*n+newy]==0 and grid[newx][newy]==0){ 
+            if (newx>=0 and newy>=0 and newx<m and newy<n  and visited[newx*n+newy]==0 and grid[newx][newy]==0){ 
                 // cout<<"visited"<<endl;
                 //  cout<<newx<<" "<<newy<<" "<<cost<<endl;
                 visited[newx*n+newy]=1;
