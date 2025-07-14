@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/tiwariankit1234/coding-2/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3819-count-covered-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/3819-count-covered-buildings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## String
 |  |
 | ------- |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
 ## Matrix
 |  |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/tiwariankit1234/coding-2/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tiwariankit1234/coding-2/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3779-eat-pizzas](https://github.com/tiwariankit1234/coding-2/tree/master/3779-eat-pizzas) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1663,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -1918,4 +1923,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/tiwariankit1234/coding-2/tree/master/1706-min-cost-to-connect-all-points) |
+## Geometry
+|  |
+| ------- |
+| [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
 <!---LeetCode Topics End-->
