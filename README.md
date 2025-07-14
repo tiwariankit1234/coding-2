@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/tiwariankit1234/coding-2/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/tiwariankit1234/coding-2/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/tiwariankit1234/coding-2/tree/master/0859-design-circular-deque) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tiwariankit1234/coding-2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2411-spiral-matrix-iv](https://github.com/tiwariankit1234/coding-2/tree/master/2411-spiral-matrix-iv) |
 ## Bit Manipulation
 |  |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/tiwariankit1234/coding-2/tree/master/1086-divisor-game) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tiwariankit1234/coding-2/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tiwariankit1234/coding-2/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/tiwariankit1234/coding-2/tree/master/1500-count-largest-group) |
