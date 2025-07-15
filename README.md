@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/tiwariankit1234/coding-2/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/tiwariankit1234/coding-2/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/tiwariankit1234/coding-2/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/tiwariankit1234/coding-2/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/tiwariankit1234/coding-2/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
@@ -1085,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/tiwariankit1234/coding-2/tree/master/0687-longest-univalue-path) |
 | [0721-accounts-merge](https://github.com/tiwariankit1234/coding-2/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/tiwariankit1234/coding-2/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/tiwariankit1234/coding-2/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tiwariankit1234/coding-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/tiwariankit1234/coding-2/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
@@ -1565,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/tiwariankit1234/coding-2/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0787-sliding-puzzle](https://github.com/tiwariankit1234/coding-2/tree/master/0787-sliding-puzzle) |
+| [0801-is-graph-bipartite](https://github.com/tiwariankit1234/coding-2/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tiwariankit1234/coding-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/tiwariankit1234/coding-2/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
@@ -1610,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/tiwariankit1234/coding-2/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/tiwariankit1234/coding-2/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/tiwariankit1234/coding-2/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tiwariankit1234/coding-2/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/tiwariankit1234/coding-2/tree/master/0820-find-eventual-safe-states) |
 | [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
