@@ -8,8 +8,8 @@ public:
         if(n==2)return 2;
         int maxsubs=1;
         vector<int>dp(n,1);
-        for(auto it:nums)
-        cout<<it<<" ";
+        // for(auto it:nums)
+        // cout<<it<<" ";
         cout<<endl;
         int previdxzero=-1,previdxone=-1;
         if(nums[0]==0)
@@ -30,8 +30,7 @@ public:
             
      
         }
-        dp.clear();
-       dp.resize(n,1);
+       
 
     int zerosequence=0;
     int onesequence=0;
