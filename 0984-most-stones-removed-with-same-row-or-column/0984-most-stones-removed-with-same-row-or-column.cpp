@@ -1,41 +1,71 @@
-class Solution {
+class DisjointSet {
 public:
-int dfs(int node,vector<vector<int>>&adj,vector<int>&visited){
-    visited[node]=1;
-    int count=1;
-    for(auto it:adj[node]){
-        if(visited[it]==0){
-            count+=dfs(it,adj,visited); 
+ vector<int> rank, parent, size;
+    DisjointSet(int n) {
+        rank.resize(n + 1, 0);
+        parent.resize(n + 1);
+        size.resize(n + 1);
+        for (int i = 0; i <= n; i++) {
+            parent[i] = i;
+            size[i] = 1;
         }
     }
-    return count;
 
-}
-bool possible(vector<int>&a,vector<int>&b){
-    return (a[0]==b[0])||(a[1]==b[1]);
-}
+    int findUPar(int node) {
+        if (node == parent[node])
+            return node;
+        return parent[node] = findUPar(parent[node]);
+    }
+
+    void unionByRank(int u, int v) {
+        int ulp_u = findUPar(u);
+        int ulp_v = findUPar(v);
+        if (ulp_u == ulp_v)
+            return;
+        if (rank[ulp_u] < rank[ulp_v]) {
+            parent[ulp_u] = ulp_v;
+        } else if (rank[ulp_v] < rank[ulp_u]) {
+            parent[ulp_v] = ulp_u;
+        } else {
+            parent[ulp_v] = ulp_u;
+            rank[ulp_u]++;
+        }
+    }
+
+    void unionBySize(int u, int v) {
+        int ulp_u = findUPar(u);
+        int ulp_v = findUPar(v);
+        if (ulp_u == ulp_v)
+            return;
+        if (size[ulp_u] < size[ulp_v]) {
+            parent[ulp_u] = ulp_v;
+            size[ulp_v] += size[ulp_u];
+        } else {
+            parent[ulp_v] = ulp_u;
+            size[ulp_u] += size[ulp_v];
+        }
+    }
+};
+
+class Solution {
+public:
     int removeStones(vector<vector<int>>& stones) {
-        int n=stones.size();
-        vector<vector<int>>adj(n);
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(possible(stones[i],stones[j])){
-                    adj[i].push_back(j);
-                    adj[j].push_back(i);
+        int n = stones.size();
+        DisjointSet dsu(n - 1);
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                if ((stones[i][0] == stones[j][0]) ||
+                    stones[i][1] == stones[j][1]) {
+                    dsu.unionByRank(i, j);
                 }
             }
         }
-        vector<int>visited(n,0);
-        int count=0;
-        for(int i=0;i<n;i++){
-            if(visited[i]==0){
-                // cout<<"pehle"<<5<<endl;
-              int size=dfs(i,adj,visited);
-            //   cout<<"baad"<<5<<endl;
-              count+=size-1;
+        int count = 0;
+        for (int i = 0; i < dsu.parent.size(); i++) {
+            if (dsu.findUPar(i) == i) {
+                count++;
             }
         }
-        return count;
-    
+        return (n - count);
     }
 };
