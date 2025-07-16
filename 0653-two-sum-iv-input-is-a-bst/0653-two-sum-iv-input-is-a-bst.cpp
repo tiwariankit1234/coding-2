@@ -20,7 +20,7 @@ bool f(TreeNode* root,int k,unordered_map<int,int>&mp){
         if(mp.find(k-root->val)!=mp.end()){
             return true;
         }
-       else mp[root->val]++;
+        mp[root->val]++;
         bool right=f(root->right,k,mp);
         cout<<left<<" "<<right<<endl;
         return left||right;
