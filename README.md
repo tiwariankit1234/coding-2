@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tiwariankit1234/coding-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tiwariankit1234/coding-2/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -1280,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-total-reward-using-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3629-total-characters-in-string-after-transformations-i) |
