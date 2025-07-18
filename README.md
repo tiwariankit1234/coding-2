@@ -1246,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/tiwariankit1234/coding-2/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tiwariankit1234/coding-2/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/tiwariankit1234/coding-2/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tiwariankit1234/coding-2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/tiwariankit1234/coding-2/tree/master/1418-fair-distribution-of-cookies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
