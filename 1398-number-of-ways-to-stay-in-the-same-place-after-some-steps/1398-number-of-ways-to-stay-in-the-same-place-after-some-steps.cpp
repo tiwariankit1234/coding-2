@@ -1,6 +1,6 @@
 class Solution {
 public:
-int dp[502][502];
+int dp[255][502];
 int mod=1e9+7;
 int f(int idx,int steps,int n){
     
@@ -16,7 +16,7 @@ int f(int idx,int steps,int n){
         left=f(idx-1,steps-1,n)%mod;
     }
     int right=0;
-    if(idx<(n-1)){
+    if(idx<(n-1) and idx<252){
         right=f(idx+1,steps-1,n)%mod;
     }
     int stay=f(idx,steps-1,n)%mod;
