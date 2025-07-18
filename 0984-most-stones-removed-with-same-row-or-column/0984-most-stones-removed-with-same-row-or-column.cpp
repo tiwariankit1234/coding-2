@@ -52,14 +52,56 @@ public:
     int removeStones(vector<vector<int>>& stones) {
         int n = stones.size();
         DisjointSet dsu(n - 1);
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if ((stones[i][0] == stones[j][0]) ||
-                    stones[i][1] == stones[j][1]) {
-                    dsu.unionByRank(i, j);
-                }
-            }
+        // for (int i = 0; i < n; i++) {
+        //     for (int j = i + 1; j < n; j++) {
+        //         if ((stones[i][0] == stones[j][0]) ||
+        //             stones[i][1] == stones[j][1]) {
+        //             dsu.unionByRank(i, j);
+        //         }
+        //     }
+        // }
+        unordered_map<int,vector<int>>mpx,mpy;
+       for(int i=0;i<n;i++){
+        mpx[stones[i][0]].push_back((i));
+       }
+       for(int i=0;i<n;i++){
+        mpy[stones[i][1]].push_back(i);
+       }
+       for(auto it:mpx){
+        vector<int>temp=it.second;
+        int i=0;
+        int n=temp.size();
+        while(i<(n-1)){
+            dsu.unionBySize(temp[i],temp[i+1]);
+            i+=1;
         }
+       }
+    
+    // for(auto it:mpx){
+    //     cout<<it.first<<" ";
+    //     for(auto k:it.second)
+    //     cout<<k<<" ";
+    //   cout<<endl;
+    // }
+    // cout<<"mpy"<<endl;
+    // for(auto it:mpy){
+    //     cout<<it.first<<" ";
+    //     for(auto k:it.second)
+    //     cout<<k<<" ";
+
+    //     cout<<endl;
+    // }
+
+       for(auto it:mpy){
+        vector<int>temp=it.second;
+        int i=0;
+        int n=temp.size();
+        while(i<(n-1)){
+            dsu.unionBySize(temp[i],temp[i+1]);
+            i+=1;
+        }
+       }
+
         int count = 0;
         for (int i = 0; i < dsu.parent.size(); i++) {
             if (dsu.findUPar(i) == i) {
