@@ -1,36 +1,44 @@
 class Solution {
 public:
-    vector<string> removeSubfolders(vector<string>& folder) {
-        // Create a set to store all folder paths for fast lookup
-        unordered_set<string> folderSet(folder.begin(), folder.end());
-        vector<string> result;
+    bool found(string& p, unordered_set<string>& s) {
+        int n = p.size();
+        if (p == "/")
+            return true;
 
-        // Iterate through each folder to check if it's a sub-folder
-        for (string& f : folder) {
-            bool isSubFolder = false;
-            string prefix = f;
+        int idx = -1;
+        string x = "";
+        for (int i = 0; i < n; i++) {
+            // cout<<p<<" "<<i<<" "<<x<<endl;
+            if (i == 0) {
+                x += p[i];
+            } else if (p[i] == '/') {
+                if (s.find(x) != s.end())
+                    return true;
 
-            // Check all prefixes of the current folder path
-            while (!prefix.empty()) {
-                size_t pos = prefix.find_last_of('/');
-                if (pos == string::npos) break;
-
-                // Reduce the prefix to its parent folder
-                prefix = prefix.substr(0, pos);
-
-                // If the parent folder exists in the set, mark as sub-folder
-                if (folderSet.count(prefix)) {
-                    isSubFolder = true;
-                    break;
-                }
-            }
-
-            // If not a sub-folder, add it to the result
-            if (!isSubFolder) {
-                result.push_back(f);
+                x += '/';
+            } else {
+                x += p[i];
             }
         }
 
-        return result;
+        return false;
+    }
+    vector<string> removeSubfolders(vector<string>& temp) {
+        int n = temp.size();
+        sort(temp.begin(),temp.end());
+        unordered_set<string> s;
+        vector<string> ans;
+        for (int i = 0; i < n; i++) {
+            if (i == 0) {
+                s.insert(temp[i]);
+                ans.push_back(temp[i]);
+            } else {
+                if (!found(temp[i], s)) {
+                    ans.push_back(temp[i]);
+                    s.insert(temp[i]);
+                }
+            }
+        }
+        return ans;
     }
 };
