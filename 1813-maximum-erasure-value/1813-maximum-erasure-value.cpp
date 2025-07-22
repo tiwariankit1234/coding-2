@@ -9,7 +9,7 @@ public:
         while(r<n){
             sum+=nums[r];
             mp[nums[r]]++;
-            if(mp[nums[r]]>1){   // shrink condition when frequency of one element is greater than equal t0 1;
+            while(mp[nums[r]]>1){   // shrink condition when frequency of one element is greater than equal t0 1;
                 sum-=nums[l];
                 mp[nums[l]]--;
                 if(mp[nums[l]]==0)
