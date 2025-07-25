@@ -1,6 +1,11 @@
 class Solution {
 public:
 int dp[502];
+// try all partions 
+// no need of end 
+// always the variable will change the state 
+// there will be no fixed loop occur in loop
+// like start+k
 int f(int start,int end,int k,vector<int>& arr){
    int n=arr.size();
    if(start==n)return 0;
