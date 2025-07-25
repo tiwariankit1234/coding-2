@@ -1,3 +1,6 @@
+
+//https://leetcode.com/problems/palindrome-partitioning-ii/description/
+// precomputation of pallindrome is required
 class Solution {
 public:
     // at max O(N2) calls to the functions
