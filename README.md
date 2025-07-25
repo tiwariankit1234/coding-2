@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/tiwariankit1234/coding-2/tree/master/1063-best-sightseeing-pair) |
 | [1081-video-stitching](https://github.com/tiwariankit1234/coding-2/tree/master/1081-video-stitching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
+| [1121-partition-array-for-maximum-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/tiwariankit1234/coding-2/tree/master/1130-last-stone-weight-ii) |
 | [1139-previous-permutation-with-one-swap](https://github.com/tiwariankit1234/coding-2/tree/master/1139-previous-permutation-with-one-swap) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tiwariankit1234/coding-2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -1245,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-video-stitching](https://github.com/tiwariankit1234/coding-2/tree/master/1081-video-stitching) |
 | [1086-divisor-game](https://github.com/tiwariankit1234/coding-2/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1087-longest-arithmetic-subsequence) |
+| [1121-partition-array-for-maximum-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/tiwariankit1234/coding-2/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/tiwariankit1234/coding-2/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/1224-minimum-falling-path-sum-ii) |
