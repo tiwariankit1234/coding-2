@@ -1,38 +1,33 @@
 class Solution {
 public:
-
-int f(int idx,map<int,int>&mp,int prevans,vector<int>& nums){
-    if(idx==nums.size()){
-        return 0;
-    }
-   //
-    int ans=nums[idx]|prevans;
-    
-    mp[ans]++;
-
-    f(idx+1,mp,ans,nums);
-   
-
-    f(idx+1,mp,prevans,nums);
-
-    return 0;
-
-
-
-}
-
     int countMaxOrSubsets(vector<int>& nums) {
-       int n=nums.size();
+        int maxOrValue = 0;
+        for (int num : nums) {
+            maxOrValue |= num;
+        }
+        return countSubsets(nums, 0, 0, maxOrValue);
+    }
 
-       map<int,int>mp;
+private:
+    int countSubsets(vector<int>& nums, int index, int currentOr,
+                     int targetOr) {
+                        int n=nums.size();
+        // Base case: reached the end of the array
+        if (index == nums.size()) {
+            return (currentOr == targetOr) ? 1 : 0;
+        }
+        if(currentOr==targetOr){
+            return 1<<(n-index);
+        }
 
-     f(0,mp,0,nums);
-     int start=0;
-     for(auto it:mp){
-       start=max(start,it.first);
-     }
+        // Don't include the current number
+        int countWithout = countSubsets(nums, index + 1, currentOr, targetOr);
 
-     return mp[start];
-        
+        // Include the current number
+        int countWith =
+            countSubsets(nums, index + 1, currentOr | nums[index], targetOr);
+
+        // Return the sum of both cases
+        return countWithout + countWith;
     }
 };
