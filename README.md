@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/tiwariankit1234/coding-2/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/tiwariankit1234/coding-2/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/tiwariankit1234/coding-2/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0146-lru-cache) |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tiwariankit1234/coding-2/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/tiwariankit1234/coding-2/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/tiwariankit1234/coding-2/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
