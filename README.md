@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/tiwariankit1234/coding-2/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/tiwariankit1234/coding-2/tree/master/1940-maximum-xor-for-each-query) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tiwariankit1234/coding-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/tiwariankit1234/coding-2/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/tiwariankit1234/coding-2/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/tiwariankit1234/coding-2/tree/master/0983-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/tiwariankit1234/coding-2/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tiwariankit1234/coding-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tiwariankit1234/coding-2/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2232-adding-spaces-to-a-string) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/tiwariankit1234/coding-2/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tiwariankit1234/coding-2/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tiwariankit1234/coding-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/2050-count-good-numbers) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/tiwariankit1234/coding-2/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -1525,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tiwariankit1234/coding-2/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/tiwariankit1234/coding-2/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tiwariankit1234/coding-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tiwariankit1234/coding-2/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tiwariankit1234/coding-2/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2868-continuous-subarrays) |
@@ -1724,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/tiwariankit1234/coding-2/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/tiwariankit1234/coding-2/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/tiwariankit1234/coding-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tiwariankit1234/coding-2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
