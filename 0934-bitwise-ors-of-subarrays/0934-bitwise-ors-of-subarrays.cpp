@@ -1,3 +1,5 @@
+// sabse pehle dekho i previous i-1 se kaise different number ko produce karega
+// agar nahi toh break down karo problem ko different set me har subarray ka bitwise or nikalo 
 class Solution {
 public:
     int subarrayBitwiseORs(vector<int>& A) {
@@ -6,10 +8,6 @@ public:
         for (int i : A) {
             set<int> r;
             r.insert(i);
-            for (int j : t) r.insert(i | j);
-            t = r;
-            for (int j : t) s.insert(j);
-        }
-        return s.size();
+            
     }
 };
