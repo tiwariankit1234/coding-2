@@ -1,37 +1,34 @@
 class Solution {
 public:
-bool issorted(vector<int>&arr){
-    int n=arr.size();
-    int count=0;
-    for(int i=1;i<n;i++){
-        if(arr[i]>=arr[i-1]){
-            count++;
+    // Function to check if the array is sorted in non-decreasing order
+    bool issorted(vector<int>& arr) {
+        for (int i = 1; i < arr.size(); i++) {
+            if (arr[i] < arr[i - 1]) return false;
         }
+        return true;
     }
-    if(count==(n-1))return true;
-    return false;
-}
+
     bool canSortArray(vector<int>& arr) {
-        int n=arr.size();
-        bool t=issorted(arr);
-        if(t==1)return true;
-        vector<int>newarray(n);
-        for(int i=0;i<n;i++){
-            newarray[i]=__builtin_popcount(arr[i]);
+        int n = arr.size();
+        vector<int> bitCount(n);
+
+        // Calculate popcount for each element
+        for (int i = 0; i < n; i++) {
+            bitCount[i] = __builtin_popcount(arr[i]);
         }
-         int i=0,j=0;
-         while(j<n){
-            if(newarray[i]==newarray[j]){
+
+        // Sort all subarrays with same popcount
+        int i = 0;
+        while (i < n) {
+            int j = i;
+            while (j < n && bitCount[j] == bitCount[i]) {
                 j++;
             }
-            else{
-         
-                sort(arr.begin()+i,arr.begin()+j);
-                i=j;
-                j++;
-            }
-         }
-         sort(arr.begin()+i,arr.end());
+            sort(arr.begin() + i, arr.begin() + j);
+            i = j;
+        }
+
+        // Check if the entire array is sorted
         return issorted(arr);
     }
 };
