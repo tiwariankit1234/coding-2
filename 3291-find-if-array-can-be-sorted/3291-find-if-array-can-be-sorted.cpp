@@ -13,16 +13,25 @@ bool issorted(vector<int>&arr){
 }
     bool canSortArray(vector<int>& arr) {
         int n=arr.size();
-       
-          for (int i = 0; i < n - 1; ++i) {
-        // Inner loop for comparing adjacent elements
-        for (int j = 0; j < n - i - 1; ++j) {
-            // Swap if elements are in the wrong order
-            if (arr[j] > arr[j + 1] and __builtin_popcount(arr[j])==__builtin_popcount(arr[j+1])) {
-                swap(arr[j], arr[j + 1]);
-            }
+        bool t=issorted(arr);
+        if(t==1)return true;
+        vector<int>newarray(n);
+        for(int i=0;i<n;i++){
+            newarray[i]=__builtin_popcount(arr[i]);
         }
-    }
-   return issorted(arr);
+         int i=0,j=0;
+         while(j<n){
+            if(newarray[i]==newarray[j]){
+                j++;
+            }
+            else{
+         
+                sort(arr.begin()+i,arr.begin()+j);
+                i=j;
+                j++;
+            }
+         }
+         sort(arr.begin()+i,arr.end());
+        return issorted(arr);
     }
 };
