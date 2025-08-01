@@ -1,34 +1,35 @@
 class Solution {
 public:
-    // Function to check if the array is sorted in non-decreasing order
-    bool issorted(vector<int>& arr) {
-        for (int i = 1; i < arr.size(); i++) {
-            if (arr[i] < arr[i - 1]) return false;
-        }
-        return true;
-    }
-
     bool canSortArray(vector<int>& arr) {
         int n = arr.size();
         vector<int> bitCount(n);
 
-        // Calculate popcount for each element
-        for (int i = 0; i < n; i++) {
+        // Step 1: Precompute popcounts
+        for (int i = 0; i < n; ++i) {
             bitCount[i] = __builtin_popcount(arr[i]);
         }
 
-        // Sort all subarrays with same popcount
+        // Step 2: Check if subarrays with same popcount are sorted
         int i = 0;
+        int prevmax=INT_MIN,currentmin=INT_MAX,currentmax=INT_MIN;
+        for(auto it:bitCount){
+            cout<<it<<" ";
+        }
+        cout<<endl;
         while (i < n) {
             int j = i;
+            currentmin=INT_MAX,currentmax=INT_MIN;
             while (j < n && bitCount[j] == bitCount[i]) {
+                 currentmin=min(arr[j],currentmin);
+                 currentmax=max(arr[j],currentmax);
                 j++;
             }
-            sort(arr.begin() + i, arr.begin() + j);
             i = j;
+            cout<<prevmax<<" "<<currentmin<<" "<<currentmax<<" "<<endl;
+            if(prevmax>currentmin)return false;
+            prevmax=currentmax;
         }
 
-        // Check if the entire array is sorted
-        return issorted(arr);
+        return true;
     }
 };
