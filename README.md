@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/tiwariankit1234/coding-2/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3819-count-covered-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/3819-count-covered-buildings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
 ## String
 |  |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/tiwariankit1234/coding-2/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/tiwariankit1234/coding-2/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/tiwariankit1234/coding-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
 | ------- |
@@ -1165,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankit1234/coding-2/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/tiwariankit1234/coding-2/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+| [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -1532,6 +1536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/tiwariankit1234/coding-2/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2868-continuous-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2868-continuous-subarrays) |
 | [3363-most-frequent-ids](https://github.com/tiwariankit1234/coding-2/tree/master/3363-most-frequent-ids) |
+| [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
@@ -1584,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tiwariankit1234/coding-2/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/tiwariankit1234/coding-2/tree/master/3647-zero-array-transformation-iii) |
+| [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1660,6 +1666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/tiwariankit1234/coding-2/tree/master/3561-remove-methods-from-project) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/tiwariankit1234/coding-2/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -1701,6 +1708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tiwariankit1234/coding-2/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 ## Divide and Conquer
 |  |
 | ------- |
