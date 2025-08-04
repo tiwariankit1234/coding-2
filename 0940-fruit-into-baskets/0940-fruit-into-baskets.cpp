@@ -1,5 +1,7 @@
 class Solution {
 public:
+// edge cases ki isme mp.size()<=2 bhi chalegi kyounki ek basket me ek hi type ka fruits rahega 
+//
     int totalFruit(vector<int>& nums) {
         int n=nums.size();
         int l=0,r=0,maxsize=0,k=2;
