@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/tiwariankit1234/coding-2/tree/master/3647-zero-array-transformation-iii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tiwariankit1234/coding-2/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/tiwariankit1234/coding-2/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3587-maximum-points-tourist-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tiwariankit1234/coding-2/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tiwariankit1234/coding-2/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
 |  |
@@ -1333,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/3637-count-number-of-balanced-permutations) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tiwariankit1234/coding-2/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/tiwariankit1234/coding-2/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3795-zero-array-transformation-iv](https://github.com/tiwariankit1234/coding-2/tree/master/3795-zero-array-transformation-iv) |
