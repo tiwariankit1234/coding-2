@@ -872,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/tiwariankit1234/coding-2/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/tiwariankit1234/coding-2/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/tiwariankit1234/coding-2/tree/master/0826-soup-servings) |
 | [1010-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1010-powerful-integers) |
 | [1086-divisor-game](https://github.com/tiwariankit1234/coding-2/tree/master/1086-divisor-game) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -1270,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/tiwariankit1234/coding-2/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/tiwariankit1234/coding-2/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tiwariankit1234/coding-2/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0826-soup-servings](https://github.com/tiwariankit1234/coding-2/tree/master/0826-soup-servings) |
 | [0875-longest-mountain-in-array](https://github.com/tiwariankit1234/coding-2/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -2027,4 +2029,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/tiwariankit1234/coding-2/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
