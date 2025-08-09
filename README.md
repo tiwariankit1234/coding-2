@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/tiwariankit1234/coding-2/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/tiwariankit1234/coding-2/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/tiwariankit1234/coding-2/tree/master/0338-counting-bits) |
 | [0800-letter-case-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/tiwariankit1234/coding-2/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/tiwariankit1234/coding-2/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/tiwariankit1234/coding-2/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/tiwariankit1234/coding-2/tree/master/0368-largest-divisible-subset) |
@@ -1770,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/tiwariankit1234/coding-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/tiwariankit1234/coding-2/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/tiwariankit1234/coding-2/tree/master/0231-power-of-two) |
 | [1197-parsing-a-boolean-expression](https://github.com/tiwariankit1234/coding-2/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tiwariankit1234/coding-2/tree/master/1951-find-the-winner-of-the-circular-game) |
