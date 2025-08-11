@@ -14,7 +14,7 @@ public:
         if (dp[i] == 0) {
             dp[i] = min(
                 dfs(i + 1, x) + x,  // Directly fix one mismatch
-                dfs(i + 2, x) + (diffIdx[i + 1] - diffIdx[i]) * 2 // Pair fix
+                dfs(i + 2, x) + (diffIdx[i + 1] - diffIdx[i])*2  // Pair fix
             );
         }
         return dp[i];
@@ -30,6 +30,6 @@ public:
         }
 
         if (sz % 2) return -1; // Odd number of mismatches is impossible
-        return dfs(0, x) / 2;
+        return dfs(0, x)/2;
     }
 };
