@@ -1,67 +1,34 @@
-#include <vector>
-#include <climits>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
 public:
-    vector<int> bitcount = vector<int>(32, 0); // Initialize bitcount vector with 32 zeros
-
-    void updatevector(int num, vector<int>& bitcount) {
-        int count = 0;
-        while (num > 0) {
-            if (num & 1) {
-                bitcount[count]++;
-            }
-            count++;
-            num /= 2;
-        }
-    }
-
-    void reupdatevector(int num, vector<int>& bitcount) {
-        int count = 0;
-        while (num > 0) {
-            if (num % 2) {
-                bitcount[count]--;
-            }
-            count++;
-            num /= 2;
-        }
-    }
-
-    int extractnumber(const vector<int>& bitcount) {
-        int num = 0;
-        for (int i = 0; i < 32; i++) {
-            if (bitcount[i] > 0) { // Set bit i if bitcount[i] > 0
-                num |= (1 << i);
-            }
-        }
-        return num;
-    }
-
     int minimumSubarrayLength(vector<int>& nums, int k) {
-        if(k==0)return 1;
         int n = nums.size();
-        int l = 0, r = 0, size = INT_MAX;
-        int result = 0;
+        vector<int> bitCount(32, 0); // count of set bits at each position
+        int start = 0, val = 0;
+        int ans = INT_MAX;
 
-        while (r < n) {
-            // Include nums[r] in the sliding window
-            result |= nums[r];
-            updatevector(nums[r], bitcount);
-
-            // Shrink the window from the left while result >= k
-            while (result >= k) {
-                size = min(size, r - l + 1); // Update minimum size
-                reupdatevector(nums[l], bitcount); // Remove nums[l] from bitcount
-                l++; // Move left pointer
-                result = extractnumber(bitcount); // Recalculate the OR result from bitcount
+        for (int end = 0; end < n; end++) {
+            // Add nums[end] to the OR
+            for (int i = 0; i < 32; i++) {
+                if (nums[end] & (1 << i)) {
+                    if (bitCount[i] == 0) val |= (1 << i);
+                    bitCount[i]++;
+                }
             }
 
-            r++; // Move right pointer
-        }
+            // Shrink window while condition satisfied
+            while (val >= k && start <= end) {
+                ans = min(ans, end - start + 1);
 
-        return (size == INT_MAX) ? -1 : size; // Return -1 if no subarray found
+                // Remove nums[start] from OR
+                for (int i = 0; i < 32; i++) {
+                    if (nums[start] & (1 << i)) {
+                        bitCount[i]--;
+                        if (bitCount[i] == 0) val &= ~(1 << i);
+                    }
+                }
+                start++;
+            }
+        }
+        return ans == INT_MAX ? -1 : ans;
     }
 };
