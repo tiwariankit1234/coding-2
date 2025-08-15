@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tiwariankit1234/coding-2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0146-lru-cache) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/tiwariankit1234/coding-2/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/tiwariankit1234/coding-2/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/tiwariankit1234/coding-2/tree/master/0377-combination-sum-iv) |
 | [0413-arithmetic-slices](https://github.com/tiwariankit1234/coding-2/tree/master/0413-arithmetic-slices) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/tiwariankit1234/coding-2/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/tiwariankit1234/coding-2/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tiwariankit1234/coding-2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tiwariankit1234/coding-2/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/tiwariankit1234/coding-2/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tiwariankit1234/coding-2/tree/master/0342-power-of-four) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0800-letter-case-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/tiwariankit1234/coding-2/tree/master/1418-fair-distribution-of-cookies) |
@@ -1194,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/tiwariankit1234/coding-2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tiwariankit1234/coding-2/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
