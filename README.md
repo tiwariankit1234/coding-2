@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tiwariankit1234/coding-2/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/tiwariankit1234/coding-2/tree/master/2411-spiral-matrix-iv) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/tiwariankit1234/coding-2/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2465-shifting-letters-ii) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/tiwariankit1234/coding-2/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/tiwariankit1234/coding-2/tree/master/2531-create-components-with-same-value) |
 | [2610-closest-prime-numbers-in-range](https://github.com/tiwariankit1234/coding-2/tree/master/2610-closest-prime-numbers-in-range) |
