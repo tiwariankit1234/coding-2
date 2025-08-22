@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/tiwariankit1234/coding-2/tree/master/0940-fruit-into-baskets) |
+| [0941-sort-array-by-parity](https://github.com/tiwariankit1234/coding-2/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/tiwariankit1234/coding-2/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0966-binary-subarrays-with-sum) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/tiwariankit1234/coding-2/tree/master/0876-hand-of-straights) |
 | [0901-advantage-shuffle](https://github.com/tiwariankit1234/coding-2/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/tiwariankit1234/coding-2/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/tiwariankit1234/coding-2/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/tiwariankit1234/coding-2/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/tiwariankit1234/coding-2/tree/master/1129-longest-string-chain) |
 | [1184-car-pooling](https://github.com/tiwariankit1234/coding-2/tree/master/1184-car-pooling) |
@@ -1234,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/tiwariankit1234/coding-2/tree/master/0875-longest-mountain-in-array) |
 | [0901-advantage-shuffle](https://github.com/tiwariankit1234/coding-2/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/tiwariankit1234/coding-2/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/tiwariankit1234/coding-2/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/tiwariankit1234/coding-2/tree/master/0985-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/tiwariankit1234/coding-2/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tiwariankit1234/coding-2/tree/master/1468-check-if-n-and-its-double-exist) |
