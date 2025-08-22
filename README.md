@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-total-reward-using-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tiwariankit1234/coding-2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tiwariankit1234/coding-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3483-alternating-groups-ii) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tiwariankit1234/coding-2/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tiwariankit1234/coding-2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tiwariankit1234/coding-2/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
