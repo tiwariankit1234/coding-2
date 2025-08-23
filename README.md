@@ -1134,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tiwariankit1234/coding-2/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/tiwariankit1234/coding-2/tree/master/0130-surrounded-regions) |
@@ -1667,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/tiwariankit1234/coding-2/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/tiwariankit1234/coding-2/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0210-course-schedule-ii) |
@@ -1820,6 +1822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0113-path-sum-ii) |
@@ -1880,6 +1883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0113-path-sum-ii) |
