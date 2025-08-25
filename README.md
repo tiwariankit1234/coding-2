@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/tiwariankit1234/coding-2/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/tiwariankit1234/coding-2/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/tiwariankit1234/coding-2/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/tiwariankit1234/coding-2/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/tiwariankit1234/coding-2/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/tiwariankit1234/coding-2/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/tiwariankit1234/coding-2/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tiwariankit1234/coding-2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/tiwariankit1234/coding-2/tree/master/0498-diagonal-traverse) |
 | [0983-validate-stack-sequences](https://github.com/tiwariankit1234/coding-2/tree/master/0983-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/tiwariankit1234/coding-2/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/1667-find-kth-bit-in-nth-binary-string) |
