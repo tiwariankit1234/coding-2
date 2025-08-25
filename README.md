@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/tiwariankit1234/coding-2/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/tiwariankit1234/coding-2/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/tiwariankit1234/coding-2/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tiwariankit1234/coding-2/tree/master/0342-power-of-four) |
@@ -1453,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tiwariankit1234/coding-2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0222-count-complete-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/tiwariankit1234/coding-2/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/tiwariankit1234/coding-2/tree/master/0354-russian-doll-envelopes) |
@@ -1846,6 +1848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/tiwariankit1234/coding-2/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1911,6 +1914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/tiwariankit1234/coding-2/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0297-serialize-and-deserialize-binary-tree) |
