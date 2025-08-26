@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/tiwariankit1234/coding-2/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/tiwariankit1234/coding-2/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/tiwariankit1234/coding-2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/tiwariankit1234/coding-2/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3265-maximum-good-subarray-sum](https://github.com/tiwariankit1234/coding-2/tree/master/3265-maximum-good-subarray-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tiwariankit1234/coding-2/tree/master/3307-find-the-maximum-sum-of-node-values) |
