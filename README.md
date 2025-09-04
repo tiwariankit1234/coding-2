@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2648-number-of-ways-to-earn-points](https://github.com/tiwariankit1234/coding-2/tree/master/2648-number-of-ways-to-earn-points) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/tiwariankit1234/coding-2/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2665-minimum-time-to-repair-cars](https://github.com/tiwariankit1234/coding-2/tree/master/2665-minimum-time-to-repair-cars) |
+| [2682-count-increasing-quadruplets](https://github.com/tiwariankit1234/coding-2/tree/master/2682-count-increasing-quadruplets) |
 | [2690-house-robber-iv](https://github.com/tiwariankit1234/coding-2/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/tiwariankit1234/coding-2/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/tiwariankit1234/coding-2/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/tiwariankit1234/coding-2/tree/master/2529-range-product-queries-of-powers) |
 | [2530-minimize-maximum-of-array](https://github.com/tiwariankit1234/coding-2/tree/master/2530-minimize-maximum-of-array) |
 | [2625-increment-submatrices-by-one](https://github.com/tiwariankit1234/coding-2/tree/master/2625-increment-submatrices-by-one) |
+| [2682-count-increasing-quadruplets](https://github.com/tiwariankit1234/coding-2/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/tiwariankit1234/coding-2/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2721-sum-of-distances](https://github.com/tiwariankit1234/coding-2/tree/master/2721-sum-of-distances) |
 | [2730-maximum-or](https://github.com/tiwariankit1234/coding-2/tree/master/2730-maximum-or) |
@@ -1382,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2586-longest-square-streak-in-an-array) |
 | [2648-number-of-ways-to-earn-points](https://github.com/tiwariankit1234/coding-2/tree/master/2648-number-of-ways-to-earn-points) |
+| [2682-count-increasing-quadruplets](https://github.com/tiwariankit1234/coding-2/tree/master/2682-count-increasing-quadruplets) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1834,6 +1837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/tiwariankit1234/coding-2/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/tiwariankit1234/coding-2/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2531-create-components-with-same-value](https://github.com/tiwariankit1234/coding-2/tree/master/2531-create-components-with-same-value) |
+| [2682-count-increasing-quadruplets](https://github.com/tiwariankit1234/coding-2/tree/master/2682-count-increasing-quadruplets) |
 | [2998-count-symmetric-integers](https://github.com/tiwariankit1234/coding-2/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/tiwariankit1234/coding-2/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3201-distribute-candies-among-children-ii) |
@@ -2034,6 +2038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/tiwariankit1234/coding-2/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2682-count-increasing-quadruplets](https://github.com/tiwariankit1234/coding-2/tree/master/2682-count-increasing-quadruplets) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/tiwariankit1234/coding-2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Database
 |  |
