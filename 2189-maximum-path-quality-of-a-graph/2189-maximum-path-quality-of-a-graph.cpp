@@ -3,7 +3,7 @@ public:
     int maxprofit = 0;
 
     void f(int node, int maxTime, int profit,
-           unordered_set<int>& s,
+           unordered_set<int>& s,   // pass by reference
            vector<vector<pair<int,int>>>& adj,
            vector<int>& values) {
         
@@ -11,13 +11,13 @@ public:
             maxprofit = max(maxprofit, profit);
         }
 
+        // Explore neighbors
         for (auto [adjnode, time] : adj[node]) {
             if (maxTime - time >= 0) {
-                bool firstVisit = !s.count(adjnode);
-                if (firstVisit) {
-                    s.insert(adjnode);
+                if (!s.count(adjnode)) {
+                    s.insert(adjnode); // mark visited
                     f(adjnode, maxTime - time, profit + values[adjnode], s, adj, values);
-                    s.erase(adjnode); // backtrack
+                    s.erase(adjnode);  // backtrack
                 } else {
                     f(adjnode, maxTime - time, profit, s, adj, values);
                 }
@@ -35,7 +35,7 @@ public:
         }
 
         unordered_set<int> s;
-        s.insert(0); // mark start as visited
+        s.insert(0); // starting node visited
         f(0, maxTime, values[0], s, adj, values);
 
         return maxprofit;
