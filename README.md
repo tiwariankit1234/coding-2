@@ -740,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/tiwariankit1234/coding-2/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tiwariankit1234/coding-2/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2730-maximum-or](https://github.com/tiwariankit1234/coding-2/tree/master/2730-maximum-or) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/tiwariankit1234/coding-2/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tiwariankit1234/coding-2/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/tiwariankit1234/coding-2/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/tiwariankit1234/coding-2/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tiwariankit1234/coding-2/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tiwariankit1234/coding-2/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/tiwariankit1234/coding-2/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Backtracking
 |  |
 | ------- |
@@ -1841,6 +1843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/tiwariankit1234/coding-2/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2531-create-components-with-same-value](https://github.com/tiwariankit1234/coding-2/tree/master/2531-create-components-with-same-value) |
 | [2682-count-increasing-quadruplets](https://github.com/tiwariankit1234/coding-2/tree/master/2682-count-increasing-quadruplets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/tiwariankit1234/coding-2/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/tiwariankit1234/coding-2/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/tiwariankit1234/coding-2/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3201-distribute-candies-among-children-ii) |
