@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tiwariankit1234/coding-2/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/tiwariankit1234/coding-2/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tiwariankit1234/coding-2/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/tiwariankit1234/coding-2/tree/master/0330-patching-array) |
@@ -1328,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/tiwariankit1234/coding-2/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/tiwariankit1234/coding-2/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/tiwariankit1234/coding-2/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/tiwariankit1234/coding-2/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tiwariankit1234/coding-2/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/tiwariankit1234/coding-2/tree/master/0354-russian-doll-envelopes) |
