@@ -60,6 +60,15 @@
 //     }
 // };
 
+//Explanation for approach 2:
+
+// We're trying to maintain elements in a decreasing order in the stack (bottom of stack contains greater elements and top contains smaller).
+// Lets consider three elements, stack's top element (stkTop), current element i (currElement) and the second element from top of stack i.e the element just beneath stkTop (lets call it secondTop).
+// Here comes the most important step: since we're maintaining a decreasing monotonic stack, we know secondTop > stkTop and currEle > stkTop. So you see this creates a bowl {secondTop, stktop and currEle}, so increment our answer.
+// This can be entended for nested subbowls as well.
+
+
+
 class Solution {
 public:
     long long bowlSubarrays(vector<int>& nums) {
