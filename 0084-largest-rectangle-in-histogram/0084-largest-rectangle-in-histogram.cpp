@@ -1,79 +1,63 @@
-// Monotonic stack is a very handy technique when you want to find index of previous lesser(or greater) and next lesser(or greater) element in linear time. Once you understand the usage of monotonic stack, then you'll be able to derive the solution easily in interviews. But yeah you've to see it before unless you are master of combining data-structures on the fly.
-
-
-// I was able to solve this one in about 20 mins without seeing it before. This was my intuition to realise to use a stack:
-
-// At first I looked at the problem and I was guessing there will be some o(n) or o(nlogn) solution. This makes me think that the answer can be computed during iteration, like best=max(best, current) ect.
-
-// Then notice, for a given height, if you only know heights you have seen so far, you are only concerned with heights earlier and less than or equal than the current height. This means there is an ascending staircase pattern. Then you have to figure out how to maintain an ascending staircase. At this point it's easy to see a stack, you pop off everything at the top of the staircase and then you add new stuff on top.
-
-
-
-
-
 class Solution {
 public:
+    int largestRectangleArea(vector<int>& height) {
+        height.push_back(-1);
+        int n=height.size();
+        // this problem should be solved using stack .
+        /* whenever you see a monotonic increase in the input which      
+		would yield  the answer closest to 
+		required you gotta understand that you should
+		use  a stack datastructure to  calculate the answer*/
+        // so let's begin by creating a stack and ans that we return 
+       
+        //just to make our code understand better i'm adding 0 at the end of
+        //heights
+    
+        /* how do you add the elements to the stack ? mmmmmm? okay 
+		let us think 
+        way ,lets add all the ascending order elements to the stack so that 
+		it
+        looks like climbing steps .coz in that way we can have atleast the 
+		min
+        size step * number of elements in the stack .if we encounter any 
+		bar with         lesser height than the top element of the stack ,we 
+		will compute the 
+        existing stack element area and pop the top element just to check 
+		if the 
+        current top < bar height ,if it is so ..add it to the stack ..i think it        
+		will be more clearer if you go through the code*/
+         //very important note .. we are adding indices ..not the values
+            stack<int>st;
+            st.push(0);
+            int area=INT_MIN,base=0;
+            for(int i=1;i<n;i++){
+                while(!st.empty() and height[st.top()]>height[i]){
+                    int high=height[st.top()];
+                    st.pop();
+                    if(st.empty()) base=-1;
+                    else
+                    base=st.top();
+                  
+                    area=max(area,high*(i-base-1));
+                    // cout<<i<<" "<<" "<<height[i]<<" "<<high<<" "<<base<<endl;
+                }
+                st.push(i);
+            }
+            return area;
 
-void prev(vector<int>& arr,int n,vector<int>&prevsmaller){
-     stack<int>st;
-     st.push(0);
-    prevsmaller[0]=-1;
+                //here we are checking if stack is empty or if we encounter 
+				
+                // number that doesn't satisfy our stack filling property
+                
 
-    for(int i=1;i<n;i++){
-        while(!st.empty() and arr[st.top()]>=arr[i]){
-            st.pop();
-        }
-        if(st.size()==0)prevsmaller[i]=-1;
-        else{
-            prevsmaller[i]=st.top();
-        }
-        st.push(i);
-    }
-      for(auto it:prevsmaller)
-       cout<<it<<" ";
-
-       cout<<endl;
-}
-
-void next(vector<int>& arr,int n,vector<int>&nextsmaller){
-    stack<int>st;
-    st.push(n-1);
-    nextsmaller[n-1]=n;
-
-    for(int i=n-2;i>=0;i--){
-        while(!st.empty() and arr[st.top()]>=arr[i]){
-            st.pop();
-        }
-        if(st.size()==0)nextsmaller[i]=n;
-        else{
-            nextsmaller[i]=st.top();
-        }
-        st.push(i);
-    }
-     cout<<"5"<<endl;
-    for(auto it:nextsmaller)
-       cout<<it<<" ";
-
-       cout<<endl;
-}
-
- 
-    int largestRectangleArea(vector<int>& heights) {
-         int n=heights.size();
-         if(n==1)return heights[0];
-         vector<int>prevsmaller(n);
-         prev(heights,n,prevsmaller);
+                //this is to check if stack is empty, if so we will just take the                 //index
+    
+                // this is just to take the max area covered so far
+            
+            //we push into the stack as long as it satsifies our stack condition
         
-         vector<int>nextsmaller(n);
-         next(heights,n,nextsmaller);
-          
-           int maxarea=0;
-         for(int i=0;i<n;i++){
-            int currentheight=heights[i];
-            int width=nextsmaller[i]-prevsmaller[i]-1;
-            int area=currentheight*width;
-            maxarea=max(maxarea,area);
-         }
-         return maxarea;
+    
+        // i know it's not a very clever explanation ..but i tried to explain 
+        //whatever i can ...HAPPY CODING!!
     }
 };
