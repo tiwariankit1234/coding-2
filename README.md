@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tiwariankit1234/coding-2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0216-combination-sum-iii](https://github.com/tiwariankit1234/coding-2/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/tiwariankit1234/coding-2/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/tiwariankit1234/coding-2/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tiwariankit1234/coding-2/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0283-move-zeroes) |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/tiwariankit1234/coding-2/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/tiwariankit1234/coding-2/tree/master/0525-contiguous-array) |
 | [0731-my-calendar-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0731-my-calendar-ii) |
 | [0831-largest-sum-of-averages](https://github.com/tiwariankit1234/coding-2/tree/master/0831-largest-sum-of-averages) |
