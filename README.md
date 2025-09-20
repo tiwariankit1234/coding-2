@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tiwariankit1234/coding-2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tiwariankit1234/coding-2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/tiwariankit1234/coding-2/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -1296,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tiwariankit1234/coding-2/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tiwariankit1234/coding-2/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tiwariankit1234/coding-2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/tiwariankit1234/coding-2/tree/master/0061-rotate-list) |
