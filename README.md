@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/tiwariankit1234/coding-2/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tiwariankit1234/coding-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/tiwariankit1234/coding-2/tree/master/0424-longest-repeating-character-replacement) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/tiwariankit1234/coding-2/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0140-word-break-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tiwariankit1234/coding-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/tiwariankit1234/coding-2/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/tiwariankit1234/coding-2/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0257-binary-tree-paths) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0002-add-two-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tiwariankit1234/coding-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/tiwariankit1234/coding-2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/tiwariankit1234/coding-2/tree/master/0279-perfect-squares) |
