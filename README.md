@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/tiwariankit1234/coding-2/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/tiwariankit1234/coding-2/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/tiwariankit1234/coding-2/tree/master/0830-largest-triangle-area) |
 | [0831-largest-sum-of-averages](https://github.com/tiwariankit1234/coding-2/tree/master/0831-largest-sum-of-averages) |
 | [0854-making-a-large-island](https://github.com/tiwariankit1234/coding-2/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/tiwariankit1234/coding-2/tree/master/0859-design-circular-deque) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/tiwariankit1234/coding-2/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/tiwariankit1234/coding-2/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/tiwariankit1234/coding-2/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/tiwariankit1234/coding-2/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/tiwariankit1234/coding-2/tree/master/0867-new-21-game) |
 | [1010-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1010-powerful-integers) |
 | [1086-divisor-game](https://github.com/tiwariankit1234/coding-2/tree/master/1086-divisor-game) |
@@ -2195,6 +2197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/tiwariankit1234/coding-2/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tiwariankit1234/coding-2/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
