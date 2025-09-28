@@ -964,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/tiwariankit1234/coding-2/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tiwariankit1234/coding-2/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/tiwariankit1234/coding-2/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tiwariankit1234/coding-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/2050-count-good-numbers) |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/tiwariankit1234/coding-2/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/tiwariankit1234/coding-2/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/tiwariankit1234/coding-2/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/tiwariankit1234/coding-2/tree/master/1961-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/tiwariankit1234/coding-2/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tiwariankit1234/coding-2/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1568,6 +1570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/tiwariankit1234/coding-2/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tiwariankit1234/coding-2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tiwariankit1234/coding-2/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/tiwariankit1234/coding-2/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/tiwariankit1234/coding-2/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2118-maximum-earnings-from-taxi](https://github.com/tiwariankit1234/coding-2/tree/master/2118-maximum-earnings-from-taxi) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/tiwariankit1234/coding-2/tree/master/2134-maximize-the-confusion-of-an-exam) |
