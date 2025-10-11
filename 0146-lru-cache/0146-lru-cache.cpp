@@ -1,49 +1,94 @@
-#include <unordered_map>
-#include <algorithm>
-#include <limits>
-
-class LRUCache {
-private:
-    int capacity;
-    int currentTime; // Sequence number to track order of usage
-    std::unordered_map<int, int> cache;             // Stores key-value pairs
-    std::unordered_map<int, int> usageOrder;        // Stores key-access time to determine LRU
-
-public:
-    LRUCache(int capacity) : capacity(capacity), currentTime(0) {}
-
-    int get(int key) {
-        if (cache.find(key) == cache.end()) {
-            return -1; // Key not found
-        }
-
-        // Update access time
-        usageOrder[key] = ++currentTime;
-        return cache[key];
-    }
-
-    void put(int key, int value) {
-        if (cache.size() >= capacity && cache.find(key) == cache.end()) {
-            // Evict the least recently used item
-            int lruKey = -1;
-            int oldestTime = std::numeric_limits<int>::max();
-
-            for (const auto& entry : usageOrder) {
-                if (entry.second < oldestTime) {
-                    oldestTime = entry.second;
-                    lruKey = entry.first;
-                }
-            }
-
-            // Remove the least recently used key from both maps
-            if (lruKey != -1) {
-                cache.erase(lruKey);
-                usageOrder.erase(lruKey);
-            }
-        }
-
-        // Insert or update the key-value pair and update access time
-        cache[key] = value;
-        usageOrder[key] = ++currentTime;
+class Node{
+    public:
+    int key;
+    int val;
+    Node *prev;
+    Node *next;
+    Node(int key,int val){
+        this->key=key;
+        this->val=val;
+        prev=NULL;
+        next=NULL;
     }
 };
+
+class LRUCache {
+public:
+unordered_map<int,Node*>mp;
+int capacity;
+Node *head;
+Node *tail;
+
+void *addnode(Node* newnode){
+         Node *temp=head->next;
+        newnode->next=temp;
+        newnode->prev=head;
+        head->next=newnode;
+       temp->prev=newnode;
+    return newnode;
+
+}
+void deletenode(Node *deletenode){
+    Node *prev=deletenode->prev;
+    Node *next=deletenode->next;
+    prev->next=next;
+    next->prev=prev;
+}
+    LRUCache(int capacity) {
+        this->capacity=capacity;
+        head=new Node(-1,-1);
+        tail=new Node(-1,-1);
+        head->next=tail;
+        tail->prev=head;
+    }
+    
+    int get(int key) {
+        if(mp.find(key)==mp.end()){
+            return -1;
+        }
+        //     auto it=mp[key];
+        //    int x=it->val;
+        //    mp.erase(key);
+        //    deletenode(it);
+        //    Node *temp=addnode(it);
+        //     mp[key]=temp;
+        Node *node=mp[key];
+        int val=node->val;
+        deletenode(node);
+        addnode(node);
+        mp[key]=head->next;
+           return val;
+        
+            }
+    
+    void put(int key, int val) {
+            if(mp.find(key)!=mp.end()){
+                 auto it=mp[key]; 
+                 mp.erase(key); 
+                 deletenode(it);
+            }
+
+
+         if((int)mp.size()==capacity){
+            Node *vec=tail->prev;
+            mp.erase(vec->key);
+            deletenode(vec);
+         }
+            // if(mp.find(key)!=mp.end()){
+            //      auto it=mp[key]; 
+            //      mp.erase(key); 
+            //      deletenode(it);
+            // }
+            Node *newNode=new Node(key,val);
+            addnode(newNode);
+            mp[key]=newNode;  
+          return ;
+    }
+};
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache* obj = new LRUCache(capacity);
+ * int param_1 = obj->get(key);
+ * obj->put(key,value);
+ */
