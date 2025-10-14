@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/tiwariankit1234/coding-2/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/tiwariankit1234/coding-2/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tiwariankit1234/coding-2/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
