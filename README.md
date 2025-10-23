@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/tiwariankit1234/coding-2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/tiwariankit1234/coding-2/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tiwariankit1234/coding-2/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
@@ -1022,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3830-find-closest-person](https://github.com/tiwariankit1234/coding-2/tree/master/3830-find-closest-person) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/tiwariankit1234/coding-2/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -2112,6 +2115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/tiwariankit1234/coding-2/tree/master/3001-apply-operations-to-maximize-score) |
 | [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/tiwariankit1234/coding-2/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -2136,6 +2140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/tiwariankit1234/coding-2/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
