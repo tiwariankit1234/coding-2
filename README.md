@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/tiwariankit1234/coding-2/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/tiwariankit1234/coding-2/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2047-find-a-peak-element-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/tiwariankit1234/coding-2/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/tiwariankit1234/coding-2/tree/master/2089-maximum-matrix-sum) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/tiwariankit1234/coding-2/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/tiwariankit1234/coding-2/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/tiwariankit1234/coding-2/tree/master/1972-rotating-the-box) |
+| [2047-find-a-peak-element-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/tiwariankit1234/coding-2/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/tiwariankit1234/coding-2/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1606,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tiwariankit1234/coding-2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tiwariankit1234/coding-2/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/tiwariankit1234/coding-2/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2047-find-a-peak-element-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2047-find-a-peak-element-ii) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/tiwariankit1234/coding-2/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2118-maximum-earnings-from-taxi](https://github.com/tiwariankit1234/coding-2/tree/master/2118-maximum-earnings-from-taxi) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/tiwariankit1234/coding-2/tree/master/2134-maximize-the-confusion-of-an-exam) |
