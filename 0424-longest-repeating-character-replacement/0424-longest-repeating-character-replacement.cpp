@@ -17,17 +17,9 @@ public:
               hash[s[r]-'A']++;
             maxfrequency=max(maxfrequency,hash[s[r]-'A']);
             // cout<<maxfrequency<<" ";
-            while(((r-l+1)-maxfrequency)>k){
+           if(((r-l+1)-maxfrequency)>k){
                 hash[s[l]-'A']--;
                 l++;
-                maxfrequency=0;
-                   
-   
-    for(int i=0;i<26;i++){
-       
-        maxfrequency=max(maxfrequency,hash[i]);
-    }
-   
             }
             // cout<<l<<" "<<r<<endl;
             len=max(len,(r-l+1));
