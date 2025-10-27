@@ -17,6 +17,7 @@ bool f(TreeNode* root,int k,unordered_map<int,int>&mp){
      if(!root)return false;
          cout<<root->val<<endl;
         bool left=f(root->left,k,mp);
+        if(left)return left;
         if(mp.find(k-root->val)!=mp.end()){
             return true;
         }
