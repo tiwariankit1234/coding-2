@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tiwariankit1234/coding-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/tiwariankit1234/coding-2/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/tiwariankit1234/coding-2/tree/master/0424-longest-repeating-character-replacement) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tiwariankit1234/coding-2/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0216-combination-sum-iii](https://github.com/tiwariankit1234/coding-2/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/tiwariankit1234/coding-2/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tiwariankit1234/coding-2/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tiwariankit1234/coding-2/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0240-search-a-2d-matrix-ii) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tiwariankit1234/coding-2/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/tiwariankit1234/coding-2/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/tiwariankit1234/coding-2/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1050,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tiwariankit1234/coding-2/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tiwariankit1234/coding-2/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/tiwariankit1234/coding-2/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/tiwariankit1234/coding-2/tree/master/0354-russian-doll-envelopes) |
