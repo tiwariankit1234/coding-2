@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/tiwariankit1234/coding-2/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/tiwariankit1234/coding-2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tiwariankit1234/coding-2/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/tiwariankit1234/coding-2/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/tiwariankit1234/coding-2/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/tiwariankit1234/coding-2/tree/master/0605-can-place-flowers) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tiwariankit1234/coding-2/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/tiwariankit1234/coding-2/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/tiwariankit1234/coding-2/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0731-my-calendar-ii) |
 | [0831-largest-sum-of-averages](https://github.com/tiwariankit1234/coding-2/tree/master/0831-largest-sum-of-averages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
