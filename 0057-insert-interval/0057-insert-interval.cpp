@@ -1,19 +1,24 @@
 class Solution {
 public:
-    vector<vector<int>> insert(vector<vector<int>>& arr, vector<int>& temp) {
-        arr.push_back(temp);
-        sort(arr.begin(), arr.end());  // sort by start
-
-        vector<vector<int>> ans;
-        for (auto &interval : arr) {
-            if (ans.empty() || ans.back()[1] < interval[0]) {
-                // no overlap
-                ans.push_back(interval);
-            } else {
-                // overlap → merge
-                ans.back()[1] = max(ans.back()[1], interval[1]);
-            }
+    vector<vector<int>> insert(vector<vector<int>>& arr, vector<int>& newarr) {
+        int n=arr.size();
+        vector<vector<int>>ans;
+        int i=0;
+        while(i<n and arr[i][1]<newarr[0]){
+            ans.push_back(arr[i]);
+          i++;
+        }
+        while(i<n and arr[i][0]<=newarr[1]){
+            newarr[0]=min(newarr[0],arr[i][0]);
+            newarr[1]=max(newarr[1],arr[i][1]);
+            i++;
+        }
+       ans.push_back(newarr);
+         while(i<n){
+            ans.push_back(arr[i]);
+          i++;
         }
         return ans;
+
     }
 };
