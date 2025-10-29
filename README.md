@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/tiwariankit1234/coding-2/tree/master/0859-design-circular-deque) |
 | [0875-longest-mountain-in-array](https://github.com/tiwariankit1234/coding-2/tree/master/0875-longest-mountain-in-array) |
 | [0876-hand-of-straights](https://github.com/tiwariankit1234/coding-2/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/tiwariankit1234/coding-2/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0901-advantage-shuffle](https://github.com/tiwariankit1234/coding-2/tree/master/0901-advantage-shuffle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1170,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/tiwariankit1234/coding-2/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/tiwariankit1234/coding-2/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/tiwariankit1234/coding-2/tree/master/0890-lemonade-change) |
 | [0901-advantage-shuffle](https://github.com/tiwariankit1234/coding-2/tree/master/0901-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/tiwariankit1234/coding-2/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tiwariankit1234/coding-2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
