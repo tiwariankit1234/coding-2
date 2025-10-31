@@ -1069,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/tiwariankit1234/coding-2/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/tiwariankit1234/coding-2/tree/master/0354-russian-doll-envelopes) |
@@ -1389,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tiwariankit1234/coding-2/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/tiwariankit1234/coding-2/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/tiwariankit1234/coding-2/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/tiwariankit1234/coding-2/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tiwariankit1234/coding-2/tree/master/0567-permutation-in-string) |
@@ -1742,6 +1744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tiwariankit1234/coding-2/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/tiwariankit1234/coding-2/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/tiwariankit1234/coding-2/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/tiwariankit1234/coding-2/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0460-lfu-cache) |
@@ -1801,6 +1804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/tiwariankit1234/coding-2/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/tiwariankit1234/coding-2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/tiwariankit1234/coding-2/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -2308,6 +2312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/tiwariankit1234/coding-2/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tiwariankit1234/coding-2/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/1477-product-of-the-last-k-numbers) |
 ## Quickselect
