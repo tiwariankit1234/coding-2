@@ -9,12 +9,13 @@ public:
         int n=nums.size();
         for(int i=0;i<n;i++){
             pq.push(nums[i]);
+            if(pq.size()>k)pq.pop();
         }
     }
     
     int add(int val) {
          pq.push(val);
-        while(pq.size()>k){
+       if(pq.size()>k){
             pq.pop();
         }
         int x=pq.top();
