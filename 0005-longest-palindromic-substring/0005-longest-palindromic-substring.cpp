@@ -1,42 +1,32 @@
 class Solution {
 public:
-    int dp[1002][1002];
-    
-    bool f(int i, int j, string &s) {
-        if (i >= j) {
-            return dp[i][j] = 1;
-        }
-        
-        if (dp[i][j] != -1) {
-            return dp[i][j];
-        }
-        
-        // If characters match, check inner substring
-        if (s[i] == s[j]) {
-            return dp[i][j] = f(i + 1, j - 1, s);
-        }
-        
-        // If characters don't match, it's not a palindrome
-        return dp[i][j] = 0;
-    }
-    
+int dp[1002][1002];
+
     string longestPalindrome(string s) {
-        int n = s.size();
-        memset(dp, -1, sizeof(dp));
-        
-        int maxlength = 1;  // Initialize with 1 since single character is palindrome
-        int startidx = 0;
-        
-        // Check all possible substrings
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                if (f(i, j, s) == 1 && (j - i + 1) > maxlength) {
-                    maxlength = j - i + 1;
-                    startidx = i;
-                }
-            }
+        int n=s.size();
+        if(n<=1)return s;
+        int start=0,maxlen=1;
+        auto expand=[&](int l,int r){
+           while(l>=0 and r<n and s[l]==s[r]){
+            l--;
+            r++;
+           }
+        int length=r-l-1;
+        if(length>maxlen){
+            maxlen=length;
+            start=l+1;
         }
-        
-        return s.substr(startidx, maxlength);
+
+
+        };
+
+
+
+    
+    for(int i=0;i<n;i++){
+        expand(i,i);
+        expand(i,i+1);
     }
+        return s.substr(start,maxlen);
+           }
 };
