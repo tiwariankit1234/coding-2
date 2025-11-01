@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tiwariankit1234/coding-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/tiwariankit1234/coding-2/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/tiwariankit1234/coding-2/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0347-top-k-frequent-elements) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tiwariankit1234/coding-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/tiwariankit1234/coding-2/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/tiwariankit1234/coding-2/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/tiwariankit1234/coding-2/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0297-serialize-and-deserialize-binary-tree) |
