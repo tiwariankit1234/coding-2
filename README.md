@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tiwariankit1234/coding-2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/tiwariankit1234/coding-2/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/tiwariankit1234/coding-2/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tiwariankit1234/coding-2/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0073-set-matrix-zeroes) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tiwariankit1234/coding-2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tiwariankit1234/coding-2/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/tiwariankit1234/coding-2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/tiwariankit1234/coding-2/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/tiwariankit1234/coding-2/tree/master/0038-count-and-say) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/tiwariankit1234/coding-2/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tiwariankit1234/coding-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/tiwariankit1234/coding-2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
