@@ -1,18 +1,13 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     string frequencySort(string s) {
-        unordered_map<char, int> mp;
-        for (char c : s) mp[c]++;
-
-        sort(s.begin(), s.end(), [&](char a, char b) {
-            if (mp[a] == mp[b])
-                return a < b; // optional: sort lexicographically if freq equal
-            return mp[a] > mp[b]; // higher frequency first
-        });
-
+        int n=s.size();
+        unordered_map<char,int>mp;
+        for(int i=0;i<n;i++)mp[s[i]]++;
+        sort(s.begin(),s.end(),([&](char &a,char &b){
+            if(mp[a]==mp[b])return a<b;
+            return mp[a]>mp[b];
+        }));
         return s;
     }
 };
