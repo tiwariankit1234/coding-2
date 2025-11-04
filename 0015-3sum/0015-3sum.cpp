@@ -13,7 +13,7 @@ public:
          int j=i+1,k=n-1;
          cout<<i<<" "<<j<<" "<<k<<endl;
          cout<<"bahar wala"<<endl;
-          while(j<n and k<n and j<k ){
+          while( j<k ){
             int sum=nums[j]+nums[k];
             if(sum>target){
                 k--;
