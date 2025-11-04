@@ -24,7 +24,7 @@ public:
                 k--;
                 cout<<i<<" "<<j<<" "<<k<<" "<<endl;
                 cout<<"andhar wala"<<endl;
-                while(j<n and nums[j]==nums[j-1])j++;
+                while(j<k and nums[j]==nums[j-1])j++;
             }
             else{
                 j++;
