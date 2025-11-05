@@ -9,16 +9,16 @@ void f(int col,vector<string>&board){
         return ;
     }
     for(int row=0;row<n;row++){
-        if(leftrow[row]==0 and lowerdiagonal[row+col]==0 and upperdiagonal[n-1+col-row]==0){
+        if(leftrow[row]==0 and lowerdiagonal[row+col]==0 and upperdiagonal[n-1+row-col]==0){
             board[row][col]='Q';
             leftrow[row]=1;
             lowerdiagonal[row+col]=1;
-            upperdiagonal[n-1+col-row]=1;
+            upperdiagonal[n-1+row-col]=1;
             f(col+1,board);
               board[row][col]='.';
             leftrow[row]=0;
             lowerdiagonal[row+col]=0;
-            upperdiagonal[n-1+col-row]=0;
+            upperdiagonal[n-1+row-col]=0;
         }
     }
 }
