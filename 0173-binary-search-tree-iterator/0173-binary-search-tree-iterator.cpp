@@ -1,36 +1,33 @@
+
 class BSTIterator {
 public:
-    stack<TreeNode*> st;
-    
+stack<TreeNode*>st;
     BSTIterator(TreeNode* root) {
-        // Push all the left nodes to the stack
-        while (root) {
+       
+        while(root){
             st.push(root);
-            root = root->left;
+            root=root->left;
         }
+
     }
     
     int next() {
-        // Pop the top node from the stack
-        TreeNode* node = st.top();
+        TreeNode* node=st.top();
         st.pop();
-        int val = node->val;
-        
-        // If the node has a right child, push all its left descendants
-        if (node->right) {
-            node = node->right;
-            while (node) {
+        int x=node->val;
+        if(node->right){
+            node=node->right;
+            while(node){
                 st.push(node);
-                node = node->left;
+                node=node->left;
             }
         }
-        
-        return val;
+        return x;
     }
     
     bool hasNext() {
-        // If there are elements in the stack, we have a next element
-        return !st.empty();
+        if(!st.empty())return true;
+        return false;
     }
 };
 
@@ -39,4 +36,4 @@ public:
  * BSTIterator* obj = new BSTIterator(root);
  * int param_1 = obj->next();
  * bool param_2 = obj->hasNext();
- */  
+ */
