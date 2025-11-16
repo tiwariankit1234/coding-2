@@ -1,37 +1,57 @@
+    class Solution{
 
-//https://leetcode.com/problems/palindrome-partitioning-ii/description/
-// precomputation of pallindrome is required
-class Solution {
-public:
-    // at max O(N2) calls to the functions
-    bool isPalindrome(string& s, int l, int r, vector<vector<int>>& dp){
-        if(l >= r) return true;
-        if(dp[l][r] != -1) return dp[l][r];
-        if(s[l] == s[r]) return dp[l][r] = isPalindrome(s, l+1, r-1, dp);
-        return dp[l][r] = false;
-    }
-    int n;
-    int performMinCuts(string& s, int index, vector<int>& dp, vector<vector<int>>& pDp){
-        if(index == n){
-            return 0;
+        public:
+    
+    
+    
+    bool isPalindrome (string & s, int i, int j){
+        while(i<j){
+            if(s[i]!=s[j]) return false;
+            i++; j--;
         }
-        int minCuts = 100000;
-        if(dp[index] != -1) return dp[index];
-        // no need to partition, if substr is already palindrome
-        if(isPalindrome(s, index, n-1, pDp)) return dp[index] = 0; 
-        for(int i = index; i < n; i++){
-            if(isPalindrome(s, index, i, pDp)){
-                // try to cut from here
-                minCuts = min(minCuts, 1 + performMinCuts(s, i+1, dp, pDp));
+        return true;
+    }
+    
+
+    int solve (string & s, int i, int j, vector<int> & dp){    
+        
+        if(i>=j or isPalindrome(s, i, j)) return 0;
+        
+        if(dp[i]!=-1) return dp[i];
+        
+        int ans = INT_MAX;
+        
+        for(int k=i; k<j; k++){
+            
+            /* 
+                Instead of writing below standard line
+                We will recurse for only right part
+                Only when left part turns out to be palindrome
+				
+				Reason : If left substring becomes palindrome then there is no need to partition it further 
+				(which in turn reduces the number of recursive calls)
+                
+                int temp =  solve (s, i, k, dp, palindrome) + solve (s, k+1, j, dp, palindrome) + 1;
+                
+            */
+            
+            if(isPalindrome(s, i, k)){                         
+                int temp = solve (s, k+1, j, dp) + 1;
+                ans = min (ans, temp);
             }
         }
-        return dp[index] = minCuts;
+        
+        return dp[i] = ans;
+    }
+    
+    int minCut(string s) {
+        int n = s.length();
+        
+        /* I've used 1D DP here becoz only one parameter is changing i.e. `i` */
+        
+        vector<int> dp (n+1, -1);   
+            
+        return solve (s, 0, n-1, dp);
     }
 
-    int minCut(string s) {
-        n = s.size();
-        vector<int> dp(n, -1); // dp for minCut problem
-        vector<vector<int>> pDp(n, vector<int>(n, -1)); // dp for palindrome
-        return performMinCuts(s, 0, dp, pDp);
-    }
-};
+    };
