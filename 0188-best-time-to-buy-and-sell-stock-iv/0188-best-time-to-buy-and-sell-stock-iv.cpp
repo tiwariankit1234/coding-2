@@ -1,29 +1,27 @@
 class Solution {
 public:
-int dp[1002][102][3];
-int f(int idx,int k,vector<int>& prices,bool flag){
+
+int dp[(int)100000][2][101];
+int m;
+int f(int idx,bool taken,int count,vector<int>&prices){
     int n=prices.size();
     if(idx==n)return 0;
-    if(idx==n-1){
-        if(flag){
-            return prices[idx];
-        }
-        else{
-            return 0;
-        }
+    if(dp[idx][taken][count]!=-1)return dp[idx][taken][count];
+    if(taken==false and count<m){
+        return dp[idx][taken][count]=max(-prices[idx]+f(idx+1,true,count,prices),f(idx+1,false,count,prices));
     }
-    if(dp[idx][k][flag]!=-1)return dp[idx][k][flag];
-    int profit=0;
-    if(!flag and k>0){
-        profit=max(-prices[idx]+f(idx+1,k,prices,true),f(idx+1,k,prices,false));
+    if(taken==true and count<m){
+        return dp[idx][taken][count]=max(prices[idx]+f(idx+1,false,count+1,prices),f(idx+1,true,count,prices));
     }
-    if(flag and k>0){
-        profit=max(prices[idx]+f(idx+1,k-1,prices,false),f(idx+1,k,prices,flag));
-    }
-    return dp[idx][k][flag]=profit;
+     return 0;
 }
+
+
+
     int maxProfit(int k, vector<int>& prices) {
+          int n=prices.size();
         memset(dp,-1,sizeof(dp));
-        return f(0,k,prices,false);
+        m=k;
+        return f(0,false,0,prices);
     }
 };
