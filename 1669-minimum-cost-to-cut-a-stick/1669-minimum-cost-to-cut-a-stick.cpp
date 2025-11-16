@@ -1,36 +1,22 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-struct KeyHash {
-    size_t operator()(const tuple<int,int,int,int>& t) const {
-        auto [a,b,c,d] = t;
-        return ((a*1315423911u + b*2654435761u) ^ (c*97531u + d*83123u));
-    }
-};
-
 class Solution {
 public:
-    unordered_map<tuple<int,int,int,int>, int, KeyHash> mp;
-
-    int f(int l, int r, int leftidx, int rightidx, vector<int>& cuts) {
-        if (leftidx > rightidx) return 0;  // no cuts available
-
-        auto key = make_tuple(l, r, leftidx, rightidx);
-        if (mp.find(key) != mp.end()) return mp[key];
-
-        int cost = INT_MAX;
-        for (int j = leftidx; j <= rightidx; j++) {
-            int newcost = (r - l) 
-                        + f(l, cuts[j], leftidx, j - 1, cuts) 
-                        + f(cuts[j], r, j + 1, rightidx, cuts);
-            cost = min(cost, newcost);
-        }
-
-        return mp[key] = cost;
+int dp[102][102];
+int f(int i,int j,vector<int>&cuts){
+      
+      if((j-i)<=1)return 0;
+      if(dp[i][j]!=-1)return dp[i][j];
+     int ans=INT_MAX;
+    for(int k=i+1;k<j;k++){
+     
+       ans=min(ans,cuts[j]-cuts[i]+f(i,k,cuts)+f(k,j,cuts));
     }
-
+    return dp[i][j]=ans;
+}
     int minCost(int n, vector<int>& cuts) {
-        sort(cuts.begin(), cuts.end());
-        return f(0, n, 0, (int)cuts.size() - 1, cuts);
+        memset(dp,-1,sizeof(dp));
+        cuts.push_back(0);
+        cuts.push_back(n);
+        sort(cuts.begin(),cuts.end());
+        return f(0,cuts.size()-1,cuts);
     }
 };
