@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/tiwariankit1234/coding-2/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/tiwariankit1234/coding-2/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/tiwariankit1234/coding-2/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/tiwariankit1234/coding-2/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/tiwariankit1234/coding-2/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -1140,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/tiwariankit1234/coding-2/tree/master/1184-car-pooling) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/tiwariankit1234/coding-2/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/tiwariankit1234/coding-2/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tiwariankit1234/coding-2/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/tiwariankit1234/coding-2/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tiwariankit1234/coding-2/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1237,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/tiwariankit1234/coding-2/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1081-video-stitching](https://github.com/tiwariankit1234/coding-2/tree/master/1081-video-stitching) |
 | [1139-previous-permutation-with-one-swap](https://github.com/tiwariankit1234/coding-2/tree/master/1139-previous-permutation-with-one-swap) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/tiwariankit1234/coding-2/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/tiwariankit1234/coding-2/tree/master/1304-longest-happy-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1448-maximum-69-number](https://github.com/tiwariankit1234/coding-2/tree/master/1448-maximum-69-number) |
@@ -1545,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/tiwariankit1234/coding-2/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/tiwariankit1234/coding-2/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/tiwariankit1234/coding-2/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
