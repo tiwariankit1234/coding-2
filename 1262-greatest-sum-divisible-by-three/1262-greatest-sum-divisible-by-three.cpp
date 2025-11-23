@@ -1,26 +1,41 @@
 class Solution {
 public:
-int dp[40002][3];
-int f(int idx,int mod,vector<int>&nums){
-    int n=nums.size();
-    if(idx==n){
-        if(mod==0)return 0;
-        else{
-            return -1e5;
-        }
-    }
-
-    if(dp[idx][mod]!=-1)return dp[idx][mod];
-    int take=nums[idx]+f(idx+1,(mod+nums[idx])%3,nums);
-    int notake=f(idx+1,(mod),nums);
-    return dp[idx][mod]=max(take,notake);
-}
-
     int maxSumDivThree(vector<int>& nums) {
-        int n=nums.size();
-        memset(dp,-1,sizeof(dp));
-      int ans=f(0,0,nums);
-      if(ans<0)return 0;
-      return ans;
+        int total = 0;
+        int min1_1 = 1e4, min1_2 = 1e4; // smallest and 2nd smallest numbers with remainder 1
+        int min2_1 = 1e4, min2_2 = 1e4; // smallest and 2nd smallest numbers with remainder 2
+
+        for (int num : nums) {
+            total += num;
+            int rem = num % 3;
+            if (rem == 1) {
+                if (num < min1_1) {
+                    min1_2 = min1_1;
+                    min1_1 = num;
+                } else if (num < min1_2) {
+                    min1_2 = num;
+                }
+            } else if (rem == 2) {
+                if (num < min2_1) {
+                    min2_2 = min2_1;
+                    min2_1 = num;
+                } else if (num < min2_2) {
+                    min2_2 = num;
+                }
+            }
+        }
+
+        if (total % 3 == 0) return total;
+
+        if (total % 3 == 1) {
+            int op1 = min1_1;
+            int op2 = min2_1 + min2_2;
+            return total - min(op1, op2);
+        }
+
+        // total % 3 == 2
+        int op1 = min2_1;
+        int op2 = min1_1 + min1_2;
+        return total - min(op1, op2);
     }
 };
