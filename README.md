@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/tiwariankit1234/coding-2/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1010-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1010-powerful-integers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1035,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/tiwariankit1234/coding-2/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/tiwariankit1234/coding-2/tree/master/0867-new-21-game) |
 | [1010-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1010-powerful-integers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/tiwariankit1234/coding-2/tree/master/1086-divisor-game) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
