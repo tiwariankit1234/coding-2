@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/tiwariankit1234/coding-2/tree/master/3750-closest-equal-element-queries) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/tiwariankit1234/coding-2/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3819-count-covered-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/3819-count-covered-buildings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/tiwariankit1234/coding-2/tree/master/3748-sort-matrix-by-diagonals) |
 | [3750-closest-equal-element-queries](https://github.com/tiwariankit1234/coding-2/tree/master/3750-closest-equal-element-queries) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/tiwariankit1234/coding-2/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/tiwariankit1234/coding-2/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3779-eat-pizzas](https://github.com/tiwariankit1234/coding-2/tree/master/3779-eat-pizzas) |
 | [3790-fruits-into-baskets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3790-fruits-into-baskets-ii) |
@@ -1095,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3830-find-closest-person](https://github.com/tiwariankit1234/coding-2/tree/master/3830-find-closest-person) |
