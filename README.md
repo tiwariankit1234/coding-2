@@ -1054,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/tiwariankit1234/coding-2/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/tiwariankit1234/coding-2/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/tiwariankit1234/coding-2/tree/master/1925-count-square-sum-triples) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/tiwariankit1234/coding-2/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tiwariankit1234/coding-2/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -2072,6 +2073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/tiwariankit1234/coding-2/tree/master/0875-longest-mountain-in-array) |
 | [1010-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1010-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/tiwariankit1234/coding-2/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/tiwariankit1234/coding-2/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/tiwariankit1234/coding-2/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
