@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tiwariankit1234/coding-2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tiwariankit1234/coding-2/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/tiwariankit1234/coding-2/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiwariankit1234/coding-2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1125,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/tiwariankit1234/coding-2/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tiwariankit1234/coding-2/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tiwariankit1234/coding-2/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tiwariankit1234/coding-2/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/tiwariankit1234/coding-2/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1464,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/tiwariankit1234/coding-2/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/tiwariankit1234/coding-2/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/tiwariankit1234/coding-2/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tiwariankit1234/coding-2/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0283-move-zeroes) |
