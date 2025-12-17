@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/tiwariankit1234/coding-2/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0474-ones-and-zeroes) |
+| [0493-reverse-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/tiwariankit1234/coding-2/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0503-next-greater-element-ii) |
@@ -1727,6 +1728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/tiwariankit1234/coding-2/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/tiwariankit1234/coding-2/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/tiwariankit1234/coding-2/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0633-sum-of-square-numbers) |
@@ -1857,6 +1859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/tiwariankit1234/coding-2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0731-my-calendar-ii) |
@@ -1869,6 +1872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/tiwariankit1234/coding-2/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/tiwariankit1234/coding-2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0731-my-calendar-ii) |
 | [0931-maximum-frequency-stack](https://github.com/tiwariankit1234/coding-2/tree/master/0931-maximum-frequency-stack) |
@@ -2091,6 +2095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/tiwariankit1234/coding-2/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -2333,6 +2338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/tiwariankit1234/coding-2/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -2408,6 +2414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/tiwariankit1234/coding-2/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Data Stream
