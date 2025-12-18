@@ -1033,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/tiwariankit1234/coding-2/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tiwariankit1234/coding-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/tiwariankit1234/coding-2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
@@ -1518,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tiwariankit1234/coding-2/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/tiwariankit1234/coding-2/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/tiwariankit1234/coding-2/tree/master/0091-decode-ways) |
@@ -2327,6 +2329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2187-vowels-of-all-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2187-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2324-find-triangular-sum-of-an-array) |
