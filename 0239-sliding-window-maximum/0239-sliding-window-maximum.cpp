@@ -1,41 +1,23 @@
-#include <iostream>
-#include <vector>
-#include <map>
-using namespace std;
-class Solution{
-    public:
-
-
-vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-    vector<int> result;
-    map<int, int> window; // Maps value -> frequency (ordered by key)
-    
-    // Process the first k elements
-    for (int i = 0; i < k; i++) {
-        window[nums[i]]++;
-    }
-    
-    // Add the maximum of the first window to result
-    result.push_back(window.rbegin()->first); // Get the largest key
-    
-    // Process the remaining elements
-    for (int i = k; i < nums.size(); i++) {
-        // Remove the leftmost element from the window
-        int leftElement = nums[i - k];
-        window[leftElement]--;
-        if (window[leftElement] == 0) {
-            window.erase(leftElement);
+class Solution {
+public:
+    vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+        int n=nums.size();
+        vector<int>ans;
+        deque<int>dq;
+        for(int i=0;i<k;i++){
+            while(!dq.empty() and nums[dq.back()]<=nums[i])
+            dq.pop_back();
+            dq.push_back(i);
         }
-        
-        // Add the current element to the window
-        window[nums[i]]++;
-        
-        // Add the maximum of the current window to result
-        result.push_back(window.rbegin()->first);
+        ans.push_back(nums[dq.front()]);
+        for(int i=k;i<n;i++){
+            while(!dq.empty() and nums[dq.back()]<=nums[i])dq.pop_back();
+
+            while(!dq.empty() and dq.front()<(i-(k-1)))dq.pop_front();
+
+            dq.push_back(i);
+            ans.push_back(nums[dq.front()]);
+        }
+        return ans;
     }
-    
-    return result;
-}
-
 };
-
