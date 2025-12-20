@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/tiwariankit1234/coding-2/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tiwariankit1234/coding-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/tiwariankit1234/coding-2/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tiwariankit1234/coding-2/tree/master/0205-isomorphic-strings) |
@@ -815,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/tiwariankit1234/coding-2/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tiwariankit1234/coding-2/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/tiwariankit1234/coding-2/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tiwariankit1234/coding-2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/tiwariankit1234/coding-2/tree/master/0432-all-oone-data-structure) |
@@ -1475,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tiwariankit1234/coding-2/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tiwariankit1234/coding-2/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/tiwariankit1234/coding-2/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/tiwariankit1234/coding-2/tree/master/0455-assign-cookies) |
