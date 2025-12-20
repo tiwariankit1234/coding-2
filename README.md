@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/tiwariankit1234/coding-2/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/tiwariankit1234/coding-2/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tiwariankit1234/coding-2/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/tiwariankit1234/coding-2/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/tiwariankit1234/coding-2/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/tiwariankit1234/coding-2/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/tiwariankit1234/coding-2/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/tiwariankit1234/coding-2/tree/master/0983-validate-stack-sequences) |
