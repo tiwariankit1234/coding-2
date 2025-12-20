@@ -26,9 +26,9 @@ int f(ListNode* head){
         }
         if((length-n-1)<0)return head->next;
         cout<<(length-n-1)<<endl;
-        ListNode* remove=temp->next;
-        ListNode* next=remove->next;
-        temp->next=next;
+        // ListNode* remove=temp->next;
+        // ListNode* next=remove->next;
+        temp->next=temp->next->next;
         return head;
     }
 };
