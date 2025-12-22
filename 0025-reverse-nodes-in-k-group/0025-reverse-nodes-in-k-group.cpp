@@ -26,28 +26,29 @@ public:
             return NULL;
         if (!head->next)
             return head;
-        ListNode *prevlast=NULL;
          ListNode* temp=head;
-        while(temp){
-        ListNode *kthnode=f(temp,k);
-        if(kthnode==NULL){
-            if(prevlast){
-                prevlast->next=temp;
+         ListNode* prev=NULL;
+         while(temp){
+            ListNode* kthnode=f(temp,k);
+            if(kthnode==NULL){
+                if(prev){
+                    prev->next=temp;
+                }
+                break;
             }
-            break;
-        }
-        ListNode *nextnode=kthnode->next;
-        kthnode->next=NULL;
-        reverse(temp);
-        if(temp==head){
-            head=kthnode;
-        }
-        else{
-            prevlast->next=kthnode;
-        }
-        prevlast=temp;
-        temp=nextnode;
-        }
-        return head;
+            ListNode* next=kthnode->next;
+            kthnode->next=NULL;
+             reverse(temp);
+             if(temp==head){
+                head=kthnode;
+             }
+            
+            if(prev){
+                prev->next=kthnode;
+            }
+            prev=temp;
+            temp=next;
+         }
+         return head;
     }
 };
