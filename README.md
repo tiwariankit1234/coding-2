@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tiwariankit1234/coding-2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tiwariankit1234/coding-2/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tiwariankit1234/coding-2/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tiwariankit1234/coding-2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/tiwariankit1234/coding-2/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tiwariankit1234/coding-2/tree/master/0037-sudoku-solver) |
@@ -1470,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tiwariankit1234/coding-2/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tiwariankit1234/coding-2/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tiwariankit1234/coding-2/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tiwariankit1234/coding-2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tiwariankit1234/coding-2/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/tiwariankit1234/coding-2/tree/master/0061-rotate-list) |
