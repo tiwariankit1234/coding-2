@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tiwariankit1234/coding-2/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/tiwariankit1234/coding-2/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/tiwariankit1234/coding-2/tree/master/0740-delete-and-earn) |
+| [0756-pyramid-transition-matrix](https://github.com/tiwariankit1234/coding-2/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/tiwariankit1234/coding-2/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/tiwariankit1234/coding-2/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/tiwariankit1234/coding-2/tree/master/0797-rabbits-in-forest) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tiwariankit1234/coding-2/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/tiwariankit1234/coding-2/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/tiwariankit1234/coding-2/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/tiwariankit1234/coding-2/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/tiwariankit1234/coding-2/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/tiwariankit1234/coding-2/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0800-letter-case-permutation) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/tiwariankit1234/coding-2/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tiwariankit1234/coding-2/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0756-pyramid-transition-matrix](https://github.com/tiwariankit1234/coding-2/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/tiwariankit1234/coding-2/tree/master/1418-fair-distribution-of-cookies) |
@@ -1025,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/tiwariankit1234/coding-2/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0494-target-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/tiwariankit1234/coding-2/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0800-letter-case-permutation) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tiwariankit1234/coding-2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/tiwariankit1234/coding-2/tree/master/1160-letter-tile-possibilities) |
