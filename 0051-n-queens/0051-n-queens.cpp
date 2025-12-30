@@ -1,38 +1,48 @@
 class Solution {
 public:
-vector<int>leftrow,lowerdiagonal,upperdiagonal;
- vector<vector<string>>ans;
-void f(int col,vector<string>&board){
-    int n=board.size();
-    if(col==n){
-        ans.push_back(board);
-        return ;
+bool isvalid(int idx,int j,vector<string>&board){
+    int m=board.size(),n=board[0].size();
+    // col check
+    for(int i=0;i<n;i++){
+        if(board[i][j]=='Q')return false;
     }
-    for(int row=0;row<n;row++){
-        if(leftrow[row]==0 and lowerdiagonal[row+col]==0 and upperdiagonal[n-1+row-col]==0){
-            board[row][col]='Q';
-            leftrow[row]=1;
-            lowerdiagonal[row+col]=1;
-            upperdiagonal[n-1+row-col]=1;
-            f(col+1,board);
-              board[row][col]='.';
-            leftrow[row]=0;
-            lowerdiagonal[row+col]=0;
-            upperdiagonal[n-1+row-col]=0;
-        }
+    // leftdiagonal check
+    int p=idx-1,q=j-1;
+    while(p>=0 and q>=0){
+        if(board[p][q]=='Q')return false;
+        p--;
+        q--;
     }
+    // right diagonal check
+    p=idx-1,q=j+1;
+    while(p>=0 and q<n){
+        if(board[p][q]=='Q')return false;
+        p--;
+        q++;
+    }
+    return true;
+
+}
+void f(int idx,vector<string>&board,vector<vector<string>>&ans,int n){
+  if(idx==n){
+    ans.push_back(board);
+    return ;
+  }
+   int k=board[idx].size();
+    for(int j=0;j<n;j++){
+      if(isvalid(idx,j,board)){
+      board[idx][j]='Q';
+      f(idx+1,board,ans,n);
+      board[idx][j]='.';
+      }
+    }
+
+    return ;
 }
     vector<vector<string>> solveNQueens(int n) {
-        ans.clear();
-        leftrow.clear();
-        leftrow.resize(n,0);
-        lowerdiagonal.clear();
-        lowerdiagonal.resize(2*n-1,0);
-        upperdiagonal.clear();
-        upperdiagonal.resize(2*n-1,0);
+        vector<vector<string>>ans;
         vector<string>board(n,string(n,'.'));
-        f(0,board);
+        f(0,board,ans,n);
         return ans;
-
     }
 };
