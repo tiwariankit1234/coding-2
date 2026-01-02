@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/tiwariankit1234/coding-2/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/tiwariankit1234/coding-2/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/tiwariankit1234/coding-2/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/tiwariankit1234/coding-2/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1010-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1010-powerful-integers) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/tiwariankit1234/coding-2/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/tiwariankit1234/coding-2/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/tiwariankit1234/coding-2/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/tiwariankit1234/coding-2/tree/master/0985-bag-of-tokens) |
