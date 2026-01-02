@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/tiwariankit1234/coding-2/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/tiwariankit1234/coding-2/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/tiwariankit1234/coding-2/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/tiwariankit1234/coding-2/tree/master/0525-contiguous-array) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/tiwariankit1234/coding-2/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/tiwariankit1234/coding-2/tree/master/0436-find-right-interval) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tiwariankit1234/coding-2/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tiwariankit1234/coding-2/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/tiwariankit1234/coding-2/tree/master/0456-132-pattern) |
