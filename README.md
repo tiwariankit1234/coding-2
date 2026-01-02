@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tiwariankit1234/coding-2/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tiwariankit1234/coding-2/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/tiwariankit1234/coding-2/tree/master/0312-burst-balloons) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/tiwariankit1234/coding-2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tiwariankit1234/coding-2/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/tiwariankit1234/coding-2/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tiwariankit1234/coding-2/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -1505,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tiwariankit1234/coding-2/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/tiwariankit1234/coding-2/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/tiwariankit1234/coding-2/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/tiwariankit1234/coding-2/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/tiwariankit1234/coding-2/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1758,6 +1761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/tiwariankit1234/coding-2/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/tiwariankit1234/coding-2/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/tiwariankit1234/coding-2/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0410-split-array-largest-sum) |
