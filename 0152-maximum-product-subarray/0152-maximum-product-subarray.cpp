@@ -24,9 +24,9 @@ public:
             }
             maxproduct=max(maxproduct,suffix[i]);
         }
-        for(int i=0;i<n;i++){
-            maxproduct=max(maxproduct,nums[i]);
-        }
+        // for(int i=0;i<n;i++){
+        //     maxproduct=max(maxproduct,nums[i]);
+        // }
         return maxproduct;
         
         
