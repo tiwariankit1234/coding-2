@@ -3,18 +3,19 @@ public:
 int dp[502][502];
 int f(int i,int j,vector<int>& nums1,vector<int>& nums2){
     int n1=nums1.size(),n2=nums2.size();
-    if(i==n1 and j==n2)return 0;
-     if(i==0 and j==n2)return 0;
-    if(j==0 and i==n1)return 0;
-    if(j==n2)return 0;
-    if(i==n1)return 0;
-    if(dp[i][j]!=-500008)return dp[i][j];
-    int ans=-500006;
-    int take1=-500006;
+    if(i==n1 and j==n2)return -1e8;
+     if(i==0 and j==n2)return -1e8;
+    if(j==0 and i==n1)return -1e8;
+    if(j==n2)return -1e8;
+    if(i==n1)return -1e8;
+    if(dp[i][j]!=-1e8)return dp[i][j];
+    int ans=-1e8;
+    int take1=-1e8;
     take1=f(i+1,j+1,nums1,nums2)+nums1[i]*nums2[j];
-    int notake1=-500006;
+    take1=max(take1,nums1[i]*nums2[j]);
+    int notake1=-1e8;
     notake1=f(i,j+1,nums1,nums2);
-    int notake2=-500006;
+    int notake2=-1e8;
     notake2=f(i+1,j,nums1,nums2);
     return dp[i][j]=max({take1,notake1,notake2});
 
@@ -22,7 +23,7 @@ int f(int i,int j,vector<int>& nums1,vector<int>& nums2){
     int maxDotProduct(vector<int>& nums1, vector<int>& nums2) {
         for(int i=0;i<502;i++){
             for(int j=0;j<502;j++){
-                dp[i][j]=-500008;
+                dp[i][j]=-1e8;
             }
         }
        
