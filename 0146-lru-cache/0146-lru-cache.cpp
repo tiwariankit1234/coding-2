@@ -1,88 +1,38 @@
-class Node{
-    public:
-    int key;
-    int val;
-    Node *prev;
-    Node *next;
-    Node(int key,int val){
-        this->key=key;
-        this->val=val;
-        prev=NULL;
-        next=NULL;
-    }
-};
-
 class LRUCache {
 public:
-unordered_map<int,Node*>mp;
-int capacity;
-Node *head;
-Node *tail;
-
-void *addnode(Node* newnode){
-         Node *temp=head->next;
-        newnode->next=temp;
-        newnode->prev=head;
-        head->next=newnode;
-       temp->prev=newnode;
-    return newnode;
-
-}
-void deletenode(Node *deletenode){
-    Node *prev=deletenode->prev;
-    Node *next=deletenode->next;
-    prev->next=next;
-    next->prev=prev;
-}
+  int cap=0;
+  list<pair<int,int>>dl;
+  unordered_map<int,list<pair<int,int>>::iterator>mp;
     LRUCache(int capacity) {
-        this->capacity=capacity;
-        head=new Node(-1,-1);
-        tail=new Node(-1,-1);
-        head->next=tail;
-        tail->prev=head;
+        cap=capacity;
     }
     
     int get(int key) {
         if(mp.find(key)==mp.end()){
             return -1;
         }
-        //     auto it=mp[key];
-        //    int x=it->val;
-        //    mp.erase(key);
-        //    deletenode(it);
-        //    Node *temp=addnode(it);
-        //     mp[key]=temp;
-        Node *node=mp[key];
-        int val=node->val;
-        deletenode(node);
-        addnode(node);
-        mp[key]=head->next;
-           return val;
-        
-            }
+        auto it=mp[key];
+        int x=it->second;
+        dl.push_front({key,x});
+        dl.erase(it);
+        mp[key]=dl.begin();
+        return x;
+    }
     
-    void put(int key, int val) {
-            if(mp.find(key)!=mp.end()){
-                 auto it=mp[key]; 
-                 mp.erase(key); 
-                 deletenode(it);
-            }
-
-
-         if((int)mp.size()==capacity){
-            Node *vec=tail->prev;
-            mp.erase(vec->key);
-            deletenode(vec);
-         }
-            // if(mp.find(key)!=mp.end()){
-            //      auto it=mp[key]; 
-            //      mp.erase(key); 
-            //      deletenode(it);
-            // }
-            Node *newNode=new Node(key,val);
-            addnode(newNode);
-            mp[key]=newNode;  
-          return ;
+    void put(int key, int value) {
+        
+       if(mp.find(key)!=mp.end()){
+         auto it=mp[key];
+        dl.erase(it);
+       }
+       else if((int)mp.size()==cap){
+         auto it=prev(dl.end());
+         mp.erase(it->first);
+         dl.erase(it);
+       }
+        dl.push_front({key,value});
+        mp[key]=dl.begin();
+        return ;
     }
 };
 
