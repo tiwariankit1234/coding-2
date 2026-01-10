@@ -18,15 +18,14 @@ int f(int i,int j,string& s1,string& s2){
         return cost;
     }
     if(dp[i][j]!=-1)return dp[i][j];
-    int cost1=INT_MAX,cost2=INT_MAX,cost3=INT_MAX;
+    int cost1=INT_MAX,cost2=INT_MAX;
     if(s1[i]==s2[j]){
         cost1=f(i+1,j+1,s1,s2);
     }
     else{
-        cost2=s1[i]+f(i+1,j,s1,s2);
-        cost3=s2[j]+f(i,j+1,s1,s2);
+        cost2=min(s1[i]+f(i+1,j,s1,s2),s2[j]+f(i,j+1,s1,s2));
     }
-    return dp[i][j]=min({cost1,cost2,cost3});
+    return dp[i][j]=min({cost1,cost2});
 }
     int minimumDeleteSum(string s1, string s2) {
         int n1=s1.size(),n2=s2.size();
