@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/tiwariankit1234/coding-2/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tiwariankit1234/coding-2/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tiwariankit1234/coding-2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/tiwariankit1234/coding-2/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/tiwariankit1234/coding-2/tree/master/1325-path-with-maximum-probability) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/tiwariankit1234/coding-2/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -1100,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/tiwariankit1234/coding-2/tree/master/1086-divisor-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tiwariankit1234/coding-2/tree/master/1266-minimum-time-visiting-all-points) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/tiwariankit1234/coding-2/tree/master/1390-four-divisors) |
@@ -2521,6 +2523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/tiwariankit1234/coding-2/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tiwariankit1234/coding-2/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tiwariankit1234/coding-2/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
