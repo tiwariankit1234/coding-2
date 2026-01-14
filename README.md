@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-total-reward-using-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3453-separate-squares-i](https://github.com/tiwariankit1234/coding-2/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3454-separate-squares-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tiwariankit1234/coding-2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-total-cost-of-alternating-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/3464-maximize-total-cost-of-alternating-subarrays) |
@@ -1849,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3419-maximum-points-inside-the-square](https://github.com/tiwariankit1234/coding-2/tree/master/3419-maximum-points-inside-the-square) |
 | [3427-special-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/tiwariankit1234/coding-2/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3454-separate-squares-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3643-zero-array-transformation-ii) |
 | [3750-closest-equal-element-queries](https://github.com/tiwariankit1234/coding-2/tree/master/3750-closest-equal-element-queries) |
@@ -1937,6 +1939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/tiwariankit1234/coding-2/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/tiwariankit1234/coding-2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3454-separate-squares-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tiwariankit1234/coding-2/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -2541,4 +2544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/0451-sort-characters-by-frequency) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
