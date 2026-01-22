@@ -10,26 +10,22 @@ bool check(vector<int>nums){
         if(check(nums))return 0;
         int count=0;
         while(!check(nums)){
-           
-            unordered_map<int,int>mp;
+           int minsum=INT_MAX,newidx=-1;
             for(int i=0;i<(nums.size()-1);i++){
                 int sum=nums[i]+nums[i+1];
-                if(mp.find(sum)==mp.end()){
-                 mp[sum]=i;
+                if(sum<minsum){
+                    minsum=sum;
+                    newidx=i;
                 }
             }
-            count++;
-            int minsum=INT_MAX;
-            for(auto it:mp){
-              minsum=min(minsum,it.first);
-            }
+           
             vector<int>temp;
-            int idx=mp[minsum];
-            for(int i=0;i<=idx-1;i++){
+            
+            for(int i=0;i<=newidx-1;i++){
                 temp.push_back(nums[i]);
             }
             temp.push_back(minsum);
-            for(int i=idx+2;i<nums.size();i++){
+            for(int i=newidx+2;i<nums.size();i++){
                 temp.push_back(nums[i]);
             }
             //  cout<<count<<endl;
@@ -37,10 +33,9 @@ bool check(vector<int>nums){
             //     cout<<it<<" ";
             // }
             // cout<<endl;
-            if(check(temp))return count;
             nums=temp;
-           
+            count++;
         }
-        return 0;
+        return count;
     }
 };
