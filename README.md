@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/tiwariankit1234/coding-2/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/tiwariankit1234/coding-2/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tiwariankit1234/coding-2/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tiwariankit1234/coding-2/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/2048-build-array-from-permutation) |
@@ -1251,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tiwariankit1234/coding-2/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tiwariankit1234/coding-2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/tiwariankit1234/coding-2/tree/master/1961-maximum-ice-cream-bars) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tiwariankit1234/coding-2/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2118-maximum-earnings-from-taxi](https://github.com/tiwariankit1234/coding-2/tree/master/2118-maximum-earnings-from-taxi) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/tiwariankit1234/coding-2/tree/master/2164-two-best-non-overlapping-events) |
@@ -1909,6 +1911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tiwariankit1234/coding-2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/tiwariankit1234/coding-2/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/tiwariankit1234/coding-2/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tiwariankit1234/coding-2/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/tiwariankit1234/coding-2/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tiwariankit1234/coding-2/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tiwariankit1234/coding-2/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
