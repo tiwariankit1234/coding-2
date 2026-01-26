@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tiwariankit1234/coding-2/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tiwariankit1234/coding-2/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/tiwariankit1234/coding-2/tree/master/1184-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/tiwariankit1234/coding-2/tree/master/1200-minimum-absolute-difference) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/tiwariankit1234/coding-2/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/1256-rank-transform-of-an-array) |
@@ -1238,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/tiwariankit1234/coding-2/tree/master/1129-longest-string-chain) |
 | [1184-car-pooling](https://github.com/tiwariankit1234/coding-2/tree/master/1184-car-pooling) |
+| [1200-minimum-absolute-difference](https://github.com/tiwariankit1234/coding-2/tree/master/1200-minimum-absolute-difference) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/tiwariankit1234/coding-2/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tiwariankit1234/coding-2/tree/master/1262-greatest-sum-divisible-by-three) |
