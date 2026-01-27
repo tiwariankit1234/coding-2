@@ -23,5 +23,6 @@ public:
             }
         }
         return -1;
+        //Each node only visited once in the dijasktra 
     }
 };
