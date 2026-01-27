@@ -13,6 +13,7 @@ public:
         dist[0] = 0;
         while (pq.size()) {
             auto [disty, node] = pq.top();
+            if(node==n-1)return disty;
             pq.pop();
             for (auto [x, y] : adj[node]) {
                 if (dist[node] + y < dist[x]) {
@@ -21,7 +22,6 @@ public:
                 }
             }
         }
-        if(dist[n-1]==INT_MAX)return -1;
-        return dist[n - 1];
+        return -1;
     }
 };
