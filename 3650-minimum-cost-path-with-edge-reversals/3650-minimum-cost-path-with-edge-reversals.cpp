@@ -1,28 +1,45 @@
-#define pii pair<int, int>
 class Solution {
 public:
     int minCost(int n, vector<vector<int>>& edges) {
-        vector<vector<pii>> adj(n);
-        for (auto it : edges) {
-            adj[it[0]].push_back({it[1], it[2]});
-            adj[it[1]].push_back({it[0], 2*it[2]});
+        vector<vector<pair<int,int>>> out(n), in(n);
+        for (auto &e : edges) {
+            out[e[0]].push_back({e[1], e[2]});
+            in[e[1]].push_back({e[0], e[2]});
         }
-        vector<int> dist(n, INT_MAX);
-        priority_queue<pii, vector<pii>, greater<pii>> pq;
-        pq.push({0, 0});
-        dist[0] = 0;
-        while (pq.size()) {
-            auto [disty, node] = pq.top();
-            if(node==n-1)return disty;
+
+        const long long INF = 1e18;
+        vector<vector<long long>> dist(n, vector<long long>(2, INF));
+
+        priority_queue<array<long long,3>, vector<array<long long,3>>, greater<>> pq;
+        dist[0][0] = 0;
+        pq.push({0, 0, 0}); // cost, node, used
+
+        while (!pq.empty()) {
+            auto [cost, u, used] = pq.top();
             pq.pop();
-            for (auto [x, y] : adj[node]) {
-                if (dist[node] + y < dist[x]) {
-                    dist[x] = dist[node] + y;
-                    pq.push({dist[x],x});
+
+            if (cost > dist[u][used]) continue;
+
+            // Normal edges
+            for (auto [v, w] : out[u]) {
+                if (dist[v][0] > cost + w) {
+                    dist[v][0] = cost + w;
+                    pq.push({dist[v][0], v, 0});
+                }
+            }
+
+            // Reversed edges (only if switch unused)
+            if (used == 0) {
+                for (auto [v, w] : in[u]) {
+                    if (dist[v][0] > cost + 2LL * w) {
+                        dist[v][0] = cost + 2LL * w;
+                        pq.push({dist[v][0], v, 0});
+                    }
                 }
             }
         }
-        return -1;
-        //Each node only visited once in the dijasktra 
+
+        long long ans = min(dist[n-1][0], dist[n-1][1]);
+        return ans == INF ? -1 : ans;
     }
 };
