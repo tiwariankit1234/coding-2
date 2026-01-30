@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-shortest-string-that-contains-three-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2887-sort-vowels-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2887-sort-vowels-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/tiwariankit1234/coding-2/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/tiwariankit1234/coding-2/tree/master/3046-minimum-operations-to-make-a-special-number) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwariankit1234/coding-2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/tiwariankit1234/coding-2/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tiwariankit1234/coding-2/tree/master/3001-apply-operations-to-maximize-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tiwariankit1234/coding-2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -1549,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/tiwariankit1234/coding-2/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/tiwariankit1234/coding-2/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tiwariankit1234/coding-2/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
@@ -1726,6 +1729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/tiwariankit1234/coding-2/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -2453,6 +2457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/tiwariankit1234/coding-2/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tiwariankit1234/coding-2/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/tiwariankit1234/coding-2/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3386-find-edges-in-shortest-paths](https://github.com/tiwariankit1234/coding-2/tree/master/3386-find-edges-in-shortest-paths) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -2604,5 +2609,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tiwariankit1234/coding-2/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
