@@ -12,6 +12,19 @@ public:
         // }
         sort(nums.begin()+1,nums.end());
         ans=min(ans,nums[0]+nums[1]+nums[2]);
-        return ans;
+        int minelement1=INT_MAX,minidx=-1;
+        for(int i=1;i<n;i++){
+            if(nums[i]<minelement1){
+                minelement1=nums[i];
+                minidx=i;
+            }
+        }
+        int minelement2=INT_MAX;
+        for(int i=1;i<n;i++){
+            if(nums[i]<minelement2 and i!=minidx){
+                minelement2=nums[i];
+            }
+        }
+        return nums[0]+minelement1+minelement2;
     }
 };
