@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/tiwariankit1234/coding-2/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2915-count-of-interesting-subarrays) |
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/tiwariankit1234/coding-2/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/tiwariankit1234/coding-2/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tiwariankit1234/coding-2/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tiwariankit1234/coding-2/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tiwariankit1234/coding-2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tiwariankit1234/coding-2/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1943,6 +1945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/tiwariankit1234/coding-2/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/tiwariankit1234/coding-2/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tiwariankit1234/coding-2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -2061,6 +2064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tiwariankit1234/coding-2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2725-mice-and-cheese](https://github.com/tiwariankit1234/coding-2/tree/master/2725-mice-and-cheese) |
 | [2868-continuous-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2868-continuous-subarrays) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3107-maximum-spending-after-buying-items](https://github.com/tiwariankit1234/coding-2/tree/master/3107-maximum-spending-after-buying-items) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/tiwariankit1234/coding-2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
