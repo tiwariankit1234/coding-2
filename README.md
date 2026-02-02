@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/tiwariankit1234/coding-2/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tiwariankit1234/coding-2/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/tiwariankit1234/coding-2/tree/master/0740-delete-and-earn) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tiwariankit1234/coding-2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/tiwariankit1234/coding-2/tree/master/0747-min-cost-climbing-stairs) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1849,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/tiwariankit1234/coding-2/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0731-my-calendar-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tiwariankit1234/coding-2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tiwariankit1234/coding-2/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/tiwariankit1234/coding-2/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tiwariankit1234/coding-2/tree/master/1056-capacity-to-ship-packages-within-d-days) |
