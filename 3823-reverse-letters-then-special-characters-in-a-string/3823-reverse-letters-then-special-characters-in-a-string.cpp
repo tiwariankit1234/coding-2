@@ -21,10 +21,10 @@ public:
         i = 0, j = n - 1;
 
         while (i < j) {
-            while (j>=0 and (s[j] >= 'a' and s[j] <= 'z')) {
+            while (j>=0 and !ispunct(s[j])) {
                 j--;
             }
-            while (i<n and (s[i] >= 'a' and s[i] <= 'z') ) {
+            while (i<n and !ispunct(s[i]) ) {
                 i++;
             }
             cout<<i<<" "<<j<<endl;
