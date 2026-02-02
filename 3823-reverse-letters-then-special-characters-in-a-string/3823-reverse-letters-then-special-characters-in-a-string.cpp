@@ -5,10 +5,10 @@ public:
         int i = 0, j = n - 1;
         cout<<s[i]<<" "<<s[j]<<endl;
         while (i < j) {
-            while (j>=0 and !(s[j] >= 'a' and s[j] <= 'z')) {
+            while (j>=0 and !(isalpha(s[j]))) {
                 j--;
             }
-            while (i<n and !(s[i] >= 'a' and s[i] <= 'z') and i<n) {
+            while (i<n and !(isalpha(s[i]))) {
                 i++;
             }
             if(i>=0 and j<n and i<j )
