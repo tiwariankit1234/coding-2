@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3721-longest-balanced-subarray-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3721-longest-balanced-subarray-ii) |
 | [3750-closest-equal-element-queries](https://github.com/tiwariankit1234/coding-2/tree/master/3750-closest-equal-element-queries) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/tiwariankit1234/coding-2/tree/master/3760-assign-elements-to-groups-with-constraints) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/tiwariankit1234/coding-2/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3721-longest-balanced-subarray-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3721-longest-balanced-subarray-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tiwariankit1234/coding-2/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tiwariankit1234/coding-2/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/tiwariankit1234/coding-2/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1063,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/tiwariankit1234/coding-2/tree/master/3647-zero-array-transformation-iii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3721-longest-balanced-subarray-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
 ## Brainteaser
@@ -1999,6 +2002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/tiwariankit1234/coding-2/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/tiwariankit1234/coding-2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3454-separate-squares-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3721-longest-balanced-subarray-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tiwariankit1234/coding-2/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -2245,6 +2249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2280-count-good-triplets-in-an-array) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/tiwariankit1234/coding-2/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3721-longest-balanced-subarray-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3721-longest-balanced-subarray-ii) |
 ## Enumeration
 |  |
 | ------- |
