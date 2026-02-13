@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/tiwariankit1234/coding-2/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tiwariankit1234/coding-2/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/tiwariankit1234/coding-2/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3265-maximum-good-subarray-sum](https://github.com/tiwariankit1234/coding-2/tree/master/3265-maximum-good-subarray-sum) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tiwariankit1234/coding-2/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/tiwariankit1234/coding-2/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/tiwariankit1234/coding-2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tiwariankit1234/coding-2/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/tiwariankit1234/coding-2/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/tiwariankit1234/coding-2/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tiwariankit1234/coding-2/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tiwariankit1234/coding-2/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tiwariankit1234/coding-2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/tiwariankit1234/coding-2/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1306,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/tiwariankit1234/coding-2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/tiwariankit1234/coding-2/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3107-maximum-spending-after-buying-items](https://github.com/tiwariankit1234/coding-2/tree/master/3107-maximum-spending-after-buying-items) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tiwariankit1234/coding-2/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/tiwariankit1234/coding-2/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tiwariankit1234/coding-2/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -1627,6 +1631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwariankit1234/coding-2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/tiwariankit1234/coding-2/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tiwariankit1234/coding-2/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3195-separate-black-and-white-balls](https://github.com/tiwariankit1234/coding-2/tree/master/3195-separate-black-and-white-balls) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1751,6 +1756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tiwariankit1234/coding-2/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/tiwariankit1234/coding-2/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tiwariankit1234/coding-2/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/tiwariankit1234/coding-2/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1908,6 +1914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/tiwariankit1234/coding-2/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/tiwariankit1234/coding-2/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/tiwariankit1234/coding-2/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/tiwariankit1234/coding-2/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3419-maximum-points-inside-the-square](https://github.com/tiwariankit1234/coding-2/tree/master/3419-maximum-points-inside-the-square) |
 | [3427-special-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3427-special-array-ii) |
