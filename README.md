@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tiwariankit1234/coding-2/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tiwariankit1234/coding-2/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/tiwariankit1234/coding-2/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/tiwariankit1234/coding-2/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/tiwariankit1234/coding-2/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tiwariankit1234/coding-2/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/tiwariankit1234/coding-2/tree/master/0091-decode-ways) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/tiwariankit1234/coding-2/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/tiwariankit1234/coding-2/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/tiwariankit1234/coding-2/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/tiwariankit1234/coding-2/tree/master/0983-validate-stack-sequences) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tiwariankit1234/coding-2/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/tiwariankit1234/coding-2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/tiwariankit1234/coding-2/tree/master/0190-reverse-bits) |
@@ -1127,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tiwariankit1234/coding-2/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/tiwariankit1234/coding-2/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tiwariankit1234/coding-2/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tiwariankit1234/coding-2/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/tiwariankit1234/coding-2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tiwariankit1234/coding-2/tree/master/0268-missing-number) |
