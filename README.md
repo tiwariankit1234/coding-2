@@ -915,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tiwariankit1234/coding-2/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/tiwariankit1234/coding-2/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tiwariankit1234/coding-2/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/tiwariankit1234/coding-2/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/tiwariankit1234/coding-2/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/tiwariankit1234/coding-2/tree/master/0756-pyramid-transition-matrix) |
@@ -1107,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/tiwariankit1234/coding-2/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/tiwariankit1234/coding-2/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/tiwariankit1234/coding-2/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/tiwariankit1234/coding-2/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0800-letter-case-permutation) |
