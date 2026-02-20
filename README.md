@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tiwariankit1234/coding-2/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/tiwariankit1234/coding-2/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/tiwariankit1234/coding-2/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/tiwariankit1234/coding-2/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/tiwariankit1234/coding-2/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0800-letter-case-permutation) |
@@ -1261,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/tiwariankit1234/coding-2/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/tiwariankit1234/coding-2/tree/master/0721-accounts-merge) |
+| [0761-special-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/tiwariankit1234/coding-2/tree/master/0778-reorganize-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/0780-max-chunks-to-make-sorted) |
@@ -2272,6 +2274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tiwariankit1234/coding-2/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/0493-reverse-pairs) |
+| [0761-special-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tiwariankit1234/coding-2/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2280-count-good-triplets-in-an-array) |
