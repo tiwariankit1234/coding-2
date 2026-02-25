@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tiwariankit1234/coding-2/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiwariankit1234/coding-2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tiwariankit1234/coding-2/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tiwariankit1234/coding-2/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/tiwariankit1234/coding-2/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0800-letter-case-permutation) |
 | [0868-binary-gap](https://github.com/tiwariankit1234/coding-2/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tiwariankit1234/coding-2/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1418-fair-distribution-of-cookies](https://github.com/tiwariankit1234/coding-2/tree/master/1418-fair-distribution-of-cookies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tiwariankit1234/coding-2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1000,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/tiwariankit1234/coding-2/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/tiwariankit1234/coding-2/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/tiwariankit1234/coding-2/tree/master/1160-letter-tile-possibilities) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tiwariankit1234/coding-2/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/tiwariankit1234/coding-2/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -1284,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tiwariankit1234/coding-2/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tiwariankit1234/coding-2/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tiwariankit1234/coding-2/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-reduce-array-size-to-the-half](https://github.com/tiwariankit1234/coding-2/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tiwariankit1234/coding-2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tiwariankit1234/coding-2/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
