@@ -19,7 +19,7 @@ int f(int i){
         ans=1;
         for(int i=2;i<=n;i++){
             int k=f(i);
-            ans = ((ans * ((1LL << k) % mod)) % mod + i) % mod;
+            ans = ((ans * ((1 << k) % mod)) % mod + i) % mod;
         }
         return ans;
     }
