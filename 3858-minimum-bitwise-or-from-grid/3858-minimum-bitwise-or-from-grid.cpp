@@ -1,34 +1,28 @@
 class Solution {
-    int best = INT_MAX;
-
-    int solve(int i, int curr, vector<vector<int>>& grid, unordered_map<long long, int>& memo) {
-        // Pruning: OR is monotonic, cannot decrease further
-        if (curr >= best) return INT_MAX;
-
-        // Base case: all rows processed
-        if (i == grid.size()) {
-            best = min(best, curr);
-            return curr;
-        }
-
-        // Memoization : Encode state using long long
-        long long key = ((long long)i << 32) | curr;
-        if (memo.count(key)) return memo[key];
-
-
-        // Main Logic : Try all values in current row
-        int ans = INT_MAX;
-        for (int val : grid[i]) {
-            int next = curr | val;
-            ans = min(ans, solve(i + 1, next, grid, memo));
-        }
-
-        return memo[key] = ans;
-    }
-
 public:
-    int minimumOR(vector<vector<int>>& grid) {
-        unordered_map<long long, int> memo;
-        return solve(0, 0, grid, memo);
+int gans=INT_MAX;
+unordered_map<long long, int> dp;
+    int  f(int i,int req, vector<vector<int>>& grid) {
+        int m = grid.size(), n = grid[0].size();
+        if(req>=gans)return INT_MAX;
+        if (i == m) {
+            gans=min(gans,req);
+            return req;
+        }
+        int ans = INT_MAX;
+         long long key = ((long long)i << 32) | req;
+         if(dp.find(key)!=dp.end())return dp[key];
+        for (int j = 0; j < n; j++) {
+         ans=min(ans,f(i + 1, req|grid[i][j], grid));
+        }
+        return dp[key]=ans;
     }
+    int minimumOR(vector<vector<int>>& grid) {
+        int m = grid.size(), n = grid[0].size();
+        dp.clear();
+        //  cout<<m<<" "<<n<<endl;
+        f(0,0,grid);
+        return gans;
+    }
+    
 };
