@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tiwariankit1234/coding-2/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/tiwariankit1234/coding-2/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tiwariankit1234/coding-2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/tiwariankit1234/coding-2/tree/master/1720-crawler-log-folder) |
@@ -1410,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/tiwariankit1234/coding-2/tree/master/1502-construct-k-palindrome-strings) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tiwariankit1234/coding-2/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tiwariankit1234/coding-2/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tiwariankit1234/coding-2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tiwariankit1234/coding-2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
