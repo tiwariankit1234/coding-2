@@ -1093,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2730-maximum-or](https://github.com/tiwariankit1234/coding-2/tree/master/2730-maximum-or) |
 | [2915-count-of-interesting-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/tiwariankit1234/coding-2/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/tiwariankit1234/coding-2/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3265-maximum-good-subarray-sum](https://github.com/tiwariankit1234/coding-2/tree/master/3265-maximum-good-subarray-sum) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/tiwariankit1234/coding-2/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -1800,6 +1801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/tiwariankit1234/coding-2/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/3033-apply-operations-to-make-two-strings-equal) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/tiwariankit1234/coding-2/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tiwariankit1234/coding-2/tree/master/3186-maximum-total-damage-with-spell-casting) |
