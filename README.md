@@ -790,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3862-find-the-smallest-balanced-index](https://github.com/tiwariankit1234/coding-2/tree/master/3862-find-the-smallest-balanced-index) |
 | [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/tiwariankit1234/coding-2/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
@@ -1108,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3862-find-the-smallest-balanced-index](https://github.com/tiwariankit1234/coding-2/tree/master/3862-find-the-smallest-balanced-index) |
 | [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
 ## Brainteaser
 |  |
