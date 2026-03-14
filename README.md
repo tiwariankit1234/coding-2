@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tiwariankit1234/coding-2/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tiwariankit1234/coding-2/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tiwariankit1234/coding-2/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tiwariankit1234/coding-2/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tiwariankit1234/coding-2/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tiwariankit1234/coding-2/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1143,6 +1144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0800-letter-case-permutation) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tiwariankit1234/coding-2/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/tiwariankit1234/coding-2/tree/master/1160-letter-tile-possibilities) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tiwariankit1234/coding-2/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1418-fair-distribution-of-cookies](https://github.com/tiwariankit1234/coding-2/tree/master/1418-fair-distribution-of-cookies) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tiwariankit1234/coding-2/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
