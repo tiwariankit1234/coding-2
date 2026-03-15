@@ -791,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3862-find-the-smallest-balanced-index](https://github.com/tiwariankit1234/coding-2/tree/master/3862-find-the-smallest-balanced-index) |
 | [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tiwariankit1234/coding-2/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3748-sort-matrix-by-diagonals](https://github.com/tiwariankit1234/coding-2/tree/master/3748-sort-matrix-by-diagonals) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
 ## Union Find
 |  |
@@ -1490,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tiwariankit1234/coding-2/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3779-eat-pizzas](https://github.com/tiwariankit1234/coding-2/tree/master/3779-eat-pizzas) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3858-minimum-bitwise-or-from-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/tiwariankit1234/coding-2/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
