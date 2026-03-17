@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tiwariankit1234/coding-2/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/tiwariankit1234/coding-2/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/tiwariankit1234/coding-2/tree/master/1720-crawler-log-folder) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/tiwariankit1234/coding-2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/tiwariankit1234/coding-2/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-arithmetic-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1752-arithmetic-subarrays) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/tiwariankit1234/coding-2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/tiwariankit1234/coding-2/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/tiwariankit1234/coding-2/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/tiwariankit1234/coding-2/tree/master/1895-largest-magic-square) |
@@ -1322,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tiwariankit1234/coding-2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tiwariankit1234/coding-2/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/tiwariankit1234/coding-2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tiwariankit1234/coding-2/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1752-arithmetic-subarrays) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tiwariankit1234/coding-2/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1436,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tiwariankit1234/coding-2/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/tiwariankit1234/coding-2/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/tiwariankit1234/coding-2/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/tiwariankit1234/coding-2/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/1818-maximum-score-from-removing-substrings) |
