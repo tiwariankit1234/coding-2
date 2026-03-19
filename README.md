@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tiwariankit1234/coding-2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tiwariankit1234/coding-2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tiwariankit1234/coding-2/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/tiwariankit1234/coding-2/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3107-maximum-spending-after-buying-items](https://github.com/tiwariankit1234/coding-2/tree/master/3107-maximum-spending-after-buying-items) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/tiwariankit1234/coding-2/tree/master/2625-increment-submatrices-by-one) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tiwariankit1234/coding-2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3107-maximum-spending-after-buying-items](https://github.com/tiwariankit1234/coding-2/tree/master/3107-maximum-spending-after-buying-items) |
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2730-maximum-or](https://github.com/tiwariankit1234/coding-2/tree/master/2730-maximum-or) |
 | [2915-count-of-interesting-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2915-count-of-interesting-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tiwariankit1234/coding-2/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/tiwariankit1234/coding-2/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/tiwariankit1234/coding-2/tree/master/3141-minimum-size-subarray-in-infinite-array) |
