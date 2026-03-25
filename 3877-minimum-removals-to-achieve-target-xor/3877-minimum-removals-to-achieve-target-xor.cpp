@@ -23,7 +23,7 @@ unordered_map<string,int>mp;
  }
     int minRemovals(vector<int>& nums, int target) {
         int n=nums.size();
-        sort(nums.begin(),nums.end());
+        // sort(nums.begin(),nums.end());
         mp.clear();
         long long x=f(0,0,nums,target);
         if(x<0)return -1;
