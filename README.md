@@ -799,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3862-find-the-smallest-balanced-index](https://github.com/tiwariankit1234/coding-2/tree/master/3862-find-the-smallest-balanced-index) |
 | [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/tiwariankit1234/coding-2/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3858-minimum-bitwise-or-from-grid) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
 ## Union Find
 |  |
@@ -1849,6 +1851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/tiwariankit1234/coding-2/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3795-zero-array-transformation-iv](https://github.com/tiwariankit1234/coding-2/tree/master/3795-zero-array-transformation-iv) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3913-partition-array-to-minimize-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3913-partition-array-to-minimize-xor) |
 ## Stack
 |  |
