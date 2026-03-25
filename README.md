@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tiwariankit1234/coding-2/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/tiwariankit1234/coding-2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3576-find-subtree-sizes-after-changes) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3404-minimum-number-of-operations-to-satisfy-conditions](https://github.com/tiwariankit1234/coding-2/tree/master/3404-minimum-number-of-operations-to-satisfy-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tiwariankit1234/coding-2/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/tiwariankit1234/coding-2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tiwariankit1234/coding-2/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/tiwariankit1234/coding-2/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3427-special-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tiwariankit1234/coding-2/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/tiwariankit1234/coding-2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-zero-array-transformation-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/tiwariankit1234/coding-2/tree/master/3647-zero-array-transformation-iii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tiwariankit1234/coding-2/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -2367,6 +2370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/tiwariankit1234/coding-2/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3314-most-frequent-prime](https://github.com/tiwariankit1234/coding-2/tree/master/3314-most-frequent-prime) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/tiwariankit1234/coding-2/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/tiwariankit1234/coding-2/tree/master/3548-find-the-count-of-good-integers) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
