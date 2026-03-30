@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/tiwariankit1234/coding-2/tree/master/2721-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/tiwariankit1234/coding-2/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tiwariankit1234/coding-2/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/2915-count-of-interesting-subarrays) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/tiwariankit1234/coding-2/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/tiwariankit1234/coding-2/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -1369,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2725-mice-and-cheese](https://github.com/tiwariankit1234/coding-2/tree/master/2725-mice-and-cheese) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/tiwariankit1234/coding-2/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tiwariankit1234/coding-2/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tiwariankit1234/coding-2/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
