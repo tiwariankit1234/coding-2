@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/tiwariankit1234/coding-2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/tiwariankit1234/coding-2/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## String
 |  |
 | ------- |
@@ -1074,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/tiwariankit1234/coding-2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/tiwariankit1234/coding-2/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1403,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/tiwariankit1234/coding-2/tree/master/3748-sort-matrix-by-diagonals) |
 | [3779-eat-pizzas](https://github.com/tiwariankit1234/coding-2/tree/master/3779-eat-pizzas) |
 | [3819-count-covered-buildings](https://github.com/tiwariankit1234/coding-2/tree/master/3819-count-covered-buildings) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/tiwariankit1234/coding-2/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
@@ -2388,6 +2391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3868-find-maximum-area-of-a-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/3868-find-maximum-area-of-a-triangle) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/tiwariankit1234/coding-2/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Recursion
 |  |
 | ------- |
