@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/tiwariankit1234/coding-2/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1830-count-good-meals](https://github.com/tiwariankit1234/coding-2/tree/master/1830-count-good-meals) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/tiwariankit1234/coding-2/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/tiwariankit1234/coding-2/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tiwariankit1234/coding-2/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/tiwariankit1234/coding-2/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tiwariankit1234/coding-2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
