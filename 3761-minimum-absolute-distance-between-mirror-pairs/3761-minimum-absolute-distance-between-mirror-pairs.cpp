@@ -1,34 +1,28 @@
 class Solution {
 public:
+int f(int n) {
+        int previousnum=0,currentnumber=0;
+        int k=n;
+        while(k>0){
+            int currentdigit=k%10;
+            currentnumber=previousnum*10+currentdigit;
+            k=k/10;
+            previousnum=currentnumber;
+        }
+        return currentnumber;
+}
     int minMirrorPairDistance(vector<int>& nums) {
         int n=nums.size();
-         map<int,deque<int>>mp;
-         for(int i=0;i<n;i++){
-            mp[nums[i]].push_back(i);
-         }
         int ans=INT_MAX;
-        for(int i=0;i<n;i++){
-            int num=nums[i];
-            string s=to_string(num);
-            reverse(s.begin(),s.end());
-            int req=stoi(s);
-            if(mp.find(req)!=mp.end()){
-                auto& it=mp[req];
-                int idx1=upper_bound(it.begin(),it.end(),i)-it.begin();
-                if(idx1!=it.size()){
-                    ans=min(ans,it[idx1]-i);
-                }
-                auto temp=lower_bound(it.begin(),it.end(),i);
-                temp--;
-                int idx2=temp-it.begin();
-                if(idx2>=0){
-                    ans=min(ans,i-it[idx2]);
-                }
-            }
-            mp[nums[i]].pop_front();
-           
+        unordered_map<int,int>mp;
+        mp[nums[n-1]]=n-1;
+        for(int i=n-2;i>=0;i--){
+        int reversenum=f(nums[i]);
+        if(mp.find(reversenum)!=mp.end()){
+            ans=min(ans,abs(i-mp[reversenum]));
         }
-        if(ans==INT_MAX)return -1;
-        return ans;
+        mp[nums[i]]=i;
+        }
+        return ans==INT_MAX?-1:ans;
     }
 };
