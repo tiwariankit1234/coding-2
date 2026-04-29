@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tiwariankit1234/coding-2/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/tiwariankit1234/coding-2/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tiwariankit1234/coding-2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/tiwariankit1234/coding-2/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -840,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/tiwariankit1234/coding-2/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/tiwariankit1234/coding-2/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tiwariankit1234/coding-2/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tiwariankit1234/coding-2/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/tiwariankit1234/coding-2/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -1622,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tiwariankit1234/coding-2/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/tiwariankit1234/coding-2/tree/master/1558-course-schedule-iv) |
@@ -2272,6 +2275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/tiwariankit1234/coding-2/tree/master/1275-validate-binary-tree-nodes) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/tiwariankit1234/coding-2/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/tiwariankit1234/coding-2/tree/master/1396-count-servers-that-communicate) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/tiwariankit1234/coding-2/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -2762,4 +2766,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tiwariankit1234/coding-2/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
