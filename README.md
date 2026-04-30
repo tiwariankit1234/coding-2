@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/tiwariankit1234/coding-2/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3721-longest-balanced-subarray-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3721-longest-balanced-subarray-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tiwariankit1234/coding-2/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tiwariankit1234/coding-2/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/tiwariankit1234/coding-2/tree/master/3748-sort-matrix-by-diagonals) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/tiwariankit1234/coding-2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tiwariankit1234/coding-2/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/tiwariankit1234/coding-2/tree/master/3748-sort-matrix-by-diagonals) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3858-minimum-bitwise-or-from-grid) |
 ## Simulation
@@ -1881,6 +1883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/tiwariankit1234/coding-2/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tiwariankit1234/coding-2/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/tiwariankit1234/coding-2/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/tiwariankit1234/coding-2/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3795-zero-array-transformation-iv](https://github.com/tiwariankit1234/coding-2/tree/master/3795-zero-array-transformation-iv) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/tiwariankit1234/coding-2/tree/master/3877-minimum-removals-to-achieve-target-xor) |
