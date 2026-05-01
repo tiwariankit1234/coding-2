@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/tiwariankit1234/coding-2/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/tiwariankit1234/coding-2/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/tiwariankit1234/coding-2/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/tiwariankit1234/coding-2/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tiwariankit1234/coding-2/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1212,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/tiwariankit1234/coding-2/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/tiwariankit1234/coding-2/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0396-rotate-function](https://github.com/tiwariankit1234/coding-2/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/tiwariankit1234/coding-2/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/0633-sum-of-square-numbers) |
@@ -1777,6 +1779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/tiwariankit1234/coding-2/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/tiwariankit1234/coding-2/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/tiwariankit1234/coding-2/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/tiwariankit1234/coding-2/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/tiwariankit1234/coding-2/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/tiwariankit1234/coding-2/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/tiwariankit1234/coding-2/tree/master/0435-non-overlapping-intervals) |
