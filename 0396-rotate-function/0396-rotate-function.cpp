@@ -1,3 +1,6 @@
+// since hame rotation n-1 karni hain
+// maxsum ko INT_MIN se initialise karna hain
+// aur har ek element ke last element ko subtract karna hain
 class Solution {
 public:
     int maxRotateFunction(vector<int>& nums) {
