@@ -1,4 +1,8 @@
-  int dp[201][201][1001];
+  //ALWAYS INTIALISED dP TABLE GLOBALLY 
+  //bECAUSE HERE MEMORY WILL BE MORE
+  int dp[201][201][1001];//for mle
+  //256 mB maximum limit hoti hain 
+
 
 class Solution {
 public:
@@ -32,7 +36,7 @@ public:
         m = mat.size(), n = mat[0].size();
         grid = mat;
         
-
+           //CONSTRAINTS TAK HI FILL KIYA KARO
         for (int i = 0; i < m; i++)
             for (int j = 0; j < n; j++)
                 for (int l = 0; l<= k; l++)
