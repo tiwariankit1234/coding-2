@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/tiwariankit1234/coding-2/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/tiwariankit1234/coding-2/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/tiwariankit1234/coding-2/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/tiwariankit1234/coding-2/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/tiwariankit1234/coding-2/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/tiwariankit1234/coding-2/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1555,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/tiwariankit1234/coding-2/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/tiwariankit1234/coding-2/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/tiwariankit1234/coding-2/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/tiwariankit1234/coding-2/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tiwariankit1234/coding-2/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
