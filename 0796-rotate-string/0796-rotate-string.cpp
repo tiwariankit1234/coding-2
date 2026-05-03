@@ -1,3 +1,5 @@
+// find operation me string int return karta hain
+// edge case-aa a 
 class Solution {
 public:
     bool rotateString(string s, string goal) {
