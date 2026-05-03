@@ -1,53 +1,71 @@
 class Solution {
 public:
-    void f(int i, int n, vector<int>& ans, vector<vector<int>>& temp) {
-        if (i == n) {
-            temp.push_back(ans);
-            return;
-        };
-        ans.push_back(i);
-        f(i + 1, n, ans, temp);
-        ans.pop_back();
-        f(i + 1, n, ans, temp);
-        return;
-    }
-    void dfs(int node,vector<int>&it,unordered_set<int>&visited1,unordered_set<int>&visited2,vector<vector<int>>&adj){
+    void dfs(int u, vector<bool>& inSubset, vector<bool>& visited,
+             vector<vector<int>>& adj) {
 
-        visited2.insert(node);
-        
-        for(auto x:adj[node]){
-            if(visited1.find(x)!=visited1.end() and visited2.find(x)==visited2.end()){
-                dfs(x,it,visited1,visited2,adj);
+        visited[u] = true;
+
+        for (int v : adj[u]) {
+            if (inSubset[v] && !visited[v]) {
+                dfs(v, inSubset, visited, adj);
             }
         }
     }
+
+    void solve(int i, vector<int>& nums, vector<vector<int>>& adj,
+               vector<int>& curr, int& count) {
+
+        int n = nums.size();
+
+        if (i == n) {
+            if (curr.empty()) return;
+
+            // mark subset
+            vector<bool> inSubset(n, false);
+            int sum = 0;
+            for (int x : curr) {
+                inSubset[x] = true;
+                sum += nums[x];
+            }
+
+            // DFS
+            vector<bool> visited(n, false);
+            dfs(curr[0], inSubset, visited, adj);
+
+            // check connectivity
+            for (int x : curr) {
+                if (!visited[x]) return;
+            }
+
+            // check even sum
+            if (sum % 2 == 0) count++;
+
+            return;
+        }
+
+        // include
+        curr.push_back(i);
+        solve(i + 1, nums, adj, curr, count);
+        curr.pop_back();
+
+        // exclude
+        solve(i + 1, nums, adj, curr, count);
+    }
+
     int evenSumSubgraphs(vector<int>& nums, vector<vector<int>>& edges) {
         int n = nums.size();
-        vector<vector<int>> temp;
-        vector<int> ans;
-        f(0, n, ans, temp);
-        cout<<5<<endl;
-       
-         vector<vector<int>>adj(nums.size());
-         for(auto it:edges){
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
-         }
-        int count = 0;
-        for (auto it : temp) {
-            if(it.empty())continue;
-            unordered_set<int>visited1;
 
-            int sum=0;
-            for(auto k:it){
-                sum+=nums[k];
-                visited1.insert(k);
-            }
-            unordered_set<int>visited2;
-            dfs(it[0],it,visited1,visited2,adj);
-             if(visited1==visited2 and sum%2==0)count++;
-            
+        vector<vector<int>> adj(n);
+        for (auto &e : edges) {
+            adj[e[0]].push_back(e[1]);
+            adj[e[1]].push_back(e[0]);
         }
+
+        int count = 0;
+        vector<int> curr;
+
+        solve(0, nums, adj, curr, count);
+
         return count;
     }
 };
