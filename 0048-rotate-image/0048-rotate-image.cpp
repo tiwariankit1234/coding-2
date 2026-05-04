@@ -1,3 +1,6 @@
+// rotate 90 degree clockwise
+// means -90 degree anticlockwise
+// 180 degree rotate clockwise
 class Solution {
 public:
 vector<vector<int>> transpose(vector<vector<int>>& matrix) {
