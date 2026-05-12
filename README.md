@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tiwariankit1234/coding-2/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/tiwariankit1234/coding-2/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tiwariankit1234/coding-2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tiwariankit1234/coding-2/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tiwariankit1234/coding-2/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/tiwariankit1234/coding-2/tree/master/1694-make-sum-divisible-by-p) |
@@ -1371,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/tiwariankit1234/coding-2/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tiwariankit1234/coding-2/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tiwariankit1234/coding-2/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tiwariankit1234/coding-2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/tiwariankit1234/coding-2/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tiwariankit1234/coding-2/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1488,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tiwariankit1234/coding-2/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tiwariankit1234/coding-2/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tiwariankit1234/coding-2/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tiwariankit1234/coding-2/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tiwariankit1234/coding-2/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/tiwariankit1234/coding-2/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tiwariankit1234/coding-2/tree/master/1700-minimum-time-to-make-rope-colorful) |
