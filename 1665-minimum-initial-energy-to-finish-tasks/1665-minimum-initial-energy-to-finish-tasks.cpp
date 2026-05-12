@@ -14,9 +14,7 @@ bool possible(int mid,vector<vector<int>>& tasks){
 }
     int minimumEffort(vector<vector<int>>& tasks) {
         sort(tasks.begin(),tasks.end(),[](vector<int>&a,vector<int>&b){
-            if(a[1]-a[0]==b[1]-b[0]){
-                return a[1]<b[1]; 
-            }
+           
             return a[1]-a[0]>(b[1]-b[0]);
         });
         int  low=1,high=INT_MAX,ans=INT_MAX;
