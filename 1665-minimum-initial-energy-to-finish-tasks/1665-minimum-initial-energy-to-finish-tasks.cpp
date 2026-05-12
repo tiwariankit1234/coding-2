@@ -1,3 +1,6 @@
+//You could not iterate vector<vector<int>> by auto[x,y]
+//sorting by difference works becaues [1,1e5],[2,5] and you have 1e5 energy you would do first task not second task
+// after=before-actual before>=minimum after>=minimum-actual
 class Solution {
 public:
 bool possible(int mid,vector<vector<int>>& tasks){
