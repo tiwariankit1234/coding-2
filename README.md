@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tiwariankit1234/coding-2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2721-sum-of-distances](https://github.com/tiwariankit1234/coding-2/tree/master/2721-sum-of-distances) |
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
+| [2784-check-if-array-is-good](https://github.com/tiwariankit1234/coding-2/tree/master/2784-check-if-array-is-good) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/tiwariankit1234/coding-2/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/tiwariankit1234/coding-2/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2784-check-if-array-is-good](https://github.com/tiwariankit1234/coding-2/tree/master/2784-check-if-array-is-good) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/tiwariankit1234/coding-2/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/tiwariankit1234/coding-2/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tiwariankit1234/coding-2/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1404,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/tiwariankit1234/coding-2/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tiwariankit1234/coding-2/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2725-mice-and-cheese](https://github.com/tiwariankit1234/coding-2/tree/master/2725-mice-and-cheese) |
+| [2784-check-if-array-is-good](https://github.com/tiwariankit1234/coding-2/tree/master/2784-check-if-array-is-good) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/tiwariankit1234/coding-2/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tiwariankit1234/coding-2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/tiwariankit1234/coding-2/tree/master/2887-sort-vowels-in-a-string) |
