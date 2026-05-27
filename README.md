@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-minimum-seconds-to-equalize-a-circular-array](https://github.com/tiwariankit1234/coding-2/tree/master/2920-minimum-seconds-to-equalize-a-circular-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/tiwariankit1234/coding-2/tree/master/3034-points-that-intersect-with-cars) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/tiwariankit1234/coding-2/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tiwariankit1234/coding-2/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3227-find-missing-and-repeated-values](https://github.com/tiwariankit1234/coding-2/tree/master/3227-find-missing-and-repeated-values) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/tiwariankit1234/coding-2/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3033-apply-operations-to-make-two-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/3033-apply-operations-to-make-two-strings-equal) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/tiwariankit1234/coding-2/tree/master/3046-minimum-operations-to-make-a-special-number) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tiwariankit1234/coding-2/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/tiwariankit1234/coding-2/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
