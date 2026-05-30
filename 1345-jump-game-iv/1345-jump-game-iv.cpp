@@ -1,3 +1,9 @@
+//Since it is 5*10^4 only o(n)
+//256 MB is the limit
+//Since i+1,i-1 chhaiye toh adj list ki jarurat nahi hain
+// iterate karo through map for same indices
+// ek baar same wali indices me iterate kar liye toh firse iterate karne ki jarurat nahi use delete karo 
+//kyoun +1 ho chuka hain
 class Solution {
 public:
     int shortestDistance(int n, vector<vector<int>>& adj, int src, int dest,
@@ -17,7 +23,8 @@ public:
             if (node == dest)
                 return dist;
 
-            for (int nei : mp[nums[node]]) {
+//Ye wala part dikkat kar raha hain
+       for (int nei : mp[nums[node]]) {
 
                 if (!vis[nei]) {
                     vis[nei] = 1;
@@ -51,11 +58,7 @@ public:
         }
         unordered_map<int, vector<int>> mp;
         for (int i = 0; i < n; i++) {
-            if (mp.find(nums[i]) != mp.end()) {
-                mp[nums[i]].push_back(i);
-            } else if (mp.find(nums[i]) == mp.end()) {
-                mp[nums[i]].push_back(i);
-            }
+            mp[nums[i]].push_back(i);
         }
 
         int ans = n - 1;
