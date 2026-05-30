@@ -24,11 +24,13 @@ public:
                 return dist;
 
 //Ye wala part dikkat kar raha hain
-       for (int nei : mp[nums[node]]) {
+          int x=mp[nums[node]].size();
+          auto &temp=mp[nums[node]];
+       for (int nei=x-1;nei>=0;nei--) {
 
-                if (!vis[nei]) {
-                    vis[nei] = 1;
-                    q.push({nei, dist + 1});
+                if (!vis[temp[nei]]) {
+                    vis[temp[nei]] = 1;
+                    q.push({temp[nei], dist + 1});
                 }
             }
             mp[nums[node]].clear();
