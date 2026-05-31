@@ -1,5 +1,6 @@
 
-
+//vector<vector<array<int,2>>>for faster allocation since flag size is fixed so allocate in that way
+//
 class Solution {
 
 public:
@@ -35,7 +36,7 @@ public:
              count=max(count,1+temp[i].first+f(i,true,budget-temp[i].second,temp,dp));
 
         } 
-
+// Loop ko eliminate karne ke liye flag variable ko used kar sakte hain
         else if(flag==true and budget-temp[i].second>=0){
 
             count=max(count,1+f(i,true,budget-temp[i].second,temp,dp));
