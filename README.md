@@ -805,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tiwariankit1234/coding-2/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tiwariankit1234/coding-2/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tiwariankit1234/coding-2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/tiwariankit1234/coding-2/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tiwariankit1234/coding-2/tree/master/3643-flip-square-submatrix-vertically) |
@@ -1450,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/tiwariankit1234/coding-2/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/tiwariankit1234/coding-2/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/tiwariankit1234/coding-2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tiwariankit1234/coding-2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/tiwariankit1234/coding-2/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/tiwariankit1234/coding-2/tree/master/3748-sort-matrix-by-diagonals) |
 | [3779-eat-pizzas](https://github.com/tiwariankit1234/coding-2/tree/master/3779-eat-pizzas) |
@@ -1571,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/tiwariankit1234/coding-2/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/tiwariankit1234/coding-2/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/tiwariankit1234/coding-2/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tiwariankit1234/coding-2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3647-zero-array-transformation-iii](https://github.com/tiwariankit1234/coding-2/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tiwariankit1234/coding-2/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3779-eat-pizzas](https://github.com/tiwariankit1234/coding-2/tree/master/3779-eat-pizzas) |
@@ -1779,6 +1782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/tiwariankit1234/coding-2/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3195-separate-black-and-white-balls](https://github.com/tiwariankit1234/coding-2/tree/master/3195-separate-black-and-white-balls) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tiwariankit1234/coding-2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tiwariankit1234/coding-2/tree/master/3643-flip-square-submatrix-vertically) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
@@ -2080,6 +2084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/tiwariankit1234/coding-2/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3454-separate-squares-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tiwariankit1234/coding-2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-zero-array-transformation-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3643-zero-array-transformation-ii) |
 | [3750-closest-equal-element-queries](https://github.com/tiwariankit1234/coding-2/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3790-fruits-into-baskets-ii) |
