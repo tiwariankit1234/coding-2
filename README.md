@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/tiwariankit1234/coding-2/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/tiwariankit1234/coding-2/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/tiwariankit1234/coding-2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/tiwariankit1234/coding-2/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/tiwariankit1234/coding-2/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3838-weighted-word-mapping](https://github.com/tiwariankit1234/coding-2/tree/master/3838-weighted-word-mapping) |
 | [3858-minimum-bitwise-or-from-grid](https://github.com/tiwariankit1234/coding-2/tree/master/3858-minimum-bitwise-or-from-grid) |
 | [3862-find-the-smallest-balanced-index](https://github.com/tiwariankit1234/coding-2/tree/master/3862-find-the-smallest-balanced-index) |
 | [3863-power-grid-maintenance](https://github.com/tiwariankit1234/coding-2/tree/master/3863-power-grid-maintenance) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3703-remove-k-balanced-substrings](https://github.com/tiwariankit1234/coding-2/tree/master/3703-remove-k-balanced-substrings) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tiwariankit1234/coding-2/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/tiwariankit1234/coding-2/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/tiwariankit1234/coding-2/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
