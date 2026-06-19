@@ -1265,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/tiwariankit1234/coding-2/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/tiwariankit1234/coding-2/tree/master/1086-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tiwariankit1234/coding-2/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/tiwariankit1234/coding-2/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/tiwariankit1234/coding-2/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tiwariankit1234/coding-2/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/tiwariankit1234/coding-2/tree/master/1390-four-divisors) |
